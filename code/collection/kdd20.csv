@@ -1,0 +1,218 @@
+title,year,conf,conf_long
+A Block Decomposition Algorithm for Sparse Optimization,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A causal look at statistical definitions of discrimination,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Data Driven Graph Generative Model for Temporal Interaction Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Geometric Approach to Predicting Bounds of Downstream Model Performance,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Non-Iterative Quantile Change Detection Method in Mixture Model with Heavy-Tailed Components,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Novel Deep Learning Model by Stacking Conditional Restricted Boltzmann Machine and Deep Neural Network,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Adaptive Graph Encoder for Attributed Graph Embedding,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Adversarial Infidelity Learning for Model Interpretation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AdvMind: Inferring Adversary Intent of Black-Box Attacks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Algorithmic Aspects of Temporal Betweenness,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Algorithmic Decision Making with Conditional Fairness,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Aligning Superhuman AI with Human Behavior: Chess as a Model System,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AM-GCN: Adaptive Multi-channel Graph Convolutional Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ASGN: An Active Semi-supervised  Graph Neural Network for Molecular Property Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Attackability Characterization of Adversarial Evasion Attack on Discrete Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Attention and Memory-Augmented Networks for Dual-View Sequential Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AutoGrow: Automatic Layer Growing in Deep Convolutional Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AutoShuffleNet: Learning Permutation Matrices via an Exact Lipschitz Continuous Penalty in Deep Convolutional Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Average Sensitivity of Spectral Clustering,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Block Model Guided Unsupervised Feature Selection,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Catalysis Clustering With GAN By Incorporating Domain Knowledge,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+CICLAD: A Fast and Memory-efficient Closed Itemset Miner for Streams,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Combinatorial Black-Box Optimization with Expert Advice,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Competitive Analysis for Points of Interest,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Connecting the Dots:  Multivariate Time Series Forecasting with Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Context-to-Session Matching: Utilizing Whole Session for Response Selection in Information-Seeking Dialogue Systems,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Correlation Networks for Extreme Multi-label Text Classification,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Learning of High-Order Interactions for Protein Interface Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep State-Space Generative Model For Correlated Time-to-Event Predictions,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DeepLine: AutoML Tool for Pipelines Generation using Deep Reinforcement Learning and Hierarchical Actions Filtering,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DeepSinger: Singing Voice Synthesis with Data Mined From the Web,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Directional Multivariate Ranking,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Discovering Approximate Functional Dependencies using Smoothed Mutual Information,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Discovering Functional Dependencies from Mixed-Type Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Disentangled Self-Supervision in Sequential Recommenders,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Diverse Rule Sets,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dual Channel Hypergraph Collaborative Filtering,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dynamic Knowledge Graph based Multi-Event Forecasting,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient Algorithm for the b-Matching Graph,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Enterprise Cooperation and Competition Analysis with Sign-Oriented Preference Network,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Estimating Properties of Social Networks via Random Walk considering Private Nodes,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Estimating the Percolation Centrality of Large Networks through Pseudo-dimension Theory,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Evaluating Conversational Recommender Systems via User Simulation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Evaluating Fairness using Permutation Tests,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Finding Effective Geo-social Group for Impromptu Activities with Diverse Demands,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+From Online to Non-i.i.d. Batch Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Generic Outlier Detection in Multi-Armed Bandit,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Geodesic Forests,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Geography-Aware Sequential Location Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+GHashing: Semantic Graph Hashing for Approximate Similarity Search in Graph Databases,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+GPT-GNN: Generative Pre-Training of Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Grammatically Recognizing Images with Tree Convolution,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Attention Networks over Edge  Content-Based Channels,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Structural-topic Neural Network,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Structure Learning for Robust Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Handling Information Loss of Graph Neural Networks for Session-based Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Heidegger: Interpretable Temporal Causal Discovery,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hierarchical Attention Propagation for Healthcare Representation Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Higher-order Clustering in Complex Heterogeneous Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HOPS: Probabilistic Subtree Mining for Small and Large Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"How to count triangles, without seeing the whole graph",2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hyperbolic Distance Matrices,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hypergraph Clustering Based on PageRank,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Identifying Sepsis Subphenotypes via Time-Aware Multi-Modal Auto-Encoder,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Imputing Various Incomplete Attributes via Distance Likelihood Maximization,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Incremental Lossless Graph Summarization,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Incremental Mobile User Profiling:  Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+InFoRM: Individual Fairness on Graph Mining,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interactive Path Reasoning on Graph for Conversational Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interpretable Deep Graph Generation with Node-edge Co-disentanglement,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Isolation Distributional Kernel: A new tool for kernel based anomaly detection,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Joint Policy-Value Learning for Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Kernel Assisted Learning for Personalized Dose Finding,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Kronecker Attention Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Laplacian Change Point Detection for Dynamic Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+LayoutLM: Pre-training of Text and Layout for Document Image Understanding,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Based Distributed Tracking,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Effective Road Network Representation with Hierarchical Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Opinion Dynamics From Social Traces,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Stable Graphs from Heterogeneous Confounded Environments,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Leveraging Model Inherent Variable Importance for Stable Online Feature Selection,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+List-wise Fairness Criterion for Point Processes,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Local Community Detection in Multiple Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Local Motif Clustering on Time-Evolving Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+LogPar: Logistic PARAFAC2 Factorization for Temporal Binary Data with Missing Values,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Malicious Attacks against Deep Reinforcement Learning Interpretations,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MCRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Measuring Model Complexity of Neural Networks with Curve Activation Functions,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Minimizing Localized Ratio Cut Objectives in Hypergraphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Mining large quasi-cliques with quality guarantees from vertex neighborhoods,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Mining Persistent Activity in Continually Evolving Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Missing Value Imputation for Mixed Data via Gaussian Copula,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MoFlow: An Invertible Flow Model for Generating Molecular Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-class Data Description for Out-of-distribution Detection,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multimodal Learning with Incomplete Modalities by Knowledge Distillation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+NetTrans: Neural Cross-Network Transformation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Neural Dynamics on Complex Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Neural Subgraph Isomorphism Counting,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+NodeAug: Semi-Supervised Node Classification with Data Augmentation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Non-Linear Mining of Social Activities in Tensor Streams,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Off-policy Bandits with Deficient Support,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+On Sampled Metrics for Item Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+On Sampling Top-K Recommendation Evaluation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Parallel DNN Inference Framework Leveraging a Compact RISC-V ISA-based Multi-core System,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Personalized PageRank to a Target Node, Revisited",2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PolicyGNN: Aggregation Optimization for Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Predicting Temporal Sets with Deep Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Prediction and Profiling of Audience Competition for Online Television Series,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Prioritized Restreaming Algorithms for Balanced Graph Partitioning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+RayS: A Ray Searching Method for Hard-label Adversarial Attack,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Re-identification Attack to Privacy-Preserving Data Analysis with Noisy Sample-Mean,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Reciptor: An Effective Pretrained Model for Recipe Representation Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Recurrent Halting Chain for Early Multi-label Classification,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Recurrent Networks for Guided Multi-Attention Classification,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Redundancy-Free Computation for Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Representing Temporal Attributes for Schema Matching,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Residual Correlation in Graph Neural Network Regression,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Rethinking Pruning for Accelerating Deep Inference At the Edge,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Rich Information is Affordable: A Systematic Performance Analysis of Second-order Optimization Using K-FAC,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Robust Spammer Detection by Nash Reinforcement Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Scaling choice models of relational social data,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SCE: Scalable Newtork Embedding from Sparsest Cut,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Semantic Search in Millions of Equations,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Semi-supervised Collaborative Filtering by Text-enhanced Domain Adaptation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Spectrum-Guided Adversarial Disparity Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SSumM: Sparse Summarization of Massive Graphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Stable Learning via Differentiated Variable Decorrelation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Statistically Significant Pattern Mining with Ordinal Utility,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+STEAM: Self-Supervised Taxonomy Expansion via Path-Based Multi-View Co-Training,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Structural Patterns and Generative Models of Real-world Hypergraphs,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TAdaNet: Task-Adaptive Network for Graph-Enriched Meta-Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Targeted Data-driven Regularization for Out-of-Distribution Generalization,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+The NodeHopper: Enabling low latency ranking with constraints via a fast dual solver,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+The Spectral Zoo of Networks: Embedding and Visualizing Networks with Spectral Moments,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Tight Sensitivity Bounds For Smaller Coresets,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TinyGNN: Learning Efficient Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Automated Neural Interaction Discovering for Click-Through Rate Prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Deeper Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Fair Truth Discovery from Biased Crowdsourced Answers,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards physics-informed deep learning for turbulent flow prediction,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TranSlider: Transfer Ensemble Learning from Exploitation to Exploration,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Treatment Policy Learning in Multiobjective Settings with Fully Observed Outcomes,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Truth Discovery against Strategic Sybil Attack in Crowdsourcing,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Understanding Negative Sampling in Graph Representation Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Unsupervised Differentiable Multi-aspect Network Embedding,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Unsupervised Paraphrasing via Deep Reinforcement Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Vamsa: Automated Provenance Tracking in Data Science Scripts,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Voronoi Graph Traversal in High Dimensions with Applications to Topological Data Analysis and Piecewise Linear Interpolation,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+WeightGrad: Geo-Distributed Data Analysis Using Quantization for Faster Convergence and Better Accuracy,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+XGNN: Towards Model-Level Explanations of Graph Neural Networks,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Z-Miner: an efficient method for mining frequent arrangements of event intervals,2020,KDD,Special Interest Group on Knowledge Discovery and Data Mining
