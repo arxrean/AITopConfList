@@ -1,0 +1,428 @@
+title,year,conf,conf_long
+Knowledge Diffusion for Neural Dialogue Generation,2018,ACL,the Association for Computational Linguistics
+Neural Factor Graph Models for Cross-lingual Morphological Tagging,2018,ACL,the Association for Computational Linguistics
+Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures,2018,ACL,the Association for Computational Linguistics
+Gaussian Mixture Latent Vector Grammars,2018,ACL,the Association for Computational Linguistics
+Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples,2018,ACL,the Association for Computational Linguistics
+"Event2Mind: Commonsense Inference on Events, Intents, and Reactions",2018,ACL,the Association for Computational Linguistics
+A Helping Hand: Transfer Learning for Deep Sentiment Analysis,2018,ACL,the Association for Computational Linguistics
+NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing,2018,ACL,the Association for Computational Linguistics
+Exemplar Encoder-Decoder for Neural Conversation Generation,2018,ACL,the Association for Computational Linguistics
+Neural Models for Documents with Metadata,2018,ACL,the Association for Computational Linguistics
+Improving Entity Linking by Modeling Latent Relations between Mentions,2018,ACL,the Association for Computational Linguistics
+Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures,2018,ACL,the Association for Computational Linguistics
+Cross-Domain Sentiment Classification with Target Domain Specific Information,2018,ACL,the Association for Computational Linguistics
+Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game,2018,ACL,the Association for Computational Linguistics
+The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing,2018,ACL,the Association for Computational Linguistics
+Strong Baselines for Neural Semi-Supervised Learning under Domain Shift,2018,ACL,the Association for Computational Linguistics
+NeuralREG: An end-to-end approach to referring expression generation,2018,ACL,the Association for Computational Linguistics
+Subword-level Word Vector Representations for Korean,2018,ACL,the Association for Computational Linguistics
+Visual Attention Model for Name Tagging in Multimodal Social Media,2018,ACL,the Association for Computational Linguistics
+"LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better",2018,ACL,the Association for Computational Linguistics
+A Graph-to-Sequence Model for AMR-to-Text Generation,2018,ACL,the Association for Computational Linguistics
+Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Backpropagating through Structured Argmax using a SPIGOT,2018,ACL,the Association for Computational Linguistics
+A Stylometric Inquiry into Hyperpartisan and Fake News,2018,ACL,the Association for Computational Linguistics
+Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers,2018,ACL,the Association for Computational Linguistics
+What you can cram into a single \$\&!#* vector: Probing sentence embeddings for linguistic properties,2018,ACL,the Association for Computational Linguistics
+Language Generation via DAG Transduction,2018,ACL,the Association for Computational Linguistics
+Building Language Models for Text with Named Entities,2018,ACL,the Association for Computational Linguistics
+Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning,2018,ACL,the Association for Computational Linguistics
+To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness,2018,ACL,the Association for Computational Linguistics
+Straight to the Tree: Constituency Parsing with Neural Syntactic Distance,2018,ACL,the Association for Computational Linguistics
+Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning,2018,ACL,the Association for Computational Linguistics
+Rumor Detection on Twitter with Tree-structured Recursive Neural Networks,2018,ACL,the Association for Computational Linguistics
+Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures,2018,ACL,the Association for Computational Linguistics
+Aspect Based Sentiment Analysis with Gated Convolutional Networks,2018,ACL,the Association for Computational Linguistics
+Modeling Deliberative Argumentation Strategies on Wikipedia,2018,ACL,the Association for Computational Linguistics
+Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings,2018,ACL,the Association for Computational Linguistics
+Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search,2018,ACL,the Association for Computational Linguistics
+Universal Language Model Fine-tuning for Text Classification,2018,ACL,the Association for Computational Linguistics
+A Structured Variational Autoencoder for Contextual Morphological Inflection,2018,ACL,the Association for Computational Linguistics
+Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module,2018,ACL,the Association for Computational Linguistics
+Sentiment Adaptive End-to-End Dialog Systems,2018,ACL,the Association for Computational Linguistics
+On the Limitations of Unsupervised Bilingual Dictionary Induction,2018,ACL,the Association for Computational Linguistics
+A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text,2018,ACL,the Association for Computational Linguistics
+What Action Causes This? Towards Naive Physical Action-Effect Prediction,2018,ACL,the Association for Computational Linguistics
+"Personalizing Dialogue Agents: I have a dog, do you have pets too?",2018,ACL,the Association for Computational Linguistics
+Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks,2018,ACL,the Association for Computational Linguistics
+A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss,2018,ACL,the Association for Computational Linguistics
+Graph-to-Sequence Learning using Gated Graph Neural Networks,2018,ACL,the Association for Computational Linguistics
+Incorporating Glosses into Neural Word Sense Disambiguation,2018,ACL,the Association for Computational Linguistics
+Deep Reinforcement Learning for Chinese Zero Pronoun Resolution,2018,ACL,the Association for Computational Linguistics
+Dating Documents using Graph Convolution Networks,2018,ACL,the Association for Computational Linguistics
+Question Condensing Networks for Answer Selection in Community Question Answering,2018,ACL,the Association for Computational Linguistics
+AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples,2018,ACL,the Association for Computational Linguistics
+Discourse Representation Structure Parsing,2018,ACL,the Association for Computational Linguistics
+Retrieval of the Best Counterargument without Prior Topic Knowledge,2018,ACL,the Association for Computational Linguistics
+Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis,2018,ACL,the Association for Computational Linguistics
+Sequence-to-sequence Models for Cache Transition Systems,2018,ACL,the Association for Computational Linguistics
+Improving Text-to-SQL Evaluation Methodology,2018,ACL,the Association for Computational Linguistics
+"Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization",2018,ACL,the Association for Computational Linguistics
+Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data,2018,ACL,the Association for Computational Linguistics
+A Purely End-to-End System for Multi-speaker Speech Recognition,2018,ACL,the Association for Computational Linguistics
+Fluency Boost Learning and Inference for Neural Grammatical Error Correction,2018,ACL,the Association for Computational Linguistics
+Chinese NER Using Lattice LSTM,2018,ACL,the Association for Computational Linguistics
+Efficient Low-rank Multimodal Fusion With Modality-Specific Factors,2018,ACL,the Association for Computational Linguistics
+A Stochastic Decoder for Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+"Deep-speare: A joint neural model of poetic language, meter and rhyme",2018,ACL,the Association for Computational Linguistics
+Sentence-State LSTM for Text Representation,2018,ACL,the Association for Computational Linguistics
+Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network,2018,ACL,the Association for Computational Linguistics
+Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder,2018,ACL,the Association for Computational Linguistics
+Constituency Parsing with a Self-Attentive Encoder,2018,ACL,the Association for Computational Linguistics
+Think Visually: Question Answering through Virtual Imagery,2018,ACL,the Association for Computational Linguistics
+Towards Robust Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Distilling Knowledge for Search-based Structured Prediction,2018,ACL,the Association for Computational Linguistics
+Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting,2018,ACL,the Association for Computational Linguistics
+Accurate SHRG-Based Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+Triangular Architecture for Rare Language Translation,2018,ACL,the Association for Computational Linguistics
+Word Embedding and WordNet Based Metaphor Identification and Interpretation,2018,ACL,the Association for Computational Linguistics
+Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach,2018,ACL,the Association for Computational Linguistics
+Stock Movement Prediction from Tweets and Historical Prices,2018,ACL,the Association for Computational Linguistics
+The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Neural Document Summarization by Jointly Learning to Score and Select Sentences,2018,ACL,the Association for Computational Linguistics
+Probabilistic FastText for Multi-Sense Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Ultra-Fine Entity Typing,2018,ACL,the Association for Computational Linguistics
+Incorporating Chinese Characters of Words for Lexical Sememe Prediction,2018,ACL,the Association for Computational Linguistics
+Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour,2018,ACL,the Association for Computational Linguistics
+Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,2018,ACL,the Association for Computational Linguistics
+Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification,2018,ACL,the Association for Computational Linguistics
+Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation,2018,ACL,the Association for Computational Linguistics
+Supervised Treebank Conversion: Data and Approaches,2018,ACL,the Association for Computational Linguistics
+Context-Aware Neural Model for Temporal Information Extraction,2018,ACL,the Association for Computational Linguistics
+Style Transfer Through Back-Translation,2018,ACL,the Association for Computational Linguistics
+Prefix Lexicalization of Synchronous CFGs using Synchronous TAG,2018,ACL,the Association for Computational Linguistics
+Zero-shot Learning of Classifiers from Natural Language Quantification,2018,ACL,the Association for Computational Linguistics
+No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling,2018,ACL,the Association for Computational Linguistics
+Learning How to Actively Learn: A Deep Imitation Learning Approach,2018,ACL,the Association for Computational Linguistics
+Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph,2018,ACL,the Association for Computational Linguistics
+Discourse Coherence: Concurrent Explicit and Implicit Relations,2018,ACL,the Association for Computational Linguistics
+Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement,2018,ACL,the Association for Computational Linguistics
+Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data,2018,ACL,the Association for Computational Linguistics
+Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation,2018,ACL,the Association for Computational Linguistics
+A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings,2018,ACL,the Association for Computational Linguistics
+A Framework for Representing Language Acquisition in a Population Setting,2018,ACL,the Association for Computational Linguistics
+Hierarchical Neural Story Generation,2018,ACL,the Association for Computational Linguistics
+Automatic Metric Validation for Grammatical Error Correction,2018,ACL,the Association for Computational Linguistics
+Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds,2018,ACL,the Association for Computational Linguistics
+LinkNBed: Multi-Graph Representation Learning with Entity Linkage,2018,ACL,the Association for Computational Linguistics
+Adversarial Contrastive Estimation,2018,ACL,the Association for Computational Linguistics
+Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders,2018,ACL,the Association for Computational Linguistics
+Are BLEU and Meaning Representation in Opposition?,2018,ACL,the Association for Computational Linguistics
+Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking,2018,ACL,the Association for Computational Linguistics
+Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning,2018,ACL,the Association for Computational Linguistics
+"Constraining MGbank: Agreement, L-Selection and Supertagging in Minimalist Grammars",2018,ACL,the Association for Computational Linguistics
+Confidence Modeling for Neural Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+Give Me More Feedback: Annotating Argument Persuasiveness and Related Attributes in Student Essays,2018,ACL,the Association for Computational Linguistics
+Tailored Sequence to Sequence Models to Different Conversation Scenarios,2018,ACL,the Association for Computational Linguistics
+Efficient and Robust Question Answering from Minimal Context over Documents,2018,ACL,the Association for Computational Linguistics
+Document Similarity for Texts of Varying Lengths via Hidden Topics,2018,ACL,the Association for Computational Linguistics
+Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+Adaptive Scaling for Sparse Detection in Information Extraction,2018,ACL,the Association for Computational Linguistics
+A Deep Relevance Model for Zero-Shot Document Filtering,2018,ACL,the Association for Computational Linguistics
+Neural Sparse Topical Coding,2018,ACL,the Association for Computational Linguistics
+Object-oriented Neural Programming (OONP) for Document Understanding,2018,ACL,the Association for Computational Linguistics
+Towards Understanding the Geometry of Knowledge Graph Embeddings,2018,ACL,the Association for Computational Linguistics
+Semi-supervised User Geolocation via Graph Convolutional Networks,2018,ACL,the Association for Computational Linguistics
+hyperdoc2vec: Distributed Representations of Hypertext Documents,2018,ACL,the Association for Computational Linguistics
+Coarse-to-Fine Decoding for Neural Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+Efficient Online Scalar Annotation with Bounded Support,2018,ACL,the Association for Computational Linguistics
+Conversations Gone Awry: Detecting Early Signs of Conversational Failure,2018,ACL,the Association for Computational Linguistics
+Unsupervised Neural Machine Translation with Weight Sharing,2018,ACL,the Association for Computational Linguistics
+Modeling and Prediction of Online Product Review Helpfulness: A Survey,2018,ACL,the Association for Computational Linguistics
+Pre- and In-Parsing Models for Neural Empty Category Detection,2018,ACL,the Association for Computational Linguistics
+Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach,2018,ACL,the Association for Computational Linguistics
+"Syntax for Semantic Role Labeling, To Be, Or Not To Be",2018,ACL,the Association for Computational Linguistics
+Stack-Pointer Networks for Dependency Parsing,2018,ACL,the Association for Computational Linguistics
+Simple and Effective Multi-Paragraph Reading Comprehension,2018,ACL,the Association for Computational Linguistics
+Mining Cross-Cultural Differences and Similarities in Social Media,2018,ACL,the Association for Computational Linguistics
+From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction,2018,ACL,the Association for Computational Linguistics
+Temporal Event Knowledge Acquisition via Identifying Narratives,2018,ACL,the Association for Computational Linguistics
+Simple and Effective Text Simplification Using Semantic and Neural Methods,2018,ACL,the Association for Computational Linguistics
+ParaNMT-50M: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations,2018,ACL,the Association for Computational Linguistics
+Neural Argument Generation Augmented with Externally Retrieved Evidence,2018,ACL,the Association for Computational Linguistics
+Target-Sensitive Memory Networks for Aspect Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Discovering Implicit Knowledge with Unary Relations,2018,ACL,the Association for Computational Linguistics
+Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms,2018,ACL,the Association for Computational Linguistics
+Token-level and sequence-level loss smoothing for RNN language models,2018,ACL,the Association for Computational Linguistics
+Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension,2018,ACL,the Association for Computational Linguistics
+Generating Fine-Grained Open Vocabulary Entity Type Descriptions,2018,ACL,the Association for Computational Linguistics
+Semantically Equivalent Adversarial Rules for Debugging NLP models,2018,ACL,the Association for Computational Linguistics
+Joint Reasoning for Temporal and Causal Relations,2018,ACL,the Association for Computational Linguistics
+Denoising Distantly Supervised Open-Domain Question Answering,2018,ACL,the Association for Computational Linguistics
+Composing Finite State Transducers on GPUs,2018,ACL,the Association for Computational Linguistics
+Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates,2018,ACL,the Association for Computational Linguistics
+A Neural Approach to Pun Generation,2018,ACL,the Association for Computational Linguistics
+Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization,2018,ACL,the Association for Computational Linguistics
+Textual Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis,2018,ACL,the Association for Computational Linguistics
+Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning,2018,ACL,the Association for Computational Linguistics
+Which Melbourne? Augmenting Geocoding with Maps,2018,ACL,the Association for Computational Linguistics
+Transformation Networks for Target-Oriented Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge,2018,ACL,the Association for Computational Linguistics
+Learning to Control the Specificity in Neural Response Generation,2018,ACL,the Association for Computational Linguistics
+A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling,2018,ACL,the Association for Computational Linguistics
+AMR dependency parsing with a typed semantic algebra,2018,ACL,the Association for Computational Linguistics
+Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages,2018,ACL,the Association for Computational Linguistics
+Learning to Write with Cooperative Discriminators,2018,ACL,the Association for Computational Linguistics
+Guess Me if You Can: Acronym Disambiguation for Enterprises,2018,ACL,the Association for Computational Linguistics
+A Neural Architecture for Automated ICD Coding,2018,ACL,the Association for Computational Linguistics
+Cold-Start Aware User and Product Attention for Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism,2018,ACL,the Association for Computational Linguistics
+Unsupervised Learning of Distributional Relation Vectors,2018,ACL,the Association for Computational Linguistics
+MojiTalk: Generating Emotional Responses at Scale,2018,ACL,the Association for Computational Linguistics
+Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable,2018,ACL,the Association for Computational Linguistics
+A Multi-Axis Annotation Scheme for Event Temporal Relations,2018,ACL,the Association for Computational Linguistics
+Nugget Proposal Networks for Chinese Event Detection,2018,ACL,the Association for Computational Linguistics
+End-to-End Reinforcement Learning for Automatic Taxonomy Induction,2018,ACL,the Association for Computational Linguistics
+Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation,2018,ACL,the Association for Computational Linguistics
+Twitter Universal Dependency Parsing for African-American and Mainstream American English,2018,ACL,the Association for Computational Linguistics
+Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power,2018,ACL,the Association for Computational Linguistics
+Weakly Supervised Semantic Parsing with Abstract Examples,2018,ACL,the Association for Computational Linguistics
+Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering,2018,ACL,the Association for Computational Linguistics
+Context-Aware Neural Machine Translation Learns Anaphora Resolution,2018,ACL,the Association for Computational Linguistics
+Multi-Input Attention for Unsupervised OCR Correction,2018,ACL,the Association for Computational Linguistics
+Forest-Based Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Domain Adaptation with Adversarial Training and Graph Embeddings,2018,ACL,the Association for Computational Linguistics
+SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment,2018,ACL,the Association for Computational Linguistics
+Generating Informative Responses with Controlled Sentence Function,2018,ACL,the Association for Computational Linguistics
+Training Classifiers with Natural Language Explanations,2018,ACL,the Association for Computational Linguistics
+Did the Model Understand the Question?,2018,ACL,the Association for Computational Linguistics
+StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+On the Automatic Generation of Medical Imaging Reports,2018,ACL,the Association for Computational Linguistics
+Character-Level Models versus Morphology in Semantic Role Labeling,2018,ACL,the Association for Computational Linguistics
+Embedding Learning Through Multilingual Concept Induction,2018,ACL,the Association for Computational Linguistics
+TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring,2018,ACL,the Association for Computational Linguistics
+AMR Parsing as Graph Prediction with Latent Alignment,2018,ACL,the Association for Computational Linguistics
+Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems,2018,ACL,the Association for Computational Linguistics
+Neural Natural Language Inference Models Enhanced with External Knowledge,2018,ACL,the Association for Computational Linguistics
+Document Context Neural Machine Translation with Memory Networks,2018,ACL,the Association for Computational Linguistics
+Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information,2018,ACL,the Association for Computational Linguistics
+DialSQL: Dialogue Based Structured Query Generation,2018,ACL,the Association for Computational Linguistics
+Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference,2018,ACL,the Association for Computational Linguistics
+Global-Locally Self-Attentive Encoder for Dialogue State Tracking,2018,ACL,the Association for Computational Linguistics
+Disconnected Recurrent Neural Networks for Text Categorization,2018,ACL,the Association for Computational Linguistics
+How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures,2018,ACL,the Association for Computational Linguistics
+Modeling Naive Psychology of Characters in Simple Commonsense Stories,2018,ACL,the Association for Computational Linguistics
+Zero-Shot Transfer Learning for Event Extraction,2018,ACL,the Association for Computational Linguistics
+Semantic Parsing with Syntax- and Table-Aware SQL Generation,2018,ACL,the Association for Computational Linguistics
+Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation,2018,ACL,the Association for Computational Linguistics
+Joint Embedding of Words and Labels for Text Classification,2018,ACL,the Association for Computational Linguistics
+DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension,2018,ACL,the Association for Computational Linguistics
+Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection,2018,ACL,the Association for Computational Linguistics
+Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations,2018,ACL,the Association for Computational Linguistics
+Batch IS NOT Heavy: Learning Word Representations From All Samples,2018,ACL,the Association for Computational Linguistics
+"Bridging CNNs, RNNs, and Weighted Finite-State Machines",2018,ACL,the Association for Computational Linguistics
+Large-Scale QA-SRL Parsing,2018,ACL,the Association for Computational Linguistics
+Accelerating Neural Transformer via an Average Attention Network,2018,ACL,the Association for Computational Linguistics
+Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding,2018,ACL,the Association for Computational Linguistics
+Stochastic Answer Networks for Machine Reading Comprehension,2018,ACL,the Association for Computational Linguistics
+Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction,2018,ACL,the Association for Computational Linguistics
+"Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words",2018,ACL,the Association for Computational Linguistics
+Using Intermediate Representations to Solve Math Word Problems,2018,ACL,the Association for Computational Linguistics
+A Distributional and Orthographic Aggregation Model for English Derivational Morphology,2018,ACL,the Association for Computational Linguistics
+Explicit Retrofitting of Distributional Word Vectors,2018,ACL,the Association for Computational Linguistics
+Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment,2018,ACL,the Association for Computational Linguistics
+A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors,2018,ACL,the Association for Computational Linguistics
+Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings,2018,ACL,the Association for Computational Linguistics
+"Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context",2018,ACL,the Association for Computational Linguistics
+Global Transition-based Non-projective Dependency Parsing,2018,ACL,the Association for Computational Linguistics
+Harvesting Paragraph-level Question-Answer Pairs from Wikipedia,2018,ACL,the Association for Computational Linguistics
+Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval,2018,ACL,the Association for Computational Linguistics
+Learning Prototypical Goal Activities for Locations,2018,ACL,the Association for Computational Linguistics
+Let's do it ``again'': A First Computational Approach to Detecting Adverbial Presupposition Triggers,2018,ACL,the Association for Computational Linguistics
+The price of debiasing automatic metrics in natural language evalaution,2018,ACL,the Association for Computational Linguistics
+Inherent Biases in Reference-based Evaluation for Grammatical Error Correction,2018,ACL,the Association for Computational Linguistics
+Learning Domain-Sensitive and Sentiment-Aware Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Document Modeling with External Attention for Sentence Extraction,2018,ACL,the Association for Computational Linguistics
+Efficient Large-Scale Neural Domain Classification with Personalized Attention,2018,ACL,the Association for Computational Linguistics
+"TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation",2018,ACL,the Association for Computational Linguistics
+Improving Knowledge Graph Embedding Using Simple Constraints,2018,ACL,the Association for Computational Linguistics
+An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking,2018,ACL,the Association for Computational Linguistics
+Finding syntax in human encephalography with beam search,2018,ACL,the Association for Computational Linguistics
+GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data,2018,ACL,the Association for Computational Linguistics
+Bridging Languages through Images with Deep Partial Canonical Correlation Analysis,2018,ACL,the Association for Computational Linguistics
+Learning Translations via Images with a Massively Multilingual Image Dataset,2018,ACL,the Association for Computational Linguistics
+"A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature",2018,ACL,the Association for Computational Linguistics
+Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback,2018,ACL,the Association for Computational Linguistics
+Multimodal Named Entity Disambiguation for Noisy Social Media Posts,2018,ACL,the Association for Computational Linguistics
+Multitask Parsing Across Semantic Representations,2018,ACL,the Association for Computational Linguistics
+DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction,2018,ACL,the Association for Computational Linguistics
+Reasoning with Sarcasm by Reading In-Between,2018,ACL,the Association for Computational Linguistics
+Classification of Moral Foundations in Microblog Political Discourse,2018,ACL,the Association for Computational Linguistics
+Taylor's law for Human Linguistic Sequences,2018,ACL,the Association for Computational Linguistics
+Comprehensive Supersense Disambiguation of English Prepositions and Possessives,2018,ACL,the Association for Computational Linguistics
+Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP,2018,ACL,the Association for Computational Linguistics
+"Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning",2018,ACL,the Association for Computational Linguistics
+Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering,2018,ACL,the Association for Computational Linguistics
+Automatic Estimation of Simultaneous Interpreter Performance,2018,ACL,the Association for Computational Linguistics
+Analogical Reasoning on Chinese Morphological and Semantic Relations,2018,ACL,the Association for Computational Linguistics
+Sense-Aware Neural Models for Pun Location in Texts,2018,ACL,the Association for Computational Linguistics
+Automatic Article Commenting: the Task and Dataset,2018,ACL,the Association for Computational Linguistics
+Modeling Sentiment Association in Discourse for Humor Recognition,2018,ACL,the Association for Computational Linguistics
+Scoring Lexical Entailment with a Supervised Directional Similarity Network,2018,ACL,the Association for Computational Linguistics
+Split and Rephrase: Better Evaluation and Stronger Baselines,2018,ACL,the Association for Computational Linguistics
+Towards Robust and Privacy-preserving Text Representations,2018,ACL,the Association for Computational Linguistics
+A Co-Matching Model for Multi-choice Reading Comprehension,2018,ACL,the Association for Computational Linguistics
+Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer,2018,ACL,the Association for Computational Linguistics
+Bleaching Text: Abstract Features for Cross-lingual Gender Prediction,2018,ACL,the Association for Computational Linguistics
+Linear-time Constituency Parsing with RNNs and Dynamic Programming,2018,ACL,the Association for Computational Linguistics
+Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Using pseudo-senses for improving the extraction of synonyms from word embeddings,2018,ACL,the Association for Computational Linguistics
+A Language Model based Evaluator for Sentence Compression,2018,ACL,the Association for Computational Linguistics
+Learning Thematic Similarity Metric from Article Sections Using Triplet Networks,2018,ACL,the Association for Computational Linguistics
+A Rank-Based Similarity Metric for Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Modeling discourse cohesion for discourse parsing via memory network,2018,ACL,the Association for Computational Linguistics
+Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision,2018,ACL,the Association for Computational Linguistics
+Do Neural Network Cross-Modal Mappings Really Bridge Modalities?,2018,ACL,the Association for Computational Linguistics
+Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing,2018,ACL,the Association for Computational Linguistics
+Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection,2018,ACL,the Association for Computational Linguistics
+Simplified Abugidas,2018,ACL,the Association for Computational Linguistics
+"Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction",2018,ACL,the Association for Computational Linguistics
+Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce,2018,ACL,the Association for Computational Linguistics
+Polyglot Semantic Role Labeling,2018,ACL,the Association for Computational Linguistics
+Obligation and Prohibition Extraction Using Hierarchical RNNs,2018,ACL,the Association for Computational Linguistics
+Automatic Extraction of Commonsense LocatedNear Knowledge,2018,ACL,the Association for Computational Linguistics
+Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers,2018,ACL,the Association for Computational Linguistics
+Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing,2018,ACL,the Association for Computational Linguistics
+Characterizing Departures from Linearity in Word Translation,2018,ACL,the Association for Computational Linguistics
+Simpler but More Accurate Semantic Dependency Parsing,2018,ACL,the Association for Computational Linguistics
+Unsupervised Semantic Frame Induction using Triclustering,2018,ACL,the Association for Computational Linguistics
+A Named Entity Recognition Shootout for German,2018,ACL,the Association for Computational Linguistics
+Learning Simplifications for Specific Target Audiences,2018,ACL,the Association for Computational Linguistics
+Paper Abstract Writing through Editing Mechanism,2018,ACL,the Association for Computational Linguistics
+A dataset for identifying actionable feedback in collaborative software development,2018,ACL,the Association for Computational Linguistics
+Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction,2018,ACL,the Association for Computational Linguistics
+Task-oriented Dialogue System for Automatic Diagnosis,2018,ACL,the Association for Computational Linguistics
+Dynamic and Static Topic Model for Analyzing Time-Series Document Collections,2018,ACL,the Association for Computational Linguistics
+Conditional Generators of Words Definitions,2018,ACL,the Association for Computational Linguistics
+Diachronic degradation of language models: Insights from social media,2018,ACL,the Association for Computational Linguistics
+Active learning for deep semantic parsing,2018,ACL,the Association for Computational Linguistics
+Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction,2018,ACL,the Association for Computational Linguistics
+Generalized chart constraints for efficient PCFG and TAG parsing,2018,ACL,the Association for Computational Linguistics
+Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention,2018,ACL,the Association for Computational Linguistics
+Global Encoding for Abstractive Summarization,2018,ACL,the Association for Computational Linguistics
+Hybrid semi-Markov CRF for Neural Sequence Labeling,2018,ACL,the Association for Computational Linguistics
+Improved Evaluation Framework for Complex Plagiarism Detection,2018,ACL,the Association for Computational Linguistics
+Sparse and Constrained Attention for Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Domain Adapted Word Embeddings for Improved Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+SciDTB: Discourse Dependency TreeBank for Scientific Abstracts,2018,ACL,the Association for Computational Linguistics
+The Influence of Context on Sentence Acceptability Judgements,2018,ACL,the Association for Computational Linguistics
+PhraseCTM: Correlated Topic Modeling on Phrases within Markov Random Fields,2018,ACL,the Association for Computational Linguistics
+Neural Open Information Extraction,2018,ACL,the Association for Computational Linguistics
+Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking,2018,ACL,the Association for Computational Linguistics
+CNN for Text-Based Multiple Choice Question Answering,2018,ACL,the Association for Computational Linguistics
+Exploring Semantic Properties of Sentence Embeddings,2018,ACL,the Association for Computational Linguistics
+A Multi-task Approach to Learning Multilingual Representations,2018,ACL,the Association for Computational Linguistics
+Narrative Modeling with Memory Chains and Semantic Supervision,2018,ACL,the Association for Computational Linguistics
+Fully Statistical Neural Belief Tracking,2018,ACL,the Association for Computational Linguistics
+GNEG: Graph-Based Negative Sampling for word2vec,2018,ACL,the Association for Computational Linguistics
+SNAG: Spoken Narratives and Gaze Dataset,2018,ACL,the Association for Computational Linguistics
+End-Task Oriented Textual Entailment via Deep Explorations of Inter-Sentence Interactions,2018,ACL,the Association for Computational Linguistics
+Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling,2018,ACL,the Association for Computational Linguistics
+An Empirical Study of Building a Strong Baseline for Constituency Parsing,2018,ACL,the Association for Computational Linguistics
+Learning Cross-lingual Distributed Logical Representations for Semantic Parsing,2018,ACL,the Association for Computational Linguistics
+Parser Training with Heterogeneous Treebanks,2018,ACL,the Association for Computational Linguistics
+Exploiting Document Knowledge for Aspect-level Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Predicting accuracy on large datasets from smaller pilot data,2018,ACL,the Association for Computational Linguistics
+On the Practical Computational Power of Finite Precision RNNs for Language Recognition,2018,ACL,the Association for Computational Linguistics
+Learning from Chunk-based Feedback in Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information,2018,ACL,the Association for Computational Linguistics
+Personalized Review Generation By Expanding Phrases and Attending on Aspect-Aware Representations,2018,ACL,the Association for Computational Linguistics
+Addressing Noise in Multidialectal Word Embeddings,2018,ACL,the Association for Computational Linguistics
+Word Error Rate Estimation for Speech Recognition: e-WER,2018,ACL,the Association for Computational Linguistics
+Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions,2018,ACL,the Association for Computational Linguistics
+Unsupervised Learning of Style-sensitive Word Vectors,2018,ACL,the Association for Computational Linguistics
+Neural Hidden Markov Model for Machine Translation,2018,ACL,the Association for Computational Linguistics
+Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots,2018,ACL,the Association for Computational Linguistics
+Orthographic Features for Bilingual Lexicon Induction,2018,ACL,the Association for Computational Linguistics
+Content-based Popularity Prediction of Online Petitions Using a Deep Regression Model,2018,ACL,the Association for Computational Linguistics
+Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER,2018,ACL,the Association for Computational Linguistics
+Injecting Relational Structural Representation in Neural Networks for Question Similarity,2018,ACL,the Association for Computational Linguistics
+Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora,2018,ACL,the Association for Computational Linguistics
+A Study of the Importance of External Knowledge in the Named Entity Recognition Task,2018,ACL,the Association for Computational Linguistics
+Multi-representation ensembles and delayed SGD updates improve syntax-based NMT,2018,ACL,the Association for Computational Linguistics
+Cross-Target Stance Classification with Self-Attention Networks,2018,ACL,the Association for Computational Linguistics
+'Lighter' Can Still Be Dark: Modeling Comparative Color Descriptions,2018,ACL,the Association for Computational Linguistics
+A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification,2018,ACL,the Association for Computational Linguistics
+Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations,2018,ACL,the Association for Computational Linguistics
+Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Filtering and Mining Parallel Data in a Joint Multilingual Space,2018,ACL,the Association for Computational Linguistics
+Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum,2018,ACL,the Association for Computational Linguistics
+Improving Topic Quality by Promoting Named Entities in Topic Modeling,2018,ACL,the Association for Computational Linguistics
+Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining,2018,ACL,the Association for Computational Linguistics
+Party Matters: Enhancing Legislative Embeddings with Author Attributes for Vote Prediction,2018,ACL,the Association for Computational Linguistics
+Breaking NLI Systems with Sentences that Require Simple Lexical Inferences,2018,ACL,the Association for Computational Linguistics
+Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network,2018,ACL,the Association for Computational Linguistics
+A Document Descriptor using Covariance of Word Vectors,2018,ACL,the Association for Computational Linguistics
+Examining Temporality in Document Classification,2018,ACL,the Association for Computational Linguistics
+HotFlip: White-Box Adversarial Examples for Text Classification,2018,ACL,the Association for Computational Linguistics
+diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora,2018,ACL,the Association for Computational Linguistics
+A Walk-based Model on Entity Graphs for Relation Extraction,2018,ACL,the Association for Computational Linguistics
+Learning with Structured Representations for Negation Scope Extraction,2018,ACL,the Association for Computational Linguistics
+Named Entity Recognition With Parallel Recurrent Neural Networks,2018,ACL,the Association for Computational Linguistics
+A Simple and Effective Approach to Coverage-Aware Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Deep RNNs Encode Soft Hierarchical Syntax,2018,ACL,the Association for Computational Linguistics
+Identification of Alias Links among Participants in Narratives,2018,ACL,the Association for Computational Linguistics
+Know What You Don’t Know: Unanswerable Questions for SQuAD,2018,ACL,the Association for Computational Linguistics
+Bag-of-Words as Target for Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Pretraining Sentiment Classifiers with Unlabeled Dialog Data,2018,ACL,the Association for Computational Linguistics
+Extreme Adaptation for Personalized Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+Continuous Learning in a Hierarchical Multiscale Neural Network,2018,ACL,the Association for Computational Linguistics
+Automated essay scoring with string kernels and word embeddings,2018,ACL,the Association for Computational Linguistics
+Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention,2018,ACL,the Association for Computational Linguistics
+Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality,2018,ACL,the Association for Computational Linguistics
+Personalized Language Model for Query Auto-Completion,2018,ACL,the Association for Computational Linguistics
+Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization,2018,ACL,the Association for Computational Linguistics
+Tackling the Story Ending Biases in The Story Cloze Test,2018,ACL,the Association for Computational Linguistics
+Extracting Commonsense Properties from Embeddings with Limited Human Guidance,2018,ACL,the Association for Computational Linguistics
+Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources,2018,ACL,the Association for Computational Linguistics
+Compositional Representation of Morphologically-Rich Input for Neural Machine Translation,2018,ACL,the Association for Computational Linguistics
+NovelPerspective: Identifying Point of View Characters,2018,ACL,the Association for Computational Linguistics
+TALEN: Tool for Annotation of Low-resource ENtities,2018,ACL,the Association for Computational Linguistics
+DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data,2018,ACL,the Association for Computational Linguistics
+Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners,2018,ACL,the Association for Computational Linguistics
+SANTO: A Web-based Annotation Tool for Ontology-driven Slot Filling,2018,ACL,the Association for Computational Linguistics
+Jack the Reader -- A Machine Reading Framework,2018,ACL,the Association for Computational Linguistics
+"A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines",2018,ACL,the Association for Computational Linguistics
+Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association,2018,ACL,the Association for Computational Linguistics
+Translating a Language You Don't Know In the Chinese Room,2018,ACL,the Association for Computational Linguistics
+Marian: Fast Neural Machine Translation in C++,2018,ACL,the Association for Computational Linguistics
+NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation,2018,ACL,the Association for Computational Linguistics
+DeepPavlov: Open-Source Library for Dialogue Systems,2018,ACL,the Association for Computational Linguistics
+HarriGT: A Tool for Linking News to Science,2018,ACL,the Association for Computational Linguistics
+A Web-scale system for scientific knowledge exploration,2018,ACL,the Association for Computational Linguistics
+RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition,2018,ACL,the Association for Computational Linguistics
+NCRF++: An Open-source Neural Sequence Labeling Toolkit,2018,ACL,the Association for Computational Linguistics
+CRUISE: Cold-Start New Skill Development via Iterative Utterance Generation,2018,ACL,the Association for Computational Linguistics
+The SUMMA Platform: A Scalable Infrastructure for Multi-lingual Multi-media Monitoring,2018,ACL,the Association for Computational Linguistics
+ScoutBot: A Dialogue System for Collaborative Navigation,2018,ACL,the Association for Computational Linguistics
+YEDDA: A Lightweight Collaborative Text Span Annotation Tool,2018,ACL,the Association for Computational Linguistics
+Platforms for Non-speakers Annotating Names in Any Language,2018,ACL,the Association for Computational Linguistics
+Out-of-the-box Universal Romanization Tool uroman,2018,ACL,the Association for Computational Linguistics
+NLP Web Services for Resource-Scarce Languages,2018,ACL,the Association for Computational Linguistics
+"Praaline: An Open-Source System for Managing, Annotating, Visualising and Analysing Speech Corpora",2018,ACL,the Association for Computational Linguistics
+Trick Me If You Can: Adversarial Writing of Trivia Challenge Questions,2018,ACL,the Association for Computational Linguistics
+Reinforced Extractive Summarization with Question-Focused Rewards,2018,ACL,the Association for Computational Linguistics
+Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets,2018,ACL,the Association for Computational Linguistics
+Sampling Informative Training Data for RNN Language Models,2018,ACL,the Association for Computational Linguistics
+Towards Opinion Summarization of Customer Reviews,2018,ACL,the Association for Computational Linguistics
+A Computational Approach to Feature Extraction for Identification of Suicidal Ideation in Tweets,2018,ACL,the Association for Computational Linguistics
+BCSAT : A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations,2018,ACL,the Association for Computational Linguistics
+Biomedical Document Retrieval for Clinical Decision Support System,2018,ACL,the Association for Computational Linguistics
+Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models,2018,ACL,the Association for Computational Linguistics
+Automatic Spelling Correction for Resource-Scarce Languages using Deep Learning,2018,ACL,the Association for Computational Linguistics
+Recognizing Complex Entity Mentions: A Review and Future Directions,2018,ACL,the Association for Computational Linguistics
+Exploring Chunk Based Templates for Generating a subset of English Text,2018,ACL,the Association for Computational Linguistics
+Learning-based Composite Metrics for Improved Caption Evaluation,2018,ACL,the Association for Computational Linguistics
+Pushing the Limits of Radiology with Joint Modeling of Visual and Textual Information,2018,ACL,the Association for Computational Linguistics
+SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags,2018,ACL,the Association for Computational Linguistics
+Automatic Detection of Cross-Disciplinary Knowledge Associations,2018,ACL,the Association for Computational Linguistics
+German and French Neural Supertagging Experiments for LTAG Parsing,2018,ACL,the Association for Computational Linguistics
+"Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories",2018,ACL,the Association for Computational Linguistics
+Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection,2018,ACL,the Association for Computational Linguistics
+Unsupervised Semantic Abstractive Summarization,2018,ACL,the Association for Computational Linguistics
+Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation,2018,ACL,the Association for Computational Linguistics
+Automatic Question Generation using Relative Pronouns and Adverbs,2018,ACL,the Association for Computational Linguistics

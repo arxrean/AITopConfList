@@ -4,7 +4,7 @@ import pandas as pd
 
 def group_crawled_csvs():
 	csvs = glob.glob('./collection/*.csv')
-	csv = pd.concat([pd.read_csv(_) for _ in csvs], axis=0)
+	csv = pd.concat([pd.read_csv(_) for _ in csvs], axis=0).reset_index(drop=True)
 	csv.to_csv('../list.csv', index=False)
 
 

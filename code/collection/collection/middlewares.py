@@ -3,7 +3,9 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
+import random
 from scrapy import signals
+from scraper.settings import USER_AGENT_LIST
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
