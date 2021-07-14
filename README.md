@@ -9,3 +9,6 @@ The current `list.csv` contains papers from
 - ICML 2018-2020
 - KDD 2018-2020
 - WWW 2018-2020  
+- CSCW 2018-2020
+- GROUP 2018, 2020
+
