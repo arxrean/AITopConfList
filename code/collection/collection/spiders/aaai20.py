@@ -14,11 +14,14 @@ class Spider_AAAI20(scrapy.Spider):
         'https://aaai.org/Library/AAAI/aaai20contents-issue05.php',
         'https://aaai.org/Library/AAAI/aaai20contents-issue06.php',
         'https://aaai.org/Library/AAAI/aaai20contents-issue07.php',
+        'https://aaai.org/Library/AAAI/aaai20contents-issue08.php',
+        'https://aaai.org/Library/AAAI/aaai20contents-issue09.php',
+        'https://aaai.org/Library/AAAI/aaai20contents-issue10.php'
     ]
 
     def parse(self, response):
         hxs = Selector(response)
-        for article in hxs.xpath('//*[contains(@class, "left")]/a[1]/text()'):
+        for article in hxs.xpath("//*[contains(@class, 'left')]/a[1]/text()"):
             yield {
                 'title': article.extract().strip(),
                 'year': '2020',

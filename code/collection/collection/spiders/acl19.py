@@ -12,12 +12,28 @@ class Spider_ACL19(scrapy.Spider):
 
     def parse(self, response):
         hxs = Selector(response)
-        for i in range(1, 661):
+        for i in range(4000):
             href = '/P19-{}/'.format(1000+i)
-            article = hxs.xpath("//a[contains(@href, '{}')]//text()".format(href))[0].extract().strip()
-            yield {
-                'title': article,
-                'year': '2019',
-                'conf': 'ACL',
-                'conf_long': 'the Association for Computational Linguistics'
-            }
+            try:
+                article = hxs.xpath("//a[contains(@href, '{}')]//text()".format(href))[0].extract().strip()
+                yield {
+                    'title': article,
+                    'year': '2019',
+                    'conf': 'ACL',
+                    'conf_long': 'the Association for Computational Linguistics'
+                }
+            except:
+                pass
+
+        for i in range(4000):
+            href = '/W19-{}/'.format(3200+i)
+            try:
+                article = hxs.xpath("//a[contains(@href, '{}')]//text()".format(href))[0].extract().strip()
+                yield {
+                    'title': article,
+                    'year': '2019',
+                    'conf': 'ACL',
+                    'conf_long': 'the Association for Computational Linguistics'
+                }
+            except:
+                pass

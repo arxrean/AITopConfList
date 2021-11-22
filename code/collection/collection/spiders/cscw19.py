@@ -12,7 +12,7 @@ class Spider_CSCW19(scrapy.Spider):
 
     def parse(self, response):
         hxs = Selector(response)
-        for article in hxs.xpath("(//a[contains(@class, 'DLtitleLink')])/text()"):
+        for article in hxs.xpath("//a[contains(@class, 'DLtitleLink')]/text()"):
             yield {
                 'title': article.extract().strip(),
                 'year': '2019',

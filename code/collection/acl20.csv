@@ -1,4 +1,6 @@
 title,year,conf,conf_long
+570 Long Papers,2020,ACL,the Association for Computational Linguistics
+208 Short Papers,2020,ACL,the Association for Computational Linguistics
 2kenize: Tying Subword Sequences for Chinese Script Conversion,2020,ACL,the Association for Computational Linguistics
 A Batch Normalized Inference Network Keeps the KL Vanishing Away,2020,ACL,the Association for Computational Linguistics
 A Call for More Rigor in Unsupervised Cross-lingual Learning,2020,ACL,the Association for Computational Linguistics
@@ -777,3 +779,95 @@ Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural V
 You Don’t Have Time to Read This: An Exploration of Document Reading Time Prediction,2020,ACL,the Association for Computational Linguistics
 ``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases,2020,ACL,the Association for Computational Linguistics
 ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,2020,ACL,the Association for Computational Linguistics
+"ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents",2020,ACL,the Association for Computational Linguistics
+BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab,2020,ACL,the Association for Computational Linguistics
+Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes,2020,ACL,the Association for Computational Linguistics
+CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task,2020,ACL,the Association for Computational Linguistics
+Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems,2020,ACL,the Association for Computational Linguistics
+"ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",2020,ACL,the Association for Computational Linguistics
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation,2020,ACL,the Association for Computational Linguistics
+Embedding-based Scientific Literature Discovery in a Text Editor Application,2020,ACL,the Association for Computational Linguistics
+ESPnet-ST: All-in-One Speech Translation Toolkit,2020,ACL,the Association for Computational Linguistics
+EVIDENCEMINER: Textual Evidence Discovery for Life Sciences,2020,ACL,the Association for Computational Linguistics
+exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models,2020,ACL,the Association for Computational Linguistics
+GAIA: A Fine-grained Multimedia Knowledge Extraction System,2020,ACL,the Association for Computational Linguistics
+Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations,2020,ACL,the Association for Computational Linguistics
+jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models,2020,ACL,the Association for Computational Linguistics
+Label Noise in Context,2020,ACL,the Association for Computational Linguistics
+LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation,2020,ACL,the Association for Computational Linguistics
+LinggleWrite: a Coaching System for Essay Writing,2020,ACL,the Association for Computational Linguistics
+MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform,2020,ACL,the Association for Computational Linguistics
+"MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation",2020,ACL,the Association for Computational Linguistics
+Multilingual Universal Sentence Encoder for Semantic Retrieval,2020,ACL,the Association for Computational Linguistics
+Nakdan: Professional Hebrew Diacritizer,2020,ACL,the Association for Computational Linguistics
+NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature,2020,ACL,the Association for Computational Linguistics
+NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg,2020,ACL,the Association for Computational Linguistics
+OpusFilter: A Configurable Parallel Corpus Filtering Toolbox,2020,ACL,the Association for Computational Linguistics
+Penman: An Open-Source Library and Tool for AMR Graphs,2020,ACL,the Association for Computational Linguistics
+Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation,2020,ACL,the Association for Computational Linguistics
+Photon: A Robust Cross-Domain Text-to-SQL System,2020,ACL,the Association for Computational Linguistics
+Prta: A System to Support the Analysis of Propaganda Techniques in the News,2020,ACL,the Association for Computational Linguistics
+pyBART: Evidence-based Syntactic Transformations for IE,2020,ACL,the Association for Computational Linguistics
+Stanza: A Python Natural Language Processing Toolkit for Many Human Languages,2020,ACL,the Association for Computational Linguistics
+Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines,2020,ACL,the Association for Computational Linguistics
+SUPP.AI: finding evidence for supplement-drug interactions,2020,ACL,the Association for Computational Linguistics
+Syntactic Search by Example,2020,ACL,the Association for Computational Linguistics
+SyntaxGym: An Online Platform for Targeted Evaluation of Language Models,2020,ACL,the Association for Computational Linguistics
+Tabouid: a Wikipedia-based word guessing game,2020,ACL,the Association for Computational Linguistics
+Talk to Papers: Bringing Neural Question Answering to Academic Search,2020,ACL,the Association for Computational Linguistics
+TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing,2020,ACL,the Association for Computational Linguistics
+The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding,2020,ACL,the Association for Computational Linguistics
+Torch-Struct: Deep Structured Prediction Library,2020,ACL,the Association for Computational Linguistics
+Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time,2020,ACL,the Association for Computational Linguistics
+Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing,2020,ACL,the Association for Computational Linguistics
+What’s The Latest? A Question-driven News Chatbot,2020,ACL,the Association for Computational Linguistics
+Xiaomingbot: A Multilingual Robot News Reporter,2020,ACL,the Association for Computational Linguistics
+#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media,2020,ACL,the Association for Computational Linguistics
+A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples,2020,ACL,the Association for Computational Linguistics
+A Simple and Effective Dependency parser for Telugu,2020,ACL,the Association for Computational Linguistics
+Adaptive Transformers for Learning Multimodal Representations,2020,ACL,the Association for Computational Linguistics
+AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss,2020,ACL,the Association for Computational Linguistics
+Building a Japanese Typo Dataset from Wikipedia’s Revision History,2020,ACL,the Association for Computational Linguistics
+Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems,2020,ACL,the Association for Computational Linguistics
+Combining Subword Representations into Word-level Representations in the Transformer Architecture,2020,ACL,the Association for Computational Linguistics
+Compositional generalization by factorizing alignment and translation,2020,ACL,the Association for Computational Linguistics
+Considering Likelihood in NLP Classiﬁcation Explanations with Occlusion and Language Modeling,2020,ACL,the Association for Computational Linguistics
+Crossing the Line: Where do Demographic Variables Fit into Humor Detection?,2020,ACL,the Association for Computational Linguistics
+Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup,2020,ACL,the Association for Computational Linguistics
+Dominance as an Indicator of Rapport and Learning in Human-Agent Communication,2020,ACL,the Association for Computational Linguistics
+Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions,2020,ACL,the Association for Computational Linguistics
+Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages,2020,ACL,the Association for Computational Linguistics
+Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition,2020,ACL,the Association for Computational Linguistics
+Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources,2020,ACL,the Association for Computational Linguistics
+Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder,2020,ACL,the Association for Computational Linguistics
+Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions,2020,ACL,the Association for Computational Linguistics
+Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information,2020,ACL,the Association for Computational Linguistics
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner’s Error Tendency,2020,ACL,the Association for Computational Linguistics
+HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing,2020,ACL,the Association for Computational Linguistics
+How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,2020,ACL,the Association for Computational Linguistics
+υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems,2020,ACL,the Association for Computational Linguistics
+Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition,2020,ACL,the Association for Computational Linguistics
+Let’s be Humorous: Knowledge Enhanced Humor Generation,2020,ACL,the Association for Computational Linguistics
+Logical Inferences with Comparatives and Generalized Quantifiers,2020,ACL,the Association for Computational Linguistics
+"Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling",2020,ACL,the Association for Computational Linguistics
+Multi-Task Neural Model for Agglutinative Language Translation,2020,ACL,the Association for Computational Linguistics
+Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?,2020,ACL,the Association for Computational Linguistics
+Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment,2020,ACL,the Association for Computational Linguistics
+Pointwise Paraphrase Appraisal is Potentially Problematic,2020,ACL,the Association for Computational Linguistics
+Pre-training via Leveraging Assisting Languages for Neural Machine Translation,2020,ACL,the Association for Computational Linguistics
+Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation,2020,ACL,the Association for Computational Linguistics
+Reflection-based Word Attribute Transfer,2020,ACL,the Association for Computational Linguistics
+Research on Task Discovery for Transfer Learning in Deep Neural Networks,2020,ACL,the Association for Computational Linguistics
+Research Replication Prediction Using Weakly Supervised Learning,2020,ACL,the Association for Computational Linguistics
+RPD: A Distance Function Between Word Embeddings,2020,ACL,the Association for Computational Linguistics
+SCAR: Sentence Compression using Autoencoders for Reconstruction,2020,ACL,the Association for Computational Linguistics
+Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms,2020,ACL,the Association for Computational Linguistics
+Story-level Text Style Transfer: A Proposal,2020,ACL,the Association for Computational Linguistics
+To compress or not to compress? A Finite-State approach to Nen verbal morphology,2020,ACL,the Association for Computational Linguistics
+Topic balancing with additive regularization of topic models,2020,ACL,the Association for Computational Linguistics
+Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya,2020,ACL,the Association for Computational Linguistics
+Understanding Points of Correspondence between Sentences for Abstractive Summarization,2020,ACL,the Association for Computational Linguistics
+Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining,2020,ACL,the Association for Computational Linguistics
+Unsupervised Paraphasia Classification in Aphasic Speech,2020,ACL,the Association for Computational Linguistics
+Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models,2020,ACL,the Association for Computational Linguistics
+Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition,2020,ACL,the Association for Computational Linguistics
