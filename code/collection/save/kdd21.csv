@@ -1,0 +1,395 @@
+title,year,conf,conf_long
+A Broader Picture of Random-walk Based Graph Embedding,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Color-blind 3-Approximation for Chromatic Correlation Clustering and Improved Heuristics,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Difficulty-Aware Framework for Churn Prediction and Intervention in Games,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A hyper-surface arrangement model of ranking distributions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Novel Multi-View Clustering Method for Unknown Mapping Relationships Between Cross-View Samples,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Stagewise Hyperparameter Scheduler to Improve Generalization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Accelerating Set Intersections over Graphs by Reducing-Merging,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ACE-NODE: Attentive Co-Evolving Neural Ordinary Differential Equations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Adaptive Transfer Learning on Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Aggregating Complex Annotations via Merging and Matching,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Alphacore: Data Depth based Core Decomposition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Efficient and Scalable Algorithm for Estimating Kemeny's Constant of a Markov Chain on Large Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Efficient Framework for Balancing Submodularity and Cost,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Analysis and Applications of Class-wise Robustness in Adversarial Training,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Approximate Graph Propagation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Attentive Heterogeneous Graph Embedding for Job Mobility Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Auction Design for Heterogeneous Bidders,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Auditing for Diversity Using Representative Examples,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Balancing Consistency and Disparity in Network Alignment,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Bavarian: Betweenness Centrality Approximation with Variance-Aware Rademacher Averages,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+BLOCKSET (Block-Aligned Serialized Trees): Reducing Inference Latency for Tree ensemble Deployment,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Causal models for Real Time Bidding with repeated user interactions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Causal Understanding of Fake News Dissemination on Social Media,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Choice Set Confounding in Discrete Choice,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Cluster-Reduce: Compressing Sketches for Distributed Data Streams,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+cM$^2$NE: Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Context-aware Outstanding Fact Mining from Knowledge Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ControlBurn: Feature Selection by Sparse Forests,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Controllable Generation from Pre-trained Language Models via Inverse Prompting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Coupled Graph ODE for Learning Interacting System Dynamics,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Cross-Network Learning with Partially Aligned Graph Convolutional Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DARING: Differentiable Causal Discovery with Residual Independence,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Data Poisoning Attacks Against Outcome Interpretations of Predictive Models,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deconfounded Recommendation for Alleviating Bias Amplification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Clustering-based Fair Outlier Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Learning Embeddings for Data Series Similarity Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Defending Privacy Against More Knowledgeable Membership Inference Attackers,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DeGNN: Improving Graph Neural Networks with Graph Decomposition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dialogue Based Disease Screening Through Domain Customized Reinforcement Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Differentiable Pattern Set Mining,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dip-based Deep Embedded Clustering with k-Estimation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Discrete Choice Models with Interpretable Context Effects,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DisenQNet: Disentangled Representation Learning for Educational Questions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Generative model for Spatial Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dual Graph enhanced Embedding Neural Network for CTR Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dynamic Hawkes Processes for Discovering Time-evolving Communities' States behind Diffusion Processes,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient Collaborative Filtering via Data Augmentation and Step-size Optimization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient Data-specific Model Search for Collaborative Filtering,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient Incremental Computation of Aggregations over Sliding Windows,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient Optimization Methods for Extreme Similarity Learning with Nonlinear Embeddings,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ELITE : Robust Deep Anomaly Detection with Meta Gradient,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Enhancing SVMs with Problem Context Aware Pipeline,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Environment Agnostic Invariant Risk Minimization for Classification of Sequential Datasets,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Error-Bounded Online Trajectory Simplification with Multi-Agent Reinforcement Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Exploring Self-Supervised Representation Ensembles for COVID-19 Cough Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fairness-aware Online Meta-learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fast and Accurate Partial Fourier Transform for Time Series Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fast and Memory-Efficient Tucker decomposition for Answering Diverse Time Range Queries,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fast One-class Classification using Class Boundary-preserving Random Projections,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fast Rotation Kernel Density Estimation over Data Streams,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Faster and Generalized Temporal Triangle Counting, via Degeneracy Orderings",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fed^2: Feature-Aligned Federated Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Federated Adversarial Debiasing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Few-shot Neural Sequence Labeling via Meta Self-training,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Filtration Curves for Graph Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fine-Grained System Identification of Nonlinear Neural Circuits,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Forecasting Interaction Order on Temporal Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Fruit-fly Inspired Neighborhood Encoding for Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Gaussian Process with Graph Convolutional Kernel for Relational Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Generalized Zero-Shot Extreme Multi-label Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Geometric Graph Representation Learning on Protein Structure Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Adversarial Attack via Rewiring,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Deep Factor Model for Cloud Utilization Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Similarity Description: How Are These Graphs Similar?,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Graph Summarization with Controlled Utility Loss,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+H$^2$MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HMRL: Hyper-Meta Learning for Sparse Reward Reinforcement Learning Problem,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+How Interpretable and Trustworthy are GAMs?,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Identifying Coordinated Accounts on Social Media through Hidden Influence and Group Behaviours,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ImGAGN:Imbalanced Network Embedding via Generative Adversarial Graph Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Improving Learning from Crowds via Generative Augmentation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Indirect Invisible Poisoning Attacks on Domain Adaptation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Individual Fairness for Graph Neural Networks: A Ranking based Approach,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Individual Treatment Prescription Effect Estimation in a Low Compliance Setting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interpreting Internal Activation Patterns in Deep Temporal Neural Networks by Finding Prototypes,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+JOHAN: A Joint Online Hurricane Trajectory and Intensity Forecasting Framework,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Joint Graph Embedding and Alignment with Spectral Pivot,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Joint Optimization of Known and Unknown Anomaly Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Knowledge is Power: Hierarchical-Knowledge Embedded Meta-Learning for Visual Reasoning in Artistic Domains,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Knowledge-Enhanced Domain Adaptation in Few-Shot Relation Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Labeled Data Generation with Inexact Supervision,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Large-Scale Data-Driven Airline Market Influence Maximization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Large-Scale Subspace Clustering via k-Factorization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+LawyerPAN: A Proficiency Assessment Network for Trial Lawyers,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning How to Propagate Messages in Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Based Proximity Matrix Factorization for Node Embedding,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Elastic Embeddings for Customizing On-Device Recommenders,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning from Imbalanced and Incomplete Supervision with Its Application to Ride-Sharing Liability Judgment,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Process-consistent Knowledge Tracing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning to Embed Categorical Features without Embedding Tables for Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning to Recommend Visualizations from Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Leveraging Latent Features for Local Explanations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Local Algorithms for Estimating Effective Resistance,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MaNIACS: Approximate Mining of Frequent Subgraph Patterns through Sampling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MapEmbed: Perfect Hashing with High Load Factor and Fast Update,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MTrajRec: Map-Constrained Trajectory Recovery via Seq2Seq Multi-task Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Maximizing  Influence of  Leaders in Social Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Maxmin-Fair Ranking: Individual Fairness under Group-Fairness Constraints,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Meaning Error Rate:  ASR domain-specific metric framework,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Metric Learning via Penalized Optimization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Model-Based Counterfactual Synthesizer for Interpretation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Modeling Context-aware Features for Cognitive Diagnosis in Student Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MTC: Multiresolution Tensor Completion from Partial and Coarse Observations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-facet Contextual Bandits: A Neural Network Perspective,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-graph Multi-label Learning with Dual-granularity Labeling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-Objective Model-based Reinforcement Learning for Infectious Disease Control,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-Task Learning via Generalized Tensor Trace Norm,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-view Correlation based Black-box Adversarial Attack for 3D Object Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multiple-Instance Learning from Similar and Dissimilar Bags,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MULTIVERSE: Mining Collective Data Science Knowledge from Code on the Web to Suggest Alternative Analysis Approaches,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Mutual Information Preserving Back-propagation: Learn to Invert for Faithful Attribution,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Needle in a Haystack: Label-Efficient Evaluation under Extreme Class Imbalance,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Network-Wide Traffic States Imputation Using Self-interested Coalitional Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Neural-Answering Logical Queries on Knowledge Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+NewsEmbed: Modeling News through Pre-trained Document Representations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Norm Adjusted Proximity Graph for Fast Inner Product Retrieval,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+NRGNN: Learning a Label Noise Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Numerical Formula Recognition from Tables,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+On Breaking Truss-Based Communities,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Online Additive Quantization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Partial Label Dimensionality Reduction via Confidence-Based Dependence Maximization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Partial Multi-Label Learning with Meta Disambiguation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PcDGAN: A Continuous Conditional Diverse Generative Adversarial Network For Inverse Design,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PETGEN: Personalized Text Generation Attack on Deep User Sequence Classification Models,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Physical Equation Discovery Using Physics-Consistent Neural Network (PCNN) Under Incomplete Observability,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PID-GAN: A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Popularity Bias in Dynamic Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Pre-training on Large-Scale Heterogeneous Graph,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Preference Amplification in Recommender Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Probabilistic and Dynamic Molecule-Disease Interaction Modeling for Drug Discovery,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Probabilistic Label Tree for Streaming Multi-Label Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ProgRPGAN: Progressive GAN for Route Planning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ProtoPShare: Prototypical Parts Sharing for Similarity Discovery in Interpretable Image Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Broader Picture of Random-walk Based Graph Embedding,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Pruning-Aware Merging for Efficient Multitask Inference,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Q-Learning Lagrange Policies for Multi-action Restless Bandits,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Quantifying Uncertainty in  Deep Spatiotemporal Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Redescription Model Mining,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Relational Message Passing for Knowledge Graph Completion,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Removing Disparate Impact on Model Accuracy in Differentially Private Stochastic Gradient Descent,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Representation Learning of Multivariate Time Series using a Transformer Framework,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Representation Learning on Knowledge Graphs for Node Importance Estimation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Retrieval & Interaction Machine for Tabular Data Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Robust Learning by Self-Transition for Handling Noisy Labels,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ROD: Reception-aware Online Distillation for Sparse Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+S-LIME: Stabilized-LIME for Model Explanation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Scalable Agglomerative Clustering,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Scaling Up Graph Neural Networks Via Graph Coarsening,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Semi-Supervised Deep Learning for Multiplex Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Shapley Counterfactual Credits for Multi-Agent Reinforcement Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Signed Graph Neural Network with Latent Groups,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Simple Yet Eﬀicient Algorithms for Maximum Inner Product Search via Extreme Order Statistics,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Socially-Aware Self-Supervised Tri-Training for Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Spectral Clustering of Attributed Multi-relational Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Statistical models coupling allows for complex localmultivariate time series analysis,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Subset Node Representation Learning over Large Dynamic Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Sylvester Tensor Equation for Multi-Way Association,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Table2Charts: Recommending Charts by Learning Shared Table Representations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TabularNet: A Neural Network Architecture for Understanding Semantic Structures of Tabular Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Tail-GNN: Tail-Node Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TDGIA: Effective Injection Attacks on Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Temporal Biased Streaming Submodular Optimization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Temporal Graph Signal Decomposition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+The Generalized Mean Densest Subgraph Problem,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TopNet: Learning from Neural Topic Model to Generate Long Stories,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Topology Distillation for Recommender System,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards a Better Understanding of Linear Models for Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Model-Agnostic Post-Hoc Adjustment for Balancing Ranking Fairness and Algorithm Utility,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards Robust Prediction on Tail Labels,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Triangle-aware Spectral Sparsifiers and Community Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Triplet Attention: Rethinking the similarity in Transformers,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TUTA: Tree-based Transformers for Generally Structured Table Pre-training,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+UCPhrase: Unsupervised Context-aware Quality Phrase Tagging,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Uncertainty-Aware Reliable Text Classification,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Unsupervised Graph Alignment with Wasserstein Distance Discriminator,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Uplift Modeling with Generalization Guarantees,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Weakly Supervised Spatial Deep Learning based on Imperfect Training Labels with Location Errors,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Why Attentions May Not Be Interpretable?,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Zero-shot Node Classification with Decomposed Graph Prototype Network,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Bayesian Approach to in-Game Win Probability in Soccer,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Deep Learning Method for Route and Time Prediction in Food Delivery Service,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Framework for Modeling Cyber Attack Techniques from Security Vulnerability Descriptions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+A Unified Solution to Constrained Bidding in Online Display Advertising,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Addressing Non-Representative Surveys using Multiple Instance Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Adversarial Attacks on Deep Models for Financial Transaction Records,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Adversarial Feature Translation for Multi-domain Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+All Models Are Useful: Bayesian Ensembling for Robust High Resolution COVID-19 Forecasting,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Amazon SageMaker Automatic Model Tuning: Scalable Black-box Optimization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Amazon SageMaker Clarify: Machine Learning Bias Detection and Explainability in the Cloud,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Embedding Learning Framework for Numerical Features in CTR Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+An Experimental Study of Quantitative Evaluations on Saliency Methods,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Analysis of Faces in a Decade of US Cable TV News,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Architecture and Operation Adaptive Network for Online Recommendations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AttDMM: An Attentive Deep Markov Model for Risk Scoring in Intensive Care Units,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Auto-Split: A General Framework of Collaborative Edge-Cloud AI,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Automated Loss Function Search in Recommendations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+AutoSmart: An Efficient and Automatic Machine Learning framework for Temporal Relational Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Bipartite Dynamic Representations for Abuse Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Bootstrapping for Batch Active Sampling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Bootstrapping Recommendations at Chrome Web Store,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Budget Allocation as a Multi-Agent System of Contextual & Continuous Bandits,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Cascading clustering based crop row detection with online domain adaptation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Categorization of Financial Transactions in QuickBooks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Causal and Interpretable Rules for Time Series Analysis,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Clockwork: a delay-based global scheduling framework for more consistent landing times in the data warehouse,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Clustering for Private Interest-based Advertising,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Contextual Bandit Applications in a Customer Support Bot,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Counterfactual Graphs for Explainable Classification of Brain Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Curriculum Meta-Learning for Next POI Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Debiasing Learning based Cross-domain Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Deep Inclusion Relation-aware Network for User Response Prediction at Fliggy,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Device-Cloud Collaborative Learning for Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Diet Planning with Machine Learning: Teacher-forced REINFORCE for composition compliance with nutrition  enhancement,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Diversity driven Query Rewriting in Search Advertising,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Does Air Quality Really Impact COVID-19 Clinical Severity: Coupling NASA Satellite Datasets with Geometric Deep Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Domain-Specific Pretraining for Vertical Search: Case Study on Biomedical Literature,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dynamic Language Models for Continuously Evolving Content,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Dynamic Social Media Monitoring for Fast-Evolving Online Discussions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Efficient deep distribution network for bid shading in First-Price Auctions,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Embedding-based Product Retrieval in Taobao Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Pretrained Language Models for Web-scale Retrieval in Baidu Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+EXACTA: Explainable Column Annotation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Extreme Multi-label Learning for Semantic Matching in Product Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FASER: Seismic Phase Identifier for Automated Monitoring,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+FLOP: Federated Learning on Medical Datasets using Partial Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+GEM: Translation-free Zero-shot Global Entity Matcher for Global Catalogs,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Generating Mobility Trajectories with Retained Data Utility,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Globally Optimized Matchmaking in Online Games,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HALO: Hierarchy-aware Fault Localization for Cloud Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hierarchical Reinforcement Learning on Scarce Medical Resource Allocation with Imperfect Information,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Hierarchical Training: Scaling Deep Recommendation Models on Large CPU Clusters,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Improving Protein Function Annotation via Unsupervised Pre-training: Robustness, Efficiency, and Insights",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Improving the Information Disclosure in Mobility-on-Demand Systems,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Incorporating Prior Financial Domain Knowledge into Neural Networks for Implied Volatility Surface Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interactive Audience Expansion On Large Scale Online Visitor Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Interpretable drug response prediction using a knowledge-based neural network,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+JIZHI: A Fast and Cost-Effective Model-As-A-Service System for Web-Scale Online Inference at Baidu,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Joint Real-Time Repositioning and Charging for Electric Carsharing with Dynamic Deadlines,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Knowledge-Guided Efficient Representation Learning for Biomedical Domain,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+KompaRe: A Knowledge Graph Comparative Reasoning System,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Lambda Learner: Fast Incremental Learning on Data Streams,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Lane Change Scheduling for Autonomous Vehicle: A Prediction-and-Search Framework,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Large-Scale Network Embedding in Apache Spark,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learn to Expand Audience via Meta Hybrid Experts and Critics,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning Reliable User Representations from Volatile and Sparse Data to Accurately Predict Customer Lifetime Value,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Learning to Assign: Towards Fair Task Assignment in Large-Scale Ride Hailing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Leveraging Tripartite Interaction Information from Live Stream E-Commerce for Improving Product Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+M6: Multi-Modality-to-Multi-Modality Multitask Mega-transformer for Unified Pretraining,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Markdowns in E-Commerce Fresh Retail: A Counterfactual Prediction and Multi-Period Optimization Approach,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Medical Entity Relation Verification with Large-scale Machine Reading Comprehension,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MeLL: Large-scale Extensible User Intent Classification for Dialogue Systems with Meta Lifelong Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MEOW: A Space-Efficient Non-Parametric Bid Shading Algorithm,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Micro-climate Prediction - Multi scale encoder-decoder based deep learning framework,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MoCha: Large-Scale Driving Pattern Characterization for Usage-based Insurance,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning for Customer Acquisition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Mondegreen: A Post-Processing Solution to Speech Recognition Error Correction for Voice Search Queries,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MPCSL - A Modular Pipeline for Causal Structure Learning,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-Agent Cooperative Bidding Games for Multi-Objective Optimization in e-Commercial Sponsored Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-modal Emergent Fake News Detection via Meta Neural Process Networks,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Network Experimentation at Scale,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Neural Auction: End-to-End Learning of Auction Mechanisms for  E-Commerce Advertising,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Neural Instant Search for Music and Podcast,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+On Post-Selection Inference in A/B Testing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+On Training Sample Memorization: Lessons from Benchmarking Generative Modeling with a Large-scale Competition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+OpenBox: A Generalized Black-box Optimization Service,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PAM: Understanding Product Images in Cross Product Category Attribute Extraction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PAMI: A Computational Module for Joint Estimation and Progression Prediction of Glaucoma,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+PD-Net: Quantitative Motor Function Evaluation for Parkinson's Disease via Automated Hand Gesture Analysis,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Pre-trained Language Model based Ranking in Baidu Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Predicting COVID-19 Spread from Large-Scale Mobility Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Quantifying and Addressing Ranking Disparity in Human-Powered Data Acquisition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+RAPT: Pre-training of Time-Aware Transformer for Learning robust Healthcare Representation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Real Negatives Matter: Continuous Training with Real Negatives for Delayed Feedback Modeling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Recommending the Most Effective Interventions to Improve Employment for Job Seekers with Disability,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Reinforced Iterative Knowledge Distillation for Cross-Lingual Named Entity Recognition,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Reinforcing Pretrained Models for Generating Attractive Text Advertisements,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Representation Learning for Predicting Customer Orders,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Robust Object Detection Fusion Against Deception,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Semi-supervised Bearing Fault Diagnosis with Adversarially-Trained Phase-Consistent Network,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Session-Aware Query Auto-completion using Extreme Multi-label Ranking,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SizeFlags: Reducing Size and Fit Related Returns in Fashion E-Commerce,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Sliding Spectrum Decomposition for Diversified Recommendation,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Supporting COVID-19 policy response with large-scale mobility-based modeling,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Talent Demand Forecasting with Attentive Neural Sequential Model,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Task-wise Split Gradient Boosting Trees for Multi-center Diabetes Prediction,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Theory Meets Practice: Worst Case Behavior of Quantile Algorithms,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+TimeSHAP: Explaining Recurrent Models through Sequence Perturbations,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Towards the D-Optimal Online Experiment Design for Recommender Selection,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Training Recommender Systems at Scale: Communication-Efficient Model and Data Parallelism,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Trustworthy and Powerful Online Marketplace Experimentation with Budget-split Design,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Unpaired Generative Molecule-to-Molecule Translation for Lead Optimization,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+User Consumption Intention Prediction in Meituan,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+VisRel: Media Search at Scale,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+We Know What You Want: An Advertising Strategy Recommender System for Online Advertising,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Web-Scale Generic Object Detection at Microsoft Bing,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+When Homomorphic Encryption Marries Secret Sharing: Secure Large-Scale Sparse Logistic Regression and Applications,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+Would your tweet invoke hate on the fly? Forecasting hate intensity of reply threads on Twitter,2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining
+"Zero-shot Multi-lingual Interrogative Question Generation for ""People Also Ask"" at Bing",2021,KDD,Special Interest Group on Knowledge Discovery and Data Mining

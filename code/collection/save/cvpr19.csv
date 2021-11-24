@@ -1,0 +1,1295 @@
+title,year,conf,conf_long
+Finding Task-Relevant Features for Few-Shot Learning by Category Traversal,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Edge-Labeling Graph Neural Network for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generating Classification Weights With GNN Denoising Autoencoders for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Kervolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On the Structural Sensitivity of Deep Convolutional Networks to the Directions of Fourier Basis Functions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hardness-Aware Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Loss for Active Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Striking the Right Balance With Uncertainty,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AutoAugment: Learning Augmentation Strategies From Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+BAD SLAM: Bundle Adjusted Direct RGB-D SLAM,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Revealing Scenes by Inverting Structure From Motion Reconstructions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Strand-Accurate Multi-View Hair Capture,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pushing the Boundaries of View Extrapolation With Multiplane Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GA-Net: Guided Aggregation Net for End-To-End Stereo Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Real-Time Self-Adaptive Deep Stereo,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LAF-Net: Locally Adaptive Fusion Networks for Stereo Confidence Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Reinforcement Learning of Volume-Guided Progressive View Inpainting for 3D Point Scene Completion From a Single Depth Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Video Action Transformer Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Timeception for Complex Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+STEP: Spatio-Temporal Progressive Learning for Video Action Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Relational Action Forecasting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Long-Term Feature Banks for Detailed Video Understanding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+What and How Well You Performed? A Multitask Learning Approach to Action Quality Assessment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MHP-VOS: Multiple Hypotheses Propagation for Video Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+2.5D Visual Sound,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Gaussian Temporal Awareness Networks for Action Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Video Classification Using Fewer Frames,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Parsing R-CNN for Instance-Level Human Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large Scale Incremental Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TopNet: Structural Point Cloud Decoder,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Perceive Where to Focus: Learning Visibility-Aware Part-Level Features for Partial Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Meta-Transfer Learning for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep RNN Framework for Visual Sequential Applications,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graph-Based Global Reasoning Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SSN: Learning Sparse Switchable Normalization via SparsestMax,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spherical Fractal Convolutional Neural Networks for Point Cloud Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Generate Synthetic Data via Compositing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Divide and Conquer the Embedding Space for Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Latent Space Autoregression for Novelty Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attending to Discriminative Certainty for Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature Denoising for Improving Adversarial Robustness,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Selective Kernel Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Implicit Filter Level Sparsity in Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FlowNet3D: Learning Scene Flow in 3D Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Co-Occurrent Features in Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bag of Tricks for Image Classification with Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Channel-Wise Interactions for Binary Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Knowledge Adaptation for Efficient Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Parametric Noise Injection: Trainable Randomness to Improve Deep Neural Network Robustness Against Adversarial Attack,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dissecting Person Re-Identification From the Viewpoint of Viewpoint,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Reduce Dual-Level Discrepancy for Infrared-Visible Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Feature Alignment for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature-Level Frankenstein: Eliminating Variations for Discriminative Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning a Deep ConvNet for Multi-Label Classification With Partial Labels,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalized Intersection Over Union: A Metric and a Loss for Bounding Box Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Densely Semantically Aligned Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalising Fine-Grained Sketch-Based Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adapting Object Detectors via Selective Cross-Domain Alignment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Thinking Outside the Pool: Active Training Image Creation for Relative Attributes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalizable Person Re-Identification by Domain-Invariant Mapping Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Visual Attention Consistency Under Image Transforms for Multi-Label Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Re-Ranking via Metric Fusion for Object Retrieval and Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointRCNN: 3D Object Proposal Generation and Detection From Point Cloud,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Automatic Adaptation of Object Detectors to New Domains Using Self-Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Sketch-Shape Hashing With Segmented 3D Stochastic Viewing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generative Dual Adversarial Network for Generalized Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Query-Guided End-To-End Person Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Libra R-CNN: Towards Balanced Learning for Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning a Unified Classifier Incrementally via Rebalancing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature Selective Anchor-Free Module for Single-Shot Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bottom-Up Object Detection by Grouping Extreme and Center Points,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SCOPS: Self-Supervised Co-Part Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Moving Object Detection via Contextual Information Separation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pose2Seg: Detection Free Human Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DrivingStereo: A Large-Scale Dataset for Stereo Matching in Autonomous Driving Scenarios,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PartNet: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level 3D Object Understanding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Dataset and Benchmark for Large-Scale Multi-Modal Face Anti-Spoofing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Learning of Consensus Maximization for 3D Vision Problems,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+VizWiz-Priv: A Dataset for Recognizing the Presence and Purpose of Private Visual Information in Images Taken by Blind People,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Structural Relational Reasoning of Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MVF-Net: Multi-View 3D Face Morphable Model Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Photometric Mesh Optimization for Video-Aligned 3D Object Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Guided Stereo Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Modeling Local Geometric Structure of 3D Point Clouds Using Geo-CNN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Point Capsule Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single-Image Piece-Wise Planar 3D Reconstruction via Associative Embedding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3DN: 3D Deformation Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+HorizonNet: Learning Room Layout With 1D Representation and Pano Stretch Data Augmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Fitting Degree Scoring Network for Monocular 3D Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation From a Single Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Does Learning Specific Features for Related Parts Help Human Pose Estimation?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Linkage Based Face Clustering via Graph Convolution Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards High-Fidelity Nonlinear 3D Face Morphable Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RegularFace: Deep Face Recognition via Exclusive Regularization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+BridgeNet: A Continuity-Aware Probabilistic Network for Age Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Reconstruct People in Clothing From a Single RGB Camera,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Distilled Person Re-Identification: Towards a More Scalable System,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Perceptual Prediction Framework for Self Supervised Event Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+COIN: A Large-Scale Dataset for Comprehensive Instructional Video Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recurrent Attentive Zooming for Joint Crowd Counting and Precise Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graph Convolutional Label Noise Cleaner: Train a Plug-And-Play Action Classifier for Anomaly Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Less Is More: Learning Highlight Detection From Video Duration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DMC-Net: Generating Discriminative Motion Cues for Fast Compressed Video Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AdaFrame: Adaptive Frame Selection for Fast Video Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatio-Temporal Video Re-Localization by Warp LSTM,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Deep Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Online Object Tracking and Segmentation: A Unifying Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object Tracking by Reconstruction With View-Specific Discriminative Correlation Filters,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Leveraging Shape Completion for 3D Siamese Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Target-Aware Deep Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatiotemporal CNN for Video Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Rich Feature Discovery With Class Activation Maps Augmentation for Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Wide-Context Semantic Image Extrapolation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GIF2Video: Color Dequantization and Temporal Interpolation of GIF Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pluralistic Image Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Salient Object Detection With Pyramid Attention and Salient Edges,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Latent Filter Scaling for Multimodal Unsupervised Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention-Aware Multi-Stroke Style Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feedback Adversarial Learning: Spatial Feedback for Improving Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Example-Guided Style-Consistent Image Synthesis From Semantic Labeling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MirrorGAN: Learning Text-To-Image Generation by Redescription,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Light Field Messaging With Deep Photographic Steganography,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Im2Pencil: Controllable Pencil Illustration From Photographs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Beyond Volumetric Albedo -- A Surface Optimization Framework for Non-Line-Of-Sight Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reflection Removal Using a Dual-Pixel Sensor,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Practical Coding Function Design for Time-Of-Flight Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Meta-SR: A Magnification-Arbitrary Network for Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Attraction Field Representation for Robust Line Segment Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Blind Super-Resolution With Iterative Kernel Correction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Video Magnification in the Wild Using Fractional Anisotropy in Temporal Distribution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attentive Feedback Network for Boundary-Aware Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Calibrate Straight Lines for Fisheye Image Rectification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Camera Lens Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Frame-Consistent Recurrent Video Deraining With Dual-Level Flow,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sea-Thru: A Method for Removing Water From Underwater Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Network Interpolation for Continuous Imagery Effect Transition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatially Variant Linear Representation Models for Joint Filtering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Toward Convolutional Blind Denoising of Real Photographs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Real Scene Super-Resolution With Raw Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ODE-Inspired Network Design for Single Image Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Blind Image Deblurring With Local Maximum Gradient Prior,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention-Guided Network for Ghost-Free High Dynamic Range Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Searching for a Robust Neural Architecture in Four GPU Hours,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptively Connected Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CrDoCo: Pixel-Level Domain Transfer With Cross-Domain Consistency,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Temporal Cycle-Consistency Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Predicting Future Frames Using Retrospective Cycle GAN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attentive Single-Tasking of Multiple Tasks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Metric Learning to Rank,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Multi-Task Learning With Attention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Learning via Conditional Motion Propagation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+All About Structure: Adapting Structural Information Across Domains for Boosting Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Reorganization With Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Revisiting Self-Supervised Visual Representation Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+It's Not About the Journey; It's About the Destination: Following Soft Paths Under Question-Guidance for Visual Reasoning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Actively Seeking and Learning From Live Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving Referring Expression Grounding With Cross-Modal Attention-Guided Erasing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neighbourhood Watch: Referring Expression Comprehension via Language-Guided Graph Attention Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scene Graph Generation With External Knowledge and Image Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MUREL: Multimodal Relational Reasoning for Visual Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Heterogeneous Memory Enhanced Multimodal Attention Model for Video Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Information Maximizing Visual Question Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Detect Human-Object Interactions With Knowledge,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Words by Drawing Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Factor Graph Attention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reducing Uncertainty in Undersampled MRI Reconstruction With Active Acquisition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Biologically-Constrained Graphs for Global Connectomics Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+P3SGD: Patient Privacy Preserving SGD for Regularizing Deep CNNs in Pathological Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Elastic Boundary Projection for 3D Medical Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SIXray: A Large-Scale Security Inspection X-Ray Benchmark for Prohibited Item Discovery in Overlapping Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Noise2Void - Learning Denoising From Single Noisy Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Joint Discriminative and Generative Learning for Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Person Re-Identification by Soft Multilabel Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Context Graph for Person Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Gradient Matching Generative Networks for Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Zero-Shot Task Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Learning of Instance Segmentation With Inter-Pixel Relations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention-Based Dropout Layer for Weakly Supervised Object Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Domain Generalization by Solving Jigsaw Puzzles,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Transferrable Prototypical Networks for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Blending-Target Domain Adaptation by Adversarial Meta-Adaptation Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ELASTIC: Improving CNNs With Dynamic Scaling Policies,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ScratchDet: Training Single-Shot Object Detectors From Scratch,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SFNet: Learning Object-Aware Semantic Correspondence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Metric Learning Beyond Binary Supervision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Cluster Faces on an Affinity Graph,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+C2AE: Class Conditioned Auto-Encoder for Open-Set Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Shapes and Context: In-The-Wild Image Synthesis & Manipulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantics Disentangling for Text-To-Image Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Image Synthesis With Spatially-Adaptive Normalization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Pose Attention Transfer for Person Image Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Person Image Generation With Semantic Parsing Transformation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepView: View Synthesis With Learned Gradient Descent,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Animating Arbitrary Objects via Deep Motion Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Textured Neural Avatars,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+IM-Net for High Resolution Video Frame Interpolation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepVoxels: Learning Persistent 3D Feature Embeddings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Inverse Path Tracing for Joint Material and Lighting Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Visual Centrifuge: Model-Free Layered Video Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Label-Noise Robust Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DLOW: Domain Flow for Adaptation and Generalization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CollaGAN: Collaborative GAN for Missing Image Data Imputation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Taking a Closer Look at Domain Shift: Category-Level Adversaries for Semantics Consistent Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ContextDesc: Local Descriptor Augmentation With Cross-Modality Context,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large-Scale Long-Tailed Recognition in an Open World,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations Rather Than Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SDC - Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Correspondence From the Cycle-Consistency of Time,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AE2-Nets: Autoencoder in Autoencoder Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Spatial Common Sense With Geometry-Aware Recurrent Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Structured Knowledge Distillation for Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scan2CAD: Learning CAD Model Alignment in RGB-D Scans,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Scene Understanding: Unsupervised Monocular Depth Estimation With Semantic-Aware Representation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Tell Me Where I Am: Object-Level Scene Context Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Supervised Fitting of Geometric Primitives to 3D Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Do Better ImageNet Models Transfer Better?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Gotta Adapt 'Em All: Joint Pixel and Feature-Level Domain Adaptation for Recognition in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Circulant Binary Convolutional Networks: Enhancing the Performance of 1-Bit DCNNs With Circulant Back Propagation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-Scale Deep Features,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Universal Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving Transferability of Adversarial Examples With Input Diversity,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hybrid-Attention Based Decoupled Metric Learning for Zero-Shot Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Sample,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Few-Shot Learning via Saliency-Guided Hallucination of Samples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Variational Convolutional Neural Network Pruning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Optimal Structured CNN Pruning via Generative Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fully Quantized Network for Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MnasNet: Platform-Aware Neural Architecture Search for Mobile,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+K-Nearest Neighbors Hashing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning RoI Transformer for Oriented Object Detection in Aerial Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Snapshot Distillation: Teacher-Student Optimization in One Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Geometry-Aware Distillation for Indoor Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LiveSketch: Query Perturbations for Guided Sketch-Based Visual Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bounding Box Regression With Uncertainty for Accurate Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Metrics From Teachers: Compact Networks for Image Embedding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Activity Driven Weakly Supervised Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Separate to Adapt: Open Set Domain Adaptation via Progressive Separation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Layout-Graph Reasoning for Fashion Landmark Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mind Your Neighbours: Image Annotation With Metadata Neighbourhood Graph Co-Attention Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Region Proposal by Guided Anchoring,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Distant Supervised Centroid Shift: A Simple and Efficient Approach to Visual Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Transfer Examples for Partial Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalized Zero-Shot Recognition Based on Visually Semantic Embedding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Visual Feature Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Amodal Instance Segmentation With KINS Dataset,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Global Second-Order Pooling Convolutional Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification From the Bottom Up,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"NetTailor: Tuning the Architecture, Not Just the Weights",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning-Based Sampling for Natural Image Matting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Unsupervised Video Object Segmentation Through Visual Attention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pyramid Feature Attention Network for Saliency Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Co-Saliency Detection via Mask-Guided Fully Convolutional Networks With Multi-Scale Label Smoothing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SAIL-VOS: Semantic Amodal Instance Level Video Object Segmentation - A Synthetic Dataset and Baselines,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Instance Activation Maps for Weakly Supervised Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dual Attention Network for Scene Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+InverseRenderNet: Learning Single Image Inverse Rendering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Variational Auto-Encoder Model for Stochastic Point Processes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unifying Heterogeneous Classifiers With Distillation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Assessment of Faster R-CNN in Man-Machine Collaborative Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spectral Metric for Dataset Complexity Assessment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ADCrowdNet: An Attention-Injective Deformable Convolutional Network for Crowd Understanding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Local Features for Direct Pairwise Registration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-Scale Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GPSfM: Global Projective SFM Using Algebraic Constraints on Multi-View Fundamental Matrices,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Group-Wise Correlation Stereo Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Level Context Ultra-Aggregation for Stereo Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Large-Scale, Metric Structure From Motion for Unordered Light Fields",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Understanding the Limitations of CNN-Based Absolute Camera Pose Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene From Sparse LiDAR Data and Single Color Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Modeling Point Clouds With Self-Attention and Gumbel Subset Sampling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning With Batch-Wise Optimal Transport Loss for 3D Shape Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dense Depth Posterior (DDP) From Single Image and Sparse Range,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DuLa-Net: A Dual-Projection Network for Estimating Room Layouts From a Single RGB Panorama,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Veritatem Dies Aperit - Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Segmentation-Driven 6D Object Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploiting Temporal Context for 3D Human Pose Estimation in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+What Do Single-View 3D Reconstruction Networks Learn?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+UniformFace: Learning Deep Equidistributed Representation for Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Graph Convolutional Networks for 3D Human Pose Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mask-Guided Portrait Editing With Conditional GANs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Group Sampling for Scale Invariant Face Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Alignment: Finding Semantically Consistent Ground-Truth for Facial Landmark Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LAEO-Net: Revisiting People Looking at Each Other in Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robust Facial Landmark Detection via Occlusion-Adaptive Deep Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Individual Styles of Conversational Gesture,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Face Anti-Spoofing: Model Matters, so Does Data",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Human Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Decorrelated Adversarial Learning for Age-Invariant Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Task Weakly Supervised Learning From Instructional Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Teacher-Student Learning for Early Action Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Social Relation Recognition From Videos via Multi-Scale Spatial-Temporal Reasoning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Transferable Interactiveness Knowledge for Human-Object Interaction Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Granularity Generator for Temporal Action Proposal,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Rigid Instance Scene Flow,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatial Fusion GAN for Image Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Text Guided Person Image Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Instance-Level Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dense Intrinsic Appearance Flow for Human Pose Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Depth-Aware Video Frame Interpolation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sliced Wasserstein Generative Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Flow-Guided Video Inpainting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Video Generation From Single Semantic Label Map,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Polarimetric Camera Calibration Using an LCD Monitor,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fully Automatic Video Colorization With Self-Regularization and Diversity,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Zoom to Learn, Learn to Zoom",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single Image Reflection Removal Beyond Linearity,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Separate Multiple Illuminants in a Single Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Shape Unicode: A Unified Shape Representation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robust Video Stabilization by Optimization in CNN Weight Space,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Linear Transformations for Fast Image and Video Style Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Local Detection of Stereo Occlusion Boundaries,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bi-Directional Cascade Network for Perceptual Edge Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single Image Deraining: A Comprehensive Benchmark Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dynamic Scene Deblurring With Parameter Selective Sharing and Nested Skip Connections,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Events-To-Video: Bringing Modern Computer Vision to Event Cameras,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feedback Network for Image Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semi-Supervised Transfer Learning for Image Rain Removal,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+EventNet: Asynchronous Recursive Event Processing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recurrent Back-Projection Network for Video Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cascaded Partial Decoder for Fast and Accurate Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Simple Pooling-Based Design for Real-Time Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Image Deraining Networks: A Better and Simpler Baseline,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attentive Relational Networks for Mapping Images to Scene Graphs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Relational Knowledge Distillation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Compressing Convolutional Neural Networks via Factorized Convolutional Filters,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On the Intrinsic Dimensionality of Image Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Part-Regularized Near-Duplicate Vehicle Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Spatio-Temporal Representation Learning for Videos by Predicting Motion and Appearance Statistics,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Classification-Reconstruction Learning for Open-Set Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Emotion-Aware Human Attention Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Residual Regression With Semantic Prior for Crowd Counting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Context-Reinforced Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Structure Matching for Structured Prediction Tasks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Spectral Clustering Using Dual Autoencoder Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Asymmetric Metric Learning via Rich Relationship Mining,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Did It Change? Learning to Detect Point-Of-Interest Changes for Proactive Map Updates,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Associatively Segmenting Instances and Semantics in Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scene Categorization From Contours: Medial Axis Based Salience Measures,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Modal Relationship Inference for Grounding Referring Expressions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+What's to Know? Uncertainty as a Guide to Asking Goal-Oriented Questions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Alignment Network for Continuous Sign Language Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Sequential Phrase Grounding (SeqGROUND),2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CLEVR-Ref+: Diagnosing Visual Reasoning With Referring Expressions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Describing Like Humans: On Diversity in Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MSCap: Multi-Style Image Captioning With Unpaired Stylized Text,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CRAVES: Controlling Robotic Arm With a Vision-Based Economic System,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Networks for Joint Affine and Non-Parametric Image Registration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Shape-Aware Embedding for Scene Text Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Film From Professional Human Motion Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pay Attention! - Robustifying a Deep Visuomotor Policy Through Task-Focused Visual Attention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Video Representations From Correspondence Proposals,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SiamRPN++: Evolution of Siamese Visual Tracking With Very Deep Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sphere Generative Adversarial Network Based on Geometric Moment Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Attacks Beyond the Image Space,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A General and Adaptive Robust Loss Function,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Quantize Deep Networks by Optimizing Quantization Intervals With Task Loss,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Learning of Dense Shape Correspondence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Balanced Self-Paced Learning for Generative Adversarial Clustering Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Style-Based Generator Architecture for Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Parallel Optimal Transport GAN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Causes and Corrections for Bimodal Multi-Path Scanning With Structured Light,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TextureNet: Consistent Local Parametrizations for Learning From High-Resolution Signals on Meshes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PlaneRCNN: 3D Plane Detection and Reconstruction From a Single Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Occupancy Networks: Learning 3D Reconstruction in Function Space,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Shape Reconstruction From Images in the Frequency Domain,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SiCloPe: Silhouette-Based Clothed People,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Detailed Human Shape Estimation From a Single Image by Hierarchical Mesh Deformation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Convolutional Mesh Regression for Single-Image Human Shape Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning the Depths of Moving People by Watching Frozen People,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Skeleton-Bridged Deep Learning Approach for Generating Meshes of Complex Topologies From Single RGB Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Structure-And-Motion-Aware Rolling Shutter Correction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SelFlow: Self-Supervised Learning of Optical Flow,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Taking a Deeper Look at the Inverse Compositional Algorithm,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deeper and Wider Siamese Networks for Real-Time Visual Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Diverse Generation for Multi-Agent Sports Games,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Online Multi-Person 2D Pose Tracking With Recurrent Spatio-Temporal Affinity Fields,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GFrames: Gradient-Based Local Reference Frame for 3D Shape Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graph Convolutional Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ATOM: Accurate Tracking by Overlap Maximization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Visual Tracking via Adaptive Spatially-Regularized Correlation Filters,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Tree Learning for Zero-Shot Face Anti-Spoofing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ArcFace: Additive Angular Margin Loss for Deep Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Joint Gait Representation via Quintuplet Loss Minimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Gait Recognition via Disentangled Representation Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reversible GANs for Memory-Efficient Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sensitive-Sample Fingerprinting of Deep Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Soft Labels for Ordinal Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Local to Global Learning: Gradually Adding Classes for Training Deep Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"What Does It Mean to Learn in Deep Networks? And, How Does One Detect Adversarial Attacks?",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Handwriting Recognition in Low-Resource Scripts Using Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Defense Through Network Profiling Based Path Extraction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RENAS: Reinforced Evolutionary Neural Architecture Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Co-Occurrence Neural Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SpotTune: Transfer Learning Through Adaptive Fine-Tuning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Signal-To-Noise Ratio: A Robust Distance Metric for Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Detection Based Defense Against Adversarial Examples From the Steganalysis Point of View,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Strike (With) a Pose: Neural Networks Are Easily Fooled by Strange Poses of Familiar Objects,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Blind Geometric Distortion Correction on Images Through Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Instance-Level Meta Normalization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Normalization: Beyond Standardization Towards Efficient Whitening,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Learning Density Aware Embeddings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Contrastive Adaptation Network for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LP-3DCNN: Unveiling Local Phase in 3D Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Binary Ensemble Neural Network: More Bits per Network or More Networks per Bit?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Distilling Object Detectors With Fine-Grained Feature Imitation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Centripetal SGD for Pruning Very Deep Convolutional Networks With Complicated Structure,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Knockoff Nets: Stealing Functionality of Black-Box Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Embedding Learning With Discriminative Sampling Policy,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hybrid Task Cascade for Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ClusterNet: Deep Hierarchical Cluster Network With Rigorously Rotation-Invariant Representation for Point Cloud Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Learn Relation for Important People Detection in Still Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-Grained Image Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Similarity Loss With General Pair Weighting for Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Domain-Symmetric Networks for Adversarial Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Supervised Product Quantization for Image Search and Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Learn From Noisy Labeled Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DSFD: Dual Shot Face Detector,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Label Propagation for Deep Semi-Supervised Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Global Generalized Gaussian Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-Based Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Context-Aware Crowd Counting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Detect-To-Retrieve: Efficient Regional Aggregation for Image Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Accurate One-Stage Object Detection With AP-Loss,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Exploring Undetermined Relationships for Visual Relationship Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Without Memorizing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dynamic Recursive Neural Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Destruction and Construction Learning for Fine-Grained Image Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Distraction-Aware Shadow Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Label Image Recognition With Graph Convolutional Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+High-Level Semantic Feature Detection: A New Perspective for Pedestrian Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RepMet: Representative-Based Metric Learning for Classification and Few-Shot Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Ranked List Loss for Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Precise Detection in Densely Packed Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+KE-GAN: Knowledge Embedded Generative Adversarial Networks for Semi-Supervised Scene Parsing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast User-Guided Video Object Segmentation by Interaction-And-Propagation Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Interactive Object Annotation With Curve-GCN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FickleNet: Weakly and Semi-Supervised Semantic Image Segmentation Using Stochastic Inference,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RVOS: End-To-End Recurrent Network for Video Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepFlux for Skeletons in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Interactive Image Segmentation via Backpropagating Refinement Scheme,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scene Parsing via Integrated Classification Model and Variance-Based Regularization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RAVEN: A Dataset for Relational and Analogical Visual REasoNing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Surface Reconstruction From Normals: A Robust DGP-Based Discontinuity Preservation Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Jumping Manifolds: Geometry Aware Dense Non-Rigid Structure From Motion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LVIS: A Dataset for Large Vocabulary Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Object Class Labelling via Speech,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LaSOT: A High-Quality Benchmark for Large-Scale Single Object Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Creative Flow+ Dataset,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Neurobiological Evaluation Metric for Neural Network Model Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Projection and Matching: Finding Structure-Preserving Representatives and Its Application to Computer Vision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Multi-Domain Learning by Covariance Normalization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Bayesian Perspective on the Deep Image Prior,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ApolloCar3D: A Large 3D Car Instance Understanding Benchmark for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Compressing Unknown Images With Product Quantizer for Efficient Zero-Shot Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Convolutional Subspace Clustering Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Scale Geometric Consistency Guided Multi-View Stereo,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Privacy Preserving Image-Based Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SimulCap : Single-View Human Performance Capture With Cloth Simulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hierarchical Deep Stereo Matching on High-Resolution Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recurrent MVSNet for High-Resolution Multi-View Stereo Depth Inference,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Synthesizing 3D Shapes From Silhouette Image Collections Using Multi-Projection Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Perfect Match: 3D Point Cloud Matching With Smoothed Densities,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recurrent Neural Network for (Un-)Supervised Learning of Monocular Video Visual Odometry and Depth,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scan2Mesh: From Unstructured Range Scans to 3D Meshes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Domain Adaptation for ToF Data Denoising With Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Independent Object Motion From Unlabelled Stereoscopic Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Single-Image Depth From Videos Using Quality Assessment Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning 3D Human Dynamics From Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Lending Orientation to Neural Networks for Cross-View Geo-Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Visual Localization by Learning Objects-Of-Interest Dense Match Regression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bilateral Cyclic Constraint and Adaptive Regularization for Unsupervised Monocular Depth Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Face Parsing With RoI Tanh-Warping,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Person Articulated Tracking With Spatial and Temporal Embeddings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Person Pose Estimation With Enhanced Channel-Wise and Spatial Information,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Compact Embedding for Facial Expression Similarity,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep High-Resolution Representation Learning for Human Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature Transfer Learning for Face Recognition With Under-Represented Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised 3D Pose Estimation With Geometric Self-Supervision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Peeking Into the Future: Predicting Future Person Activities and Locations in Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Re-Identification With Consistent Attentive Siamese Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On the Continuity of Rotation Representations in Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Inverse Discriminative Networks for Handwritten Signature Verification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Led3D: A Lightweight and Efficient Deep Approach to Recognizing Low-Quality 3D Faces,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ROI Pooled Correlation Filters for Visual Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Video Inpainting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-To-Image Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Non-Adversarial Image Synthesis With Generative Latent Nearest Neighbors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mixture Density Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SketchGAN: Joint Sketch Completion and Recognition With Generative Adversarial Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Foreground-Aware Image Inpainting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Structure-Preserving Stereoscopic View Synthesis With Multi-Scale Adversarial Correlation Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DynTypo: Example-Based Dynamic Text Effects Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Arbitrary Style Transfer With Style-Attentional Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Typography With Decor: Intelligent Text Style Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Photo Wake-Up: 3D Character Animation From a Single Photo,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepLight: Learning Illumination for Unconstrained Mobile Mixed Reality,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Iterative Residual CNNs for Burst Photography Applications,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Implicit Fields for Generative Shape Modeling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reliable and Efficient Image Cropping: A Grid Anchor Based Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Patch-Based Progressive 3D Point Set Upsampling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An Iterative and Cooperative Top-Down and Bottom-Up Inference Network for Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Turn a Silicon Camera Into an InGaAs Camera,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Joint Representative Selection and Feature Learning: A Semi-Supervised Approach,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Domain Transform Solver,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hierarchical Discrete Distribution Decomposition for Match Density Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FOCNet: A Fractional Optimal Control Network for Image Denoising,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Orthogonal Decomposition Network for Pixel-Wise Binary Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Source Weak Supervision for Saliency Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Combinatorial Persistency Criteria for Multicut and Max-Cut,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+S4Net: Single Stage Salient-Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Decomposition Algorithm for the Sparse Generalized Eigenvalue Problem,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Polynomial Representation for Persistence Diagram,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Atlas Convolution for Parameterization Invariant Learning on Textured Mesh Surface,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Surface Normal Estimation With Hierarchical RGB-D Fusion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Knowledge-Embedded Routing Network for Scene Graph Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An End-To-End Network for Panoptic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Marginalized Latent Semantic Encoder for Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Embedding Learning via Invariant and Spreading Instance Feature,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AOGNets: Compositional Grammatical Architectures for Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes With Incompatible Shape Structures,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Context and Attribute Grounded Dense Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spot and Learn: A Maximum-Entropy Patch Sampler for Few-Shot Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Interpreting CNNs via Decision Trees,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Modular Co-Attention Networks for Visual Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Synthesizing Environment-Aware Activities via Activity Sketches,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Critical N-Step Training for Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Target Embodied Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Visual Question Answering as Reading Comprehension,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+StoryGAN: A Sequential Conditional GAN for Story Visualization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Noise-Aware Unsupervised Deep Lidar-Stereo Fusion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Versatile Multiple Choice Learning and Its Application to Vision Computing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ToothNet: Automatic Tooth Instance Segmentation and Identification From Cone Beam CT Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Modularized Textual Grounding for Counterfactual Resilience,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+L3-Net: Towards Learning Based LiDAR Localization for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Panoptic Feature Pyramid Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mask Scoring R-CNN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reasoning-RCNN: Unifying Adaptive Global Reasoning Into Large-Scale Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Modality Personalization for Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Composing Text and Image for Image Retrieval - an Empirical Odyssey,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Arbitrary Shape Scene Text Detection With Adaptive Text Region Representation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptive NMS: Refining Pedestrian Detection in a Crowd,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Point in, Box Out: Beyond Counting Persons in Crowds",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Locating Objects Without Bounding Boxes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sampling Techniques for Large-Scale Object Detection From Sparsely Annotated Objects,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Curls & Whey: Boosting Black-Box Adversarial Attacks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Barrage of Random Transforms for Adversarially Robust Defense,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Aggregation Cross-Entropy for Sequence Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LaSO: Label-Set Operations Networks for Multi-Label Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Few-Shot Learning With Localization in Realistic Settings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AdaGraph: Unifying Predictive and Continuous Domain Adaptation Through Graphs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Grounded Video Description,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Streamlined Dense Video Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Inference for Multi-Sentence Video Description,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unified Visual-Semantic Embeddings: Bridging Vision and Language With Structured Meaning Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Compose Dynamic Tree Structures for Visual Contexts,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cycle-Consistency for Robust Visual Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Embodied Question Answering in Photorealistic Environments With Point Cloud Perception,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reasoning Visual Dialogs With Structural and Partial Observations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recursive Visual Attention in Visual Dialog,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Two Body Problem: Collaborative Visual Task Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Text2Scene: Generating Compositional Scenes From Textual Descriptions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+From Recognition to Cognition: Visual Commonsense Reasoning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Regretful Agent: Heuristic-Aided Navigation Through Progress Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Tactical Rewind: Self-Correction via Backtracking in Vision-And-Language Navigation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+High Flux Passive Imaging With Single-Photon Sensors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Photon-Flooded Single-Photon 3D Cameras,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Acoustic Non-Line-Of-Sight Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Steady-State Non-Line-Of-Sight Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Theory of Fermat Paths for Non-Line-Of-Sight Shape Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Projector Photometric Compensation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bringing Alive Blurred Moments,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Synthesize Motion Blur,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Underexposed Photo Enhancement Using Deep Illumination Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Blind Visual Motif Removal From a Single Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Non-Local Meets Global: An Integrated Paradigm for Hyperspectral Denoising,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Rerendering in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GeoNet: Deep Geodesic Networks for Point Cloud Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MeshAdv: Adversarial Meshes for Visual Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Spatially-Varying Indoor Lighting Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Illumination: Lighting Prediction for Indoor Environments,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Sky Modeling for Single Image Outdoor Lighting Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bidirectional Learning for Domain Adaptation of Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Enhanced Bayesian Compression via Deep Reinforcement Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Strong-Weak Distribution Alignment for Adaptive Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MFAS: Multimodal Fusion Architecture Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Disentangling Adversarial Robustness and Generalization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ShieldNets: Defending Against Adversarial Attacks Using Probabilistic Adversarial Robustness,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deeply-Supervised Knowledge Synergy,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Probabilistic End-To-End Noise Correction for Learning With Noisy Labels,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention-Guided Unified Network for Panoptic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+OICSR: Out-In-Channel Sparsity Regularization for Compact Deep Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantically Aligned Bias Reducing Zero Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Feature Space Perturbations Yield More Transferable Adversarial Examples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+IGE-Net: Inverse Graphics Energy Networks for Human Pose Estimation and Single-View Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Accelerating Convolutional Neural Networks via Activation Map Compression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Knowledge Distillation via Instance Relationship Graph,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PPGNet: Learning Point-Pair Graph for Line Segment Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Building Detail-Sensitive Semantic Segmentation Networks With Polynomial Pooling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Variational Bayesian Dropout With a Hierarchical Prior,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AANet: Attribute Attention Network for Person Re-Identifications,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Main/Subsidiary Network Framework for Simplifying Binary Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Few-Shot Adaptive Faster R-CNN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+VRSTC: Occlusion-Free Video Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Compact Feature Learning for Multi-Domain Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptive Transfer Network for Cross-Domain Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large-Scale Few-Shot Learning: Knowledge Transfer With Class Hierarchy,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Moving Object Detection Under Discontinuous Change in Illumination Using Tensor Low-Rank and Invariant Sparse Decomposition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pedestrian Detection With Autoregressive Network Phases,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+All You Need Is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Stochastic Class-Based Hard Example Mining for Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Revisiting Local Descriptor Based Image-To-Class Measure for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Robust Curve Text Detection With Conditional Spatial Expansion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Revisiting Perspective Information for Efficient Crowd Counting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Universal Object Detection by Domain Attention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Ensemble Deep Manifold Similarity Learning Using Hard Proxies,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Quantization Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RES-PCA: A Scalable Approach to Recovering Low-Rank Matrices,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Featurized Image Pyramid Network for Single Shot Detector,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Task Multi-Sensor Fusion for 3D Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Domain-Specific Batch Normalization for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Grid R-CNN,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Mapping, Localization and Path Planning for Image-Based Navigation Using Visual Features and Map",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Triply Supervised Decoder Networks for Joint Detection and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Leveraging the Invariant Side of Generative Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploring the Bounds of the Utility of Context for Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A-CNN: Annularly Convolutional Neural Networks on Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DARNet: Deep Active Ray Network for Building Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Point Cloud Oversegmentation With Graph-Structured Deep Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graphonomy: Universal Human Parsing via Graph Transfer Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fitting Multiple Heterogeneous Models by Multi-Class Cascaded T-Linkage,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Late Fusion CNN for Digital Matting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+BASNet: Boundary-Aware Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ZigZagNet: Fusing Top-Down and Bottom-Up Context for Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object Instance Annotation With Deep Extreme Level Set Evolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Leveraging Crowdsourced GPS Data for Road Extraction From Aerial Imagery,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptive Pyramid Context Network for Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Isospectralization, or How to Hear Shape, Style, and Correspondence",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Speech2Face: Learning the Face Behind a Voice,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Joint Manifold Diffusion for Combining Predictions on Decoupled Observations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Audio Visual Scene-Aware Dialog,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Minify Photometric Stereo,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Reflective and Fluorescent Separation Under Narrow-Band Illumination,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Depth From a Polarisation + RGB Stereo Pair,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Rethinking the Evaluation of Video Summaries,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+What Object Should I Use? - Task Driven Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Triangulation Learning Network: From Monocular to Stereo 3D Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Connecting the Dots: Learning Representations for Active Monocular Depth Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Non-Volumetric Depth Fusion Using Successive Reprojections,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Stereo R-CNN Based 3D Object Detection for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hybrid Scene Compression for Visual Localization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MMFace: A Multi-Metric Regression Network for Unconstrained Face Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Motion Decomposition for RGBD Future Dynamic Scene Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single Image Depth Estimation Trained via Depth From Defocus Cues,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RGBD Based Dimensional Decomposition Residual Network for 3D Semantic Scene Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Scene Decomposition for Multi-Person Motion Capture,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Decision-Based Black-Box Adversarial Attacks on Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FA-RPN: Floating Region Proposals for Face Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Bayesian Hierarchical Dynamic Model for Human Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Mixed Effects Neural Networks (MeNets) With Applications to Gaze Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Regress 3D Face Shape and Expression From an Image Without 3D Supervision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PoseFix: Model-Agnostic General Human Pose Refinement Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast and Robust Multi-Person 3D Pose Estimation From Multiple Views,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Face-Focused Cross-Stream Network for Deception Detection in Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+T-Net: Parametrizing Fully Convolutional Nets With a Single High-Order Tensor,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object-Centric Auto-Encoders and Dummy Anomalies for Abnormal Event Detection in Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Pros and Cons: Rank-Aware Temporal Attention for Skill Determination in Long Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Collaborative Spatiotemporal Feature Learning for Video Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MARS: Motion-Augmented RGB Stream for Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Convolutional Relational Machine for Group Activity Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Video Summarization by Learning From Unpaired Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Skeleton-Based Action Recognition With Directed Graph Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PA3D: Pose-Action 3D Machine for Video Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Dual Relation Modeling for Egocentric Interaction Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MOTS: Multi-Object Tracking and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointFlowNet: Learning Representations for Rigid Motion Estimation From Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Listen to the Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Image Super-Resolution by Neural Texture Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Conditional Adversarial Generative Flow for Controllable Image Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+How to Make a Pizza: Learning a Compositional Layer-Based GAN Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TransGaGa: Geometry-Aware Unsupervised Image-To-Image Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Depth-Attentional Features for Single-Image Rain Removal,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hyperspectral Image Reconstruction Using a Deep Spatial-Spectral Prior,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LiFF: Light Field Features in Scale and Depth,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Exemplar-Based Video Colorization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Finding Gray Pixels,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+UnOS: Unified Unsupervised Optical-Flow and Stereo-Depth Estimation by Watching Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Transformation Synchronization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+D2-Net: A Trainable CNN for Joint Description and Detection of Local Features,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Extract Flawless Slow Motion From Blurry Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Natural and Realistic Single Image Super-Resolution With Explicit Natural Manifold Discrimination,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RF-Net: An End-To-End Image Matching Network Based on Receptive Field,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Single Image Reflection Suppression via Convex Optimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Mutual Learning Method for Salient Object Detection With Intertwined Multi-Supervision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Enhanced Pix2pix Dehazing Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Assessing Personally Perceived Image Quality via Image Features and Collaborative Filtering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploring Context and Visual Pattern of Relationship for Scene Graph Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning From Synthetic Data for Crowd Counting in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Local Block Coordinate Descent Algorithm for the CSC Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Not Using the Car to See the Sidewalk -- Quantifying and Controlling the Effects of Context in Classification and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Discovering Fair Representations in the Data Domain,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Actor-Critic Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Projection Network for Zero- and Few-Label Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Seamless Scene Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Image Matching and Object Discovery as Optimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards VQA Models That Can Read,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object-Aware Aggregation With Bidirectional Temporal Graph for Video Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Attention Memory Network for Movie Story Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Memory-Attended Recurrent Network for Video Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Visual Query Answering by Entity-Attribute Graph Matching and Reasoning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Look Back and Predict Forward in Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Explainable and Explicit Visual Reasoning Over Scene Graphs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Transfer Learning via Unsupervised Task Discovery for Visual Question Answering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Intention Oriented Image Captions With Guiding Objects,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Uncertainty Guided Multi-Scale Residual Learning-Using a Cycle Spinning CNN for Single Image De-Raining,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Toward Realistic Image Compositing With Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep ChArUco: Dark ChArUco Marker Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Rules of the Road: Predicting Driving Behavior With a Convolutional Model of Semantic Interactions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Metric Learning for Image Registration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LO-Net: Deep Real-Time Lidar Odometry,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+World From Blur,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Topology Reconstruction of Tree-Like Structure in Images via Structural Similarity Measure and Dominant Set Clustering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Holistic and Comprehensive Annotation of Clinically Significant Findings on Diverse CT Images: Learning From Radiology Reports and Label Ontology,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robust Histopathology Image Analysis: To Label or to Synthesize?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Data Augmentation Using Learned Transformations for One-Shot Medical Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Shifting More Attention to Video Salient Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural Task Graphs: Generalizing to Unseen Tasks From a Single Video Demonstration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Image Generation From Layout,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multimodal Explanations by Predicting Counterfactuality in Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Explain With Complemental Examples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+HAQ: Hardware-Aware Automated Quantization With Mixed Precision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Content Authentication for Neural Imaging Pipelines: End-To-End Optimization of Photo Provenance in Complex Distribution Channels,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Inverse Procedural Modeling of Knitwear,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Estimating 3D Motion and Forces of Person-Object Interactions From Monocular Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Interpretable Neural Motion Planner,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Divergence Triangle for Joint Training of Generator Model, Energy-Based Model, and Inferential Model",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Image Deformation Meta-Networks for One-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Online High Rank Matrix Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multispectral Imaging for Fine-Grained Recognition of Powders on Complex Backgrounds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robust Subspace Clustering With Independent and Piecewise Identically Distributed Noise Modeling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+What Correspondences Reveal About Unknown Camera and Motion Models?,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Calibrating Deep Photometric Stereo Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Argoverse: 3D Tracking and Forecasting With Rich Maps,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Side Window Filtering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Defense Against Adversarial Images Using Web-Scale Nearest-Neighbor Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Incremental Object Learning From Contiguous Views,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+UPSNet: A Unified Panoptic Segmentation Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds With Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepCO3: Deep Instance Co-Segmentation by Co-Peak Search and Co-Saliency Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving Semantic Segmentation via Video Propagation and Label Relaxation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Shape2Motion: Joint Analysis of Motion Parts and Attributes From 3D Shapes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Correlation Promoted Shape-Variant Context for Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Relation-Shape Convolutional Neural Network for Point Cloud Analysis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Enhancing Diversity of Defocus Blur Detectors via Cross-Ensemble Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Parameter-Free Clustering Using First Neighbor Relations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Personalized Modular Network Guided by Structured Knowledge,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Generative Appearance Model for End-To-End Video Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Flexible Convolutional Solver for Fast Style Transfers,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross Domain Model Compression by Structurally Weight Sharing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TraVeLGAN: Image-To-Image Translation by Transformation Vector Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Robust Subjective Visual Property Prediction in Crowdsourcing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Transferable AutoML by Model Sharing Over Grouped Datasets,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Not to Learn: Training Deep Neural Networks With Biased Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+IRLAS: Inverse Reinforcement Learning for Architecture Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning for Single-Shot Confidence Calibration in Deep Neural Networks Through Stochastic Inferences,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention-Based Adaptive Selection of Operations for Image Restoration in the Presence of Unknown Combined Distortions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fully Learnable Group Convolution for Acceleration of Deep Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+EIGEN: Ecologically-Inspired GENetic Approach for Neural Network Structure Searching From Scratch,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Incremental Hashing Network for Efficient Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Robustness via Curvature Regularization, and Vice Versa",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SparseFool: A Few Pixels Make a Big Difference,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Structured Pruning of Neural Networks With Budget-Aware Regularization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MBS: Macroblock Scaling for CNN Model Reduction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generating 3D Adversarial Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Partial Order Pruning: For Best Speed/Accuracy Trade-Off in Neural Architecture Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Memory in Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity From Spatiotemporal Dynamics,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Variational Information Distillation for Knowledge Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+You Look Twice: GaterNet for Dynamic Filter Selection in CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360deg Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"ESPNetv2: A Light-Weight, Power Efficient, and General Purpose Convolutional Neural Network",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Assisted Excitation of Activations: A Learning Technique to Improve Object Detectors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploiting Edge Features for Graph Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Propagation Mechanism for Deep and Wide Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Catastrophic Child's Play: Easy to Perform, Hard to Defend Adversarial Attacks",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Embedding Complementary Deep Networks for Image Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Multimodal Clustering for Unsupervised Audiovisual Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dense Classification and Implanting for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Class-Balanced Loss Based on Effective Number of Samples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Discovering Visual Patterns in Art Collections With Spatially-Consistent Feature Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Min-Max Statistical Alignment for Transfer Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatial-Aware Graph Relation Network for Large-Scale Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Deformable ConvNets V2: More Deformable, Better Results",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Interaction-And-Aggregation Network for Person Re-Identification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Rare Event Detection Using Disentangled Representation Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Shape Robust Text Detection With Progressive Scale Expansion Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dual Encoding for Zero-Example Video Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MaxpoolNMS: Getting Rid of NMS Bottlenecks in Two-Stage Object Detectors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Character Region Awareness for Text Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Effective Aesthetics Prediction With Multi-Level Spatially Pooled Features,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attentive Region Embedding Network for Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Explicit Spatial Encoding for Deep Local Descriptors,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Panoptic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+You Reap What You Sow: Using Videos to Generate High Precision Object Proposals for Weakly-Supervised Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Explore-Exploit Graph Traversal for Image Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dissimilarity Coefficient Based Weakly Supervised Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Kernel Transformer Networks for Compact Spherical Convolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object Detection With Location-Aware Deformable Convolution and Backward Attention Filtering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Variational Prototyping-Encoder: One-Shot Learning With Prototypical Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Domain Adaptation Using Feature-Whitening and Consensus Loss,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FEELVOS: Fast End-To-End Embedding Learning for Video Object Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PartNet: A Recursive Part Decomposition Network for Fine-Grained and Hierarchical Shape Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Multi-Class Segmentations From Single-Class Datasets,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Convolutional Recurrent Network for Road Boundary Extraction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Cross-Season Correspondence Dataset for Robust Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Zero-Shot Recognition of Generic Objects,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Explicit Bias Discovery in Visual Question Answering Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+REPAIR: Removing Representation Bias by Dataset Resampling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Label Efficient Semi-Supervised Learning via Graph Filtering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MVTec AD -- A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ABC: A Big CAD Model Dataset for Geometric Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Tightness-Aware Evaluation Protocol for Scene Text Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointConv: Deep Convolutional Networks on 3D Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Octree Guided CNN With Spherical Kernels for 3D Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+VITAMIN-E: VIsual Tracking and MappINg With Extremely Dense Feature Points,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Conditional Single-View Shape Generation for Multi-View Stereo Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Adapt for Stereo,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Appearance Super-Resolution With Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Radial Distortion Triangulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robust Point Cloud Based Reconstruction of Large-Scale Outdoor Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Minimal Solvers for Mini-Loop Closures in 3D Multi-Scan Alignment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Volumetric Capture of Humans With a Single RGBD Camera via Semi-Parametric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Joint Face Detection and Facial Motion Retargeting for Multiple Faces,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Monocular Depth Estimation Using Relative Depth Maps,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Primitive Discovery for Improved 3D Generative Modeling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Explore Intrinsic Saliency for Stereoscopic Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on N-Spheres",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning View Priors for Single-View 3D Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Guided Fine-Grained Face Manipulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neuro-Inspired Eye Tracking With Eye Movement Dynamics,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Facial Emotion Distribution Learning by Exploiting Low-Rank Label Correlations Locally,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Face Normalization With Extreme Pose and Expression in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Component Decomposition for Face Attribute Manipulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+R3 Adversarial Network for Cross Model Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Disentangling Latent Hands for Image Synthesis and Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generating Multiple Hypotheses for 3D Human Pose Estimation With Mixture Density Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+P2SGrad: Refined Gradients for Optimizing Deep Face Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Action Recognition From Single Timestamp Supervision in Untrimmed Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Time-Conditioned Action Anticipation in One Shot,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dance With Flow: Two-In-One Stream Action Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Representation Flow for Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LSTA: Long Short-Term Attention for Egocentric Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Actor Relation Graphs for Group Activity Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Structured Model for Action Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Out-Of-Distribution Detection for Generalized Zero-Shot Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object Discovery in Videos as Foreground Motion Clustering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Natural and Accurate Future Motion Prediction of Humans and Animals,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Automatic Face Aging in Videos via Deep Reinforcement Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Content Transformation Block for Image Style Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+BeautyGlow: On-Demand Makeup Transfer Framework With Reversible Generative Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Style Transfer by Relaxed Optimal Transport and Self-Similarity,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Inserting Videos Into Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Image and Video Compression Through Spatial-Temporal Energy Compaction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Event-Based High Dynamic Range Image and Very High Frame Rate Video Generation Using Conditional Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Capture, Learning, and Synthesis of 3D Speaking Styles",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Nesti-Net: Normal Estimation for Unstructured 3D Point Clouds Using Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Ray-Space Projection Model for Light Field Camera,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Geometric Prior for Surface Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Analysis of Feature Visibility in Non-Line-Of-Sight Measurements,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hyperspectral Imaging With Random Printed Mask,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+All-Weather Deep Outdoor Lighting Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Viewport Proposal CNN for 360deg Video Quality Assessment,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Beyond Gradient Descent for Regularized Segmentation Losses,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MAGSAC: Marginalizing Sample Consensus,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Understanding and Visualizing Deep Visual Saliency Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Divergence Prior and Vessel-Tree Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Domain-Specific Deblurring via Disentangled Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Speed Invariant Time Surface for Learning to Detect Corner Points With Event-Based Cameras,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Training Deep Learning Based Image Denoisers From Undersampled Measurements Without Ground Truth and Without Image Prior,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Variational Pan-Sharpening With Local Gradient Constraints,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+F-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graph Attention Convolution for Point Cloud Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Normalized Diversification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Localize Through Compressed Binary Maps,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Parametric Top-View Representation of Complex Road Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Spatiotemporal Learning via Video Clip Order Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Superquadrics Revisited: Learning 3D Shape Parsing Beyond Cuboids,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Disentangling of Appearance and Geometry by Deformable Generator Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Representation Learning by Rotation Feature Decoupling,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Deep Image Hashing Through Tag Embeddings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improved Road Connectivity by Joint Learning of Orientation and Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Supervised Cross-Modal Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Data Representation and Learning With Graph Diffusion-Embedding Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Video Relationship Reasoning Using Gated Spatio-Temporal Energy Graph,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Image-Question-Answer Synergistic Network for Visual Dialog,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Not All Frames Are Equal: Weakly-Supervised Video Grounding With Contextual Similarity and Visual Clustering Losses,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Inverse Cooking: Recipe Generation From Food Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Semantic Alignment for Improved Image Captions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Answer Them All! Toward Universal Visual Question Answering Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Multi-Modal Neural Machine Translation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Task Learning of Hierarchical Vision-Language Representation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cross-Modal Self-Attention Network for Referring Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DuDoNet: Dual Domain Network for CT Metal Artifact Reduction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Fast Spatio-Temporal Residual Network for Video Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Complete the Look: Scene-Based Complementary Product Recommendation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Selective Sensor Fusion for Neural Visual-Inertial Odometry,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Binary Code for Personalized Fashion Recommendation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention Based Glaucoma Detection: A Large-Scale Database and CNN Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Privacy Protection in Street-View Panoramas Using Depth and Multi-View Imagery,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Grounding Human-To-Vehicle Advice for Self-Driving Vehicles,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Step Prediction of Occupancy Grid Maps With Recurrent Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Connecting Touch and Vision via Cross-Modal Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+X2CT-GAN: Reconstructing CT From Biplanar X-Rays With Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Practical Full Resolution Learned Lossless Image Compression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Image-To-Image Translation via Group-Wise Deep Whitening-And-Coloring Transformation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Max-Sliced Wasserstein Distance and Its Use for GANs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Meta-Learning With Differentiable Convex Optimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+RePr: Improved Training of Convolutional Filters,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Tangent-Normal Adversarial Regularization for Semi-Supervised Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Auto-Encoding Scene Graphs for Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attention Branch Network: Learning of Attention Mechanism for Visual Explanation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cascaded Projection: End-To-End Network Compression and Acceleration,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DeepCaps: Going Deeper With Capsule Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+APDrawingGAN: Generating Artistic Portrait Drawings From Face Photos With Hierarchical GANs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Constrained Generative Adversarial Networks for Interactive Image Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+WarpGAN: Automatic Caricature Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Explainability Methods for Graph Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Generative Adversarial Density Estimator,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+High-Quality Face Capture Using Anatomical Muscles,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FML: Face Model Learning From Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AdaCos: Adaptively Scaling Cosine Logits for Effectively Learning Deep Face Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Hand Shape and Pose Estimation From a Single RGB Image,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+3D Hand Shape and Pose From Images in the Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised 3D Hand Pose Estimation Through Training by Fitting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CrowdPose: Efficient Crowded Scenes Pose Estimation and a New Benchmark,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Towards Social Artificial Intelligence: Nonverbal Social Signal Prediction in a Triadic Interaction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+HoloPose: Holistic 3D Human Reconstruction In-The-Wild,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Slim DensePose: Thrifty Learning From Sparse Annotations and Motion Cues,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised Representation Learning From Videos for Facial Action Unit Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Combining 3D Morphable Models: A Large Scale Face-And-Head Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Boosting Local Shape Matching for Dense 3D Face Correspondence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Part-Based Disentangling of Object Shape and Appearance,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Monocular Total Capture: Posing Face, Body, and Hands in the Wild",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Expressive Body Capture: 3D Hands, Face, and Body From a Single Image",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Neural RGB(r)D Sensing: Depth and Uncertainty From a Video Camera,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DAVANet: Stereo Deblurring With View Aggregation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+DVC: An End-To-End Deep Video Compression Framework,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SOSNet: Second Order Similarity Regularization for Local Descriptor Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"""Double-DIP"": Unsupervised Image Decomposition via Coupled Deep-Image-Priors",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unprocessing Images for Learned Raw Denoising,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Residual Networks for Light Field Image Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Modulating Image Restoration With Continual Levels via Adaptive Feature Modification Layers,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Second-Order Attention Network for Single Image Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Devil Is in the Edges: Learning Semantic Boundaries From Noisy Annotations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Path-Invariant Map Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FilterReg: Robust and Efficient Probabilistic Point-Set Registration Using Gaussian Filter and Twist Parameterization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Probabilistic Permutation Synchronization Using the Riemannian Structure of the Birkhoff Polytope,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Lifting Vectorial Variational Problems: A Natural Formulation Based on Geometric Measure Theory and Discrete Exterior Calculus,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Sufficient Condition for Convergences of Adam and RMSProp,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Guaranteed Matrix Completion Under Multiple Linear Transformations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+MAP Inference via Block-Coordinate Frank-Wolfe Algorithm,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Convex Relaxation for Multi-Graph Matching,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pixel-Adaptive Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Single-Frame Regularization for Temporally Stable CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An End-To-End Network for Generating Social Relationship Graphs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Meta-Learning Convolutional Neural Architectures for Multi-Target Concrete Defect Classification With the COncrete DEfect BRidge IMage Dataset,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity Through Low-Bit Quantization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Defending Against Adversarial Attacks by Randomized Diversification,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Rob-GAN: Generator, Discriminator, and Adversarial Attacker",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning From Noisy Labels by Regularized Estimation of Annotator Confusion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Task-Free Continual Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Importance Estimation for Neural Network Pruning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Detecting Overfitting of Deep Generative Networks via Latent Recovery,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Coloring With Limited Data: Few-Shot Colorization via Memory Augmented Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Characterizing and Avoiding Negative Transfer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Building Efficient Deep Neural Networks With Unitary Group Convolutions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semi-Supervised Learning With Graph Learning-Convolutional Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AIRD: Adversarial Learning Framework for Image Repurposing Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Kernelized Manifold Mapping to Diminish the Effect of Adversarial Perturbations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Trust Region Based Adversarial Attack on Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PEPSI : Fast Image Inpainting With Parallel Decoding Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Model-Blind Video Denoising via Frame-To-Frame Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Efficient Representation Learning via Cascading Combinatorial Optimization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+ChamNet: Towards Efficient Network Design Through Platform-Aware Model Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Regularizing Activation Distribution for Training Binarized Deep Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robustness Verification of Classification Deep Neural Networks via Linear Programming,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Additive Adversarial Learning for Unbiased Authentication,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Simultaneously Optimizing Weight and Quantizer of Ternary Neural Network Using Truncated Gaussian Approximation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adversarial Defense by Stratified Convolutional Sparse Coding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Exploring Object Relation in Mean Teacher for Cross-Domain Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hierarchical Disentanglement of Discriminative Latent Features for Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+R2GAN: Cross-Modal Recipe Retrieval With Generative Adversarial Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Rethinking Knowledge Graph Propagation for Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning to Learn Image Classifiers With Visual Analogy,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Where's Wally Now? Deep Generative and Discriminative Embeddings for Novelty Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Image Classification Through Noise Regularization,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Data-Driven Neuron Allocation for Scale Aggregation Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Graphical Contrastive Losses for Scene Graph Parsing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Transfer Learning for Multiple Class Novelty Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+QATM: Quality-Aware Template Matching for Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Retrieval-Augmented Convolutional Neural Networks Against Adversarial Examples,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Cross-Modal Embeddings With Adversarial Networks for Cooking Recipes and Food Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Weakly Supervised Video Moment Retrieval From Text Queries,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Content-Aware Multi-Level Guidance for Interactive Instance Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Greedy Structure Learning of Hierarchical Compositional Models,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Interactive Full Image Segmentation by Considering All Regions Jointly,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Active Contour Models for Medical Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Customizable Architecture Search for Semantic Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Local Features and Visual Words Emerge in Activations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Hyperspectral Image Super-Resolution With Optimized RGB Guidance,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptive Confidence Smoothing for Generalized Zero-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PMS-Net: Robust Haze Removal Based on Patch Map for Single Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Spherical Quantization for Image Search,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large-Scale Interactive Object Segmentation With Human Annotators,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Poisson-Gaussian Denoising Dataset With Real Fluorescence Microscopy Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Task Agnostic Meta-Learning for Few-Shot Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Progressive Ensemble Networks for Zero-Shot Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Direct Object Recognition Without Line-Of-Sight Using Optical Coherence,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Atlas of Digital Pathology: A Generalized Hierarchical Histological Tissue Type-Annotated Database for Deep Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Perturbation Analysis of the 8-Point Algorithm: A Case Study for Wide FoV Cameras,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Robustness of 3D Deep Learning in an Adversarial Setting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SceneCode: Monocular Dense Semantic Reconstruction Using Learned Encoded Scene Representations,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+StereoDRNet: Dilated Residual StereoNet,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Joint Reconstruction of Hands and Manipulated Objects,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Single Image Camera Calibration With Radial Distortion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Translate-to-Recognize Networks for RGB-D Scene Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Re-Identification Supervised Texture Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Action4D: Online Action Recognition in the Crowd and Clutter,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Attribute-Aware Face Aging With Wavelet-Based Generative Adversarial Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Noise-Tolerant Paradigm for Training Face Recognition CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Low-Rank Laplacian-Uniform Mixed Model for Robust Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Generalizing Eye Tracking With Bayesian Adversarial Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Local Relationship Learning With Person-Specific Shape Regularization for Facial Action Unit Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Point-To-Pose Voting Based Hand Pose Estimation Using Residual Permutation Equivariant Layer,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+AdaptiveFace: Adaptive Margin and Sampling for Face Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Disentangled Representation Learning for 3D Face Shape,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LBS Autoencoder: Self-Supervised Fitting of Articulated Meshes to Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PifPaf: Composite Fields for Human Pose Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TACNet: Transition-Aware Context Network for Spatio-Temporal Action Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Regularity in Skeleton Trajectories for Anomaly Detection in Videos,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Local Temporal Bilinear Pooling for Fine-Grained Action Parsing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Improving Action Localization by Progressive Cross-Stream Cooperation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Neural Network Based on SPD Manifold Learning for Skeleton-Based Hand Gesture Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large-Scale Weakly-Supervised Pre-Training for Video Action Recognition,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Spatio-Temporal Representation With Local and Global Diffusion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Learning of Action Classes With Continuous Temporal Embedding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Double Nuclear Norm Based Low Rank Representation on Grassmann Manifolds for Clustering,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+SR-LSTM: State Refinement for LSTM Towards Pedestrian Trajectory Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Neural Temporal Model for Human Motion Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Agent Tensor Fusion for Contextual Trajectory Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+On Stabilizing Generative Adversarial Training With Noise,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Self-Supervised GANs via Auxiliary Rotation Loss,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Texture Mixer: A Network for Controllable Synthesis and Interpolation of Texture,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object-Driven Text-To-Image Synthesis via Adversarial Training,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Zoom-In-To-Check: Boosting Video Interpolation via Instance-Level Discrimination,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Disentangling Latent Space for VAE by Label Relevant/Irrelevant Dimensions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spectral Reconstruction From Dispersive Blur: A Novel Light Efficient Spectral Imager,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Quasi-Unsupervised Color Constancy,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Deep Defocus Map Estimation Using Domain Adaptation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Using Unknown Occluders to Recover Hidden Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Learning Parallax Attention for Stereo Image Super-Resolution,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Knowing When to Stop: Evaluation and Verification of Conformity to Output-Size Specifications,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatial Attentive Single-Image Deraining With a High Quality Real Rain Dataset,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Focus Is All You Need: Loss Functions for Event-Based Vision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Scalable Convolutional Neural Network for Image Compressed Sensing,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Event Cameras, Contrast Maximization and Reward Functions: An Analysis",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Convolutional Neural Networks Can Be Deceived by Visual Illusions,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PDE Acceleration for Active Contours,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dichromatic Model Based Temporal Color Constancy for AC Light Sources,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Semantic Attribute Matching Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Skin-Based Identification From Multispectral Image Data Using CNNs,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PIEs: Pose Invariant Embeddings,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Object Counting and Instance Segmentation With Image-Level Supervision,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Variational Autoencoders Pursue PCA Directions (by Accident),2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Relation-Augmented Fully Convolutional Network for Semantic Segmentation in Aerial Scenes,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Temporal Transformer Networks: Joint Learning of Invariant and Discriminative Time Warping,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Depth Coefficients for Depth Completion,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+"Good News, Everyone! Context Driven Entity-Aware Captioning for News Images",2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multi-Level Multimodal Common Semantic Space for Image-Phrase Grounding,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Pointing Novel Objects in Image Captioning,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Informative Object Annotations: Tell Me Something I Don't Know,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Engaging Image Captioning via Personality,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Vision-Based Navigation With Language-Based Assistance via Imitation Learning With Indirect Intervention,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+A Simple Baseline for Audio-Visual Scene-Aware Dialog,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+End-To-End Learned Random Walker for Seeded Image Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Efficient Neural Network Compression,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Cascaded Generative and Discriminative Learning for Microcalcification Detection in Breast Mammograms,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+C3AE: Exploring the Limits of Compact Model for Age Estimation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Adaptive Weighting Multi-Field-Of-View CNN for Semantic Segmentation in Pathology,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+In Defense of Pre-Trained ImageNet Architectures for Real-Time Semantic Segmentation of Road-Driving Images,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Context-Aware Visual Compatibility Prediction,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Sim-To-Real via Sim-To-Sim: Data-Efficient Robotic Grasping via Randomized-To-Canonical Adaptation Networks,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Context-Aware Spatio-Recurrent Curvilinear Structure Segmentation,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+An Alternative Deep Feature Approach to Line Level Keyword Spotting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Dynamics Are Important for the Recognition of Equine Pain in Video,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Machine Vision Guided 3D Medical Image Compression for Efficient Transmission and Accurate Segmentation in the Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+PointPillars: Fast Encoders for Object Detection From Point Clouds,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Motion Estimation of Non-Holonomic Ground Vehicles From a Single Feature Correspondence Measured Over N Views,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+From Coarse to Fine: Robust Hierarchical Localization at Large Scale,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Large Scale High-Resolution Land Cover Mapping With Multi-Resolution Data,2019,CVPR,The Conference on Computer Vision and Pattern Recognition
+Leveraging Heterogeneous Auxiliary Tasks to Assist Crowd Counting,2019,CVPR,The Conference on Computer Vision and Pattern Recognition

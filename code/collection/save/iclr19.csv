@@ -1,0 +1,503 @@
+title,year,conf,conf_long
+BA-Net: Dense Bundle Adjustment Networks,2019,ICLR,International Conference on Machine Learning
+Deterministic Variational Inference for Robust Bayesian Neural Networks,2019,ICLR,International Conference on Machine Learning
+Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Large Scale GAN Training for High Fidelity Natural Image Synthesis,2019,ICLR,International Conference on Machine Learning
+Learning deep representations by mutual information estimation and maximization,2019,ICLR,International Conference on Machine Learning
+KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Learning Protein Structure with a Differentiable Simulator,2019,ICLR,International Conference on Machine Learning
+ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness,2019,ICLR,International Conference on Machine Learning
+Smoothing the Geometry of Probabilistic Box Embeddings,2019,ICLR,International Conference on Machine Learning
+"On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",2019,ICLR,International Conference on Machine Learning
+Meta-Learning Update Rules for Unsupervised Representation Learning,2019,ICLR,International Conference on Machine Learning
+Transferring Knowledge across Learning Processes,2019,ICLR,International Conference on Machine Learning
+GENERATING HIGH FIDELITY IMAGES WITH SUBSCALE PIXEL NETWORKS AND MULTIDIMENSIONAL UPSCALING,2019,ICLR,International Conference on Machine Learning
+Temporal Difference Variational Auto-Encoder,2019,ICLR,International Conference on Machine Learning
+A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs,2019,ICLR,International Conference on Machine Learning
+Pay Less Attention with Lightweight and Dynamic Convolutions,2019,ICLR,International Conference on Machine Learning
+Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset,2019,ICLR,International Conference on Machine Learning
+Learning to Remember More with Less Memorization,2019,ICLR,International Conference on Machine Learning
+Learning Robust Representations by Projecting Superficial Statistics Out,2019,ICLR,International Conference on Machine Learning
+"Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",2019,ICLR,International Conference on Machine Learning
+"The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",2019,ICLR,International Conference on Machine Learning
+"The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",2019,ICLR,International Conference on Machine Learning
+FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models,2019,ICLR,International Conference on Machine Learning
+How Powerful are Graph Neural Networks?,2019,ICLR,International Conference on Machine Learning
+Convolutional Neural Networks on Non-uniform Geometrical Signals Using Euclidean Spectral Transformation,2019,ICLR,International Conference on Machine Learning
+Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation,2019,ICLR,International Conference on Machine Learning
+Variance Networks: When Expectation Does Not Meet Your Expectations,2019,ICLR,International Conference on Machine Learning
+Initialized Equilibrium Propagation for Backprop-Free Training,2019,ICLR,International Conference on Machine Learning
+Explaining Image Classifiers by Counterfactual Generation,2019,ICLR,International Conference on Machine Learning
+SNIP: SINGLE-SHOT NETWORK PRUNING BASED ON CONNECTION SENSITIVITY,2019,ICLR,International Conference on Machine Learning
+Diagnosing and Enhancing VAE Models,2019,ICLR,International Conference on Machine Learning
+Disjoint Mapping Network for Cross-modal Matching of Voices and Faces,2019,ICLR,International Conference on Machine Learning
+Automatically Composing Representation Transformations as a Means for Generalization,2019,ICLR,International Conference on Machine Learning
+Visual Reasoning by Progressive Module Networks,2019,ICLR,International Conference on Machine Learning
+Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes,2019,ICLR,International Conference on Machine Learning
+Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference,2019,ICLR,International Conference on Machine Learning
+Sparse Dictionary Learning by Dynamical Neural Networks,2019,ICLR,International Conference on Machine Learning
+Eidetic 3D LSTM: A Model for Video Prediction and Beyond,2019,ICLR,International Conference on Machine Learning
+ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA,2019,ICLR,International Conference on Machine Learning
+Three Mechanisms of Weight Decay Regularization,2019,ICLR,International Conference on Machine Learning
+Learning Multimodal Graph-to-Graph Translation for Molecule Optimization,2019,ICLR,International Conference on Machine Learning
+A Data-Driven and Distributed Approach to Sparse Signal Representation and Recovery,2019,ICLR,International Conference on Machine Learning
+On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data,2019,ICLR,International Conference on Machine Learning
+Neural Logic Machines,2019,ICLR,International Conference on Machine Learning
+Neural Speed Reading with Structural-Jump-LSTM,2019,ICLR,International Conference on Machine Learning
+Rigorous Agent Evaluation: An Adversarial Approach to Uncover Catastrophic Failures,2019,ICLR,International Conference on Machine Learning
+"Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search",2019,ICLR,International Conference on Machine Learning
+signSGD via Zeroth-Order Oracle,2019,ICLR,International Conference on Machine Learning
+Preventing Posterior Collapse with delta-VAEs,2019,ICLR,International Conference on Machine Learning
+Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees,2019,ICLR,International Conference on Machine Learning
+Knowledge Flow: Improve Upon Your Teachers,2019,ICLR,International Conference on Machine Learning
+Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information,2019,ICLR,International Conference on Machine Learning
+A Max-Affine Spline Perspective of Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Learning to Navigate the Web,2019,ICLR,International Conference on Machine Learning
+Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability,2019,ICLR,International Conference on Machine Learning
+Learning to Learn with Conditional Class Dependencies,2019,ICLR,International Conference on Machine Learning
+Hierarchical Visuomotor Control of Humanoids,2019,ICLR,International Conference on Machine Learning
+Unsupervised Adversarial Image Reconstruction,2019,ICLR,International Conference on Machine Learning
+Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds,2019,ICLR,International Conference on Machine Learning
+AutoLoss: Learning Discrete Schedule for Alternate Optimization,2019,ICLR,International Conference on Machine Learning
+Learning what and where to attend,2019,ICLR,International Conference on Machine Learning
+ROBUST ESTIMATION VIA GENERATIVE ADVERSARIAL NETWORKS,2019,ICLR,International Conference on Machine Learning
+INVASE: Instance-wise Variable Selection using Neural Networks,2019,ICLR,International Conference on Machine Learning
+Meta-Learning with Latent Embedding Optimization,2019,ICLR,International Conference on Machine Learning
+Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach,2019,ICLR,International Conference on Machine Learning
+Learning to Represent Edits,2019,ICLR,International Conference on Machine Learning
+Neural Probabilistic Motor Primitives for Humanoid Control,2019,ICLR,International Conference on Machine Learning
+Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder,2019,ICLR,International Conference on Machine Learning
+Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs,2019,ICLR,International Conference on Machine Learning
+An Empirical Study of Example Forgetting during Deep Neural Network Learning,2019,ICLR,International Conference on Machine Learning
+RNNs implicitly implement tensor-product representations,2019,ICLR,International Conference on Machine Learning
+Learning To Solve Circuit-SAT: An Unsupervised Differentiable Approach,2019,ICLR,International Conference on Machine Learning
+Dynamic Channel Pruning: Feature Boosting and Suppression,2019,ICLR,International Conference on Machine Learning
+signSGD with Majority Vote is Communication Efficient and Fault Tolerant,2019,ICLR,International Conference on Machine Learning
+Bounce and Learn: Modeling Scene Dynamics with Real-World Bounces,2019,ICLR,International Conference on Machine Learning
+K for the Price of 1: Parameter-efficient Multi-task and Transfer Learning,2019,ICLR,International Conference on Machine Learning
+Towards Metamerism via Foveated Style Transfer,2019,ICLR,International Conference on Machine Learning
+Post Selection Inference with Incomplete Maximum Mean Discrepancy Estimator,2019,ICLR,International Conference on Machine Learning
+Emergent Coordination Through Competition,2019,ICLR,International Conference on Machine Learning
+Prior Convictions: Black-box Adversarial Attacks with Bandits and Priors,2019,ICLR,International Conference on Machine Learning
+Sample Efficient Imitation Learning for Continuous Control,2019,ICLR,International Conference on Machine Learning
+Generative Code Modeling with Graphs,2019,ICLR,International Conference on Machine Learning
+Critical Learning Periods in Deep Networks,2019,ICLR,International Conference on Machine Learning
+CEM-RL: Combining evolutionary and gradient-based methods for policy search,2019,ICLR,International Conference on Machine Learning
+LanczosNet: Multi-Scale Deep Graph Convolutional Networks,2019,ICLR,International Conference on Machine Learning
+Excessive Invariance Causes Adversarial Vulnerability,2019,ICLR,International Conference on Machine Learning
+Hindsight policy gradients,2019,ICLR,International Conference on Machine Learning
+Adaptive Gradient Methods with Dynamic Bound of Learning Rate,2019,ICLR,International Conference on Machine Learning
+Decoupled Weight Decay Regularization,2019,ICLR,International Conference on Machine Learning
+Optimistic mirror descent in saddle-point problems: Going the extra (gradient) mile,2019,ICLR,International Conference on Machine Learning
+DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder,2019,ICLR,International Conference on Machine Learning
+No Training Required: Exploring Random Encoders for Sentence Classification,2019,ICLR,International Conference on Machine Learning
+Neural Graph Evolution: Towards Efficient Automatic Robot Design,2019,ICLR,International Conference on Machine Learning
+Function Space Particle Optimization for Bayesian Neural Networks,2019,ICLR,International Conference on Machine Learning
+Structured Adversarial Attack:  Towards General Implementation and Better Interpretability,2019,ICLR,International Conference on Machine Learning
+Spherical CNNs on Unstructured Grids,2019,ICLR,International Conference on Machine Learning
+Optimal Transport Maps For Distribution Preserving Operations on Latent Spaces of Generative Models,2019,ICLR,International Conference on Machine Learning
+Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning,2019,ICLR,International Conference on Machine Learning
+Accumulation Bit-Width Scaling For Ultra-Low Precision Training Of Deep Networks,2019,ICLR,International Conference on Machine Learning
+Deep Convolutional Networks as shallow Gaussian Processes,2019,ICLR,International Conference on Machine Learning
+Unsupervised Domain Adaptation for Distance Metric Learning,2019,ICLR,International Conference on Machine Learning
+"A comprehensive, application-oriented study of catastrophic forgetting in DNNs",2019,ICLR,International Conference on Machine Learning
+Posterior Attention Models for Sequence to Sequence Learning,2019,ICLR,International Conference on Machine Learning
+Generative Question Answering: Learning to Answer the Whole Question,2019,ICLR,International Conference on Machine Learning
+Diversity and Depth in Per-Example Routing Models,2019,ICLR,International Conference on Machine Learning
+Selfless Sequential Learning,2019,ICLR,International Conference on Machine Learning
+M^3RL: Mind-aware Multi-agent Management Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+The Deep Weight Prior,2019,ICLR,International Conference on Machine Learning
+Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution,2019,ICLR,International Conference on Machine Learning
+Quaternion Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Adversarial Audio Synthesis,2019,ICLR,International Conference on Machine Learning
+Preconditioner on Matrix Lie Group for SGD,2019,ICLR,International Conference on Machine Learning
+Learning to Screen for Fast Softmax  Inference on Large Vocabulary Neural Networks,2019,ICLR,International Conference on Machine Learning
+Adaptive Posterior Learning: few-shot learning with a surprise-based memory module,2019,ICLR,International Conference on Machine Learning
+Probabilistic Planning with Sequential Monte Carlo methods,2019,ICLR,International Conference on Machine Learning
+"Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control",2019,ICLR,International Conference on Machine Learning
+DHER: Hindsight Experience Replay for Dynamic Goals,2019,ICLR,International Conference on Machine Learning
+FlowQA: Grasping Flow in History for Conversational Machine Comprehension,2019,ICLR,International Conference on Machine Learning
+Learning to Design RNA,2019,ICLR,International Conference on Machine Learning
+Robust Conditional Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Top-Down Neural Model For Formulae,2019,ICLR,International Conference on Machine Learning
+Cost-Sensitive Robustness against Adversarial Examples,2019,ICLR,International Conference on Machine Learning
+The role of over-parametrization in generalization of neural networks,2019,ICLR,International Conference on Machine Learning
+Diffusion Scattering Transforms on Graphs,2019,ICLR,International Conference on Machine Learning
+Capsule Graph Neural Network,2019,ICLR,International Conference on Machine Learning
+Energy-Constrained Compression for Deep Neural Networks via Weighted Sparse Projection and Layer Input Masking,2019,ICLR,International Conference on Machine Learning
+Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer,2019,ICLR,International Conference on Machine Learning
+SGD Converges to Global Minimum in Deep Learning via Star-convex Path,2019,ICLR,International Conference on Machine Learning
+Toward Understanding the Impact of Staleness in Distributed Machine Learning,2019,ICLR,International Conference on Machine Learning
+Transfer Learning for Sequences via Learning to Collocate,2019,ICLR,International Conference on Machine Learning
+Learning Procedural Abstractions and Evaluating Discrete Latent Temporal Structure,2019,ICLR,International Conference on Machine Learning
+Unsupervised Speech Recognition via Segmental Empirical Output Distribution Matching,2019,ICLR,International Conference on Machine Learning
+Adversarial Attacks on Graph Neural Networks via Meta Learning,2019,ICLR,International Conference on Machine Learning
+Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection,2019,ICLR,International Conference on Machine Learning
+Neural Program Repair by Jointly Learning to Localize and Repair,2019,ICLR,International Conference on Machine Learning
+Information-Directed Exploration for Deep Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+"Attention, Learn to Solve Routing Problems!",2019,ICLR,International Conference on Machine Learning
+L2-Nonexpansive Neural Networks,2019,ICLR,International Conference on Machine Learning
+Improving Generalization and Stability of Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Adaptive Input Representations for Neural Language Modeling,2019,ICLR,International Conference on Machine Learning
+Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology,2019,ICLR,International Conference on Machine Learning
+Efficient Augmentation via Data Subsampling,2019,ICLR,International Conference on Machine Learning
+Neural TTS Stylization with Adversarial and Collaborative Games,2019,ICLR,International Conference on Machine Learning
+Optimal Control Via Neural Networks: A Convex Approach,2019,ICLR,International Conference on Machine Learning
+CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model,2019,ICLR,International Conference on Machine Learning
+Stochastic Optimization of Sorting Networks via Continuous Relaxations,2019,ICLR,International Conference on Machine Learning
+Adaptivity of deep ReLU network for learning in Besov and mixed smooth Besov spaces: optimal rate and curse of dimensionality,2019,ICLR,International Conference on Machine Learning
+Generating Multiple Objects at Spatially Distinct Locations,2019,ICLR,International Conference on Machine Learning
+Near-Optimal Representation Learning for Hierarchical Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Understanding Composition of Word Embeddings via Tensor Decomposition,2019,ICLR,International Conference on Machine Learning
+Structured Neural Summarization,2019,ICLR,International Conference on Machine Learning
+Graph Wavelet Neural Network,2019,ICLR,International Conference on Machine Learning
+A rotation-equivariant convolutional neural network model of primary visual cortex,2019,ICLR,International Conference on Machine Learning
+Supervised Community Detection with Line Graph Neural Networks,2019,ICLR,International Conference on Machine Learning
+Multiple-Attribute Text Rewriting,2019,ICLR,International Conference on Machine Learning
+Wasserstein Barycenter Model Ensembling,2019,ICLR,International Conference on Machine Learning
+Policy Transfer with Strategy Optimization,2019,ICLR,International Conference on Machine Learning
+code2seq: Generating Sequences from Structured Representations of Code,2019,ICLR,International Conference on Machine Learning
+Predict then Propagate: Graph Neural Networks meet Personalized PageRank,2019,ICLR,International Conference on Machine Learning
+Slimmable Neural Networks,2019,ICLR,International Conference on Machine Learning
+Analysing Mathematical Reasoning Abilities of Neural Models,2019,ICLR,International Conference on Machine Learning
+RotDCF: Decomposition of Convolutional Filters for Rotation-Equivariant Deep Networks,2019,ICLR,International Conference on Machine Learning
+Execution-Guided Neural Program Synthesis,2019,ICLR,International Conference on Machine Learning
+Dynamic Sparse Graph for Efficient Deep Learning,2019,ICLR,International Conference on Machine Learning
+Fixup Initialization: Residual Learning Without Normalization,2019,ICLR,International Conference on Machine Learning
+ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees,2019,ICLR,International Conference on Machine Learning
+Exploration by random network distillation,2019,ICLR,International Conference on Machine Learning
+Unsupervised Learning of the Set of Local Maxima,2019,ICLR,International Conference on Machine Learning
+On the Convergence of A Class of Adam-Type Algorithms  for Non-Convex Optimization,2019,ICLR,International Conference on Machine Learning
+Minimum Divergence vs. Maximum Margin: an Empirical Comparison on Seq2Seq Models,2019,ICLR,International Conference on Machine Learning
+GANSynth: Adversarial Neural Audio Synthesis,2019,ICLR,International Conference on Machine Learning
+Sliced Wasserstein Auto-Encoders,2019,ICLR,International Conference on Machine Learning
+Learning Two-layer Neural Networks with Symmetric Inputs,2019,ICLR,International Conference on Machine Learning
+Learning to Understand Goal Specifications by Modelling Reward,2019,ICLR,International Conference on Machine Learning
+Do Deep Generative Models Know What They Don't Know?,2019,ICLR,International Conference on Machine Learning
+Identifying and Controlling Important Neurons in Neural Machine Translation,2019,ICLR,International Conference on Machine Learning
+Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Visual Explanation by Interpretation: Improving Visual Feedback Capabilities of Deep Neural Networks,2019,ICLR,International Conference on Machine Learning
+Don't let your Discriminator  be fooled,2019,ICLR,International Conference on Machine Learning
+Latent Convolutional Models,2019,ICLR,International Conference on Machine Learning
+A Universal Music Translation Network,2019,ICLR,International Conference on Machine Learning
+How to train your MAML,2019,ICLR,International Conference on Machine Learning
+Learning a SAT Solver from Single-Bit Supervision,2019,ICLR,International Conference on Machine Learning
+Learning Representations of Sets through Optimized Permutations,2019,ICLR,International Conference on Machine Learning
+Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition,2019,ICLR,International Conference on Machine Learning
+Unsupervised Hyper-alignment for Multilingual Word Embeddings,2019,ICLR,International Conference on Machine Learning
+Visual Semantic Navigation using Scene Priors,2019,ICLR,International Conference on Machine Learning
+NOODL: Provable Online Dictionary Learning and Sparse Coding,2019,ICLR,International Conference on Machine Learning
+Stochastic Gradient/Mirror Descent: Minimax Optimality and Implicit Regularization,2019,ICLR,International Conference on Machine Learning
+Active Learning with Partial Feedback,2019,ICLR,International Conference on Machine Learning
+Gradient descent aligns the layers of deep linear networks,2019,ICLR,International Conference on Machine Learning
+Data-Dependent Coresets for Compressing Neural Networks with Applications to Generalization Bounds,2019,ICLR,International Conference on Machine Learning
+On the loss landscape of a class of deep neural networks with no bad local valleys,2019,ICLR,International Conference on Machine Learning
+DOM-Q-NET:  Grounded RL on Structured Language,2019,ICLR,International Conference on Machine Learning
+Boosting Robustness Certification of Neural Networks,2019,ICLR,International Conference on Machine Learning
+Learning To Simulate,2019,ICLR,International Conference on Machine Learning
+Towards Understanding Regularization in Batch Normalization,2019,ICLR,International Conference on Machine Learning
+The Laplacian in RL: Learning Representations with Efficient Approximations,2019,ICLR,International Conference on Machine Learning
+Predicting the Generalization Gap in Deep Networks with Margin Distributions,2019,ICLR,International Conference on Machine Learning
+Adversarial Imitation via Variational Inverse Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Reasoning About Physical Interactions with Object-Oriented Prediction and Planning,2019,ICLR,International Conference on Machine Learning
+LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators,2019,ICLR,International Conference on Machine Learning
+Learning Mixed-Curvature Representations in Product Spaces,2019,ICLR,International Conference on Machine Learning
+StrokeNet: A Neural Painting Environment,2019,ICLR,International Conference on Machine Learning
+Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation,2019,ICLR,International Conference on Machine Learning
+Measuring Compositionality in Representation Learning,2019,ICLR,International Conference on Machine Learning
+Benchmarking Neural Network Robustness to Common Corruptions and Perturbations,2019,ICLR,International Conference on Machine Learning
+ADef: an Iterative Algorithm to Construct Adversarial Deformations,2019,ICLR,International Conference on Machine Learning
+Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning,2019,ICLR,International Conference on Machine Learning
+Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives,2019,ICLR,International Conference on Machine Learning
+Learning Recurrent Binary/Ternary Weights,2019,ICLR,International Conference on Machine Learning
+Learning concise representations for regression by evolving networks of trees,2019,ICLR,International Conference on Machine Learning
+Efficient Training on Very Large Corpora via Gramian Estimation,2019,ICLR,International Conference on Machine Learning
+MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders,2019,ICLR,International Conference on Machine Learning
+Residual Non-local Attention Networks for Image Restoration,2019,ICLR,International Conference on Machine Learning
+Meta-Learning For Stochastic Gradient MCMC,2019,ICLR,International Conference on Machine Learning
+Systematic Generalization: What Is Required and Can It Be Learned?,2019,ICLR,International Conference on Machine Learning
+Efficient Lifelong Learning with A-GEM,2019,ICLR,International Conference on Machine Learning
+Multi-step Retriever-Reader Interaction for Scalable Open-domain Question Answering,2019,ICLR,International Conference on Machine Learning
+Double Viterbi: Weight Encoding for High Compression Ratio and Fast On-Chip Reconstruction for Deep Neural Network,2019,ICLR,International Conference on Machine Learning
+Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision,2019,ICLR,International Conference on Machine Learning
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space,2019,ICLR,International Conference on Machine Learning
+Guiding Policies with Language via Meta-Learning,2019,ICLR,International Conference on Machine Learning
+AdaShift: Decorrelation and Convergence of Adaptive Learning Rate Methods,2019,ICLR,International Conference on Machine Learning
+AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking,2019,ICLR,International Conference on Machine Learning
+Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications,2019,ICLR,International Conference on Machine Learning
+On Self Modulation for Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Off-Policy Evaluation and Learning from Logged Bandit Feedback: Error Reduction via Surrogate Policy,2019,ICLR,International Conference on Machine Learning
+Subgradient Descent Learns Orthogonal Dictionaries,2019,ICLR,International Conference on Machine Learning
+ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech,2019,ICLR,International Conference on Machine Learning
+MARGINALIZED AVERAGE ATTENTIONAL NETWORK FOR WEAKLY-SUPERVISED LEARNING,2019,ICLR,International Conference on Machine Learning
+Towards GAN Benchmarks Which Require Generalization,2019,ICLR,International Conference on Machine Learning
+A Closer Look at Few-shot Classification,2019,ICLR,International Conference on Machine Learning
+Meta-Learning Probabilistic Inference for Prediction,2019,ICLR,International Conference on Machine Learning
+Deep reinforcement learning with relational inductive biases,2019,ICLR,International Conference on Machine Learning
+Relaxed Quantization for Discretized Neural Networks,2019,ICLR,International Conference on Machine Learning
+Tree-Structured Recurrent Switching Linear Dynamical Systems for Multi-Scale Modeling,2019,ICLR,International Conference on Machine Learning
+STCN: Stochastic Temporal Convolutional Networks,2019,ICLR,International Conference on Machine Learning
+Soft Q-Learning with Mutual-Information Regularization,2019,ICLR,International Conference on Machine Learning
+On the Turing Completeness of Modern Neural Network Architectures,2019,ICLR,International Conference on Machine Learning
+"Improving Differentiable Neural Computers Through Memory Masking, De-allocation, and Link Distribution Sharpness Control",2019,ICLR,International Conference on Machine Learning
+Evaluating Robustness of Neural Networks with Mixed Integer Programming,2019,ICLR,International Conference on Machine Learning
+Random mesh projectors for inverse problems,2019,ICLR,International Conference on Machine Learning
+Multi-Agent Dual Learning,2019,ICLR,International Conference on Machine Learning
+Complement Objective Training,2019,ICLR,International Conference on Machine Learning
+Mode Normalization,2019,ICLR,International Conference on Machine Learning
+Detecting Egregious Responses in Neural Sequence-to-sequence Models,2019,ICLR,International Conference on Machine Learning
+Learning Actionable Representations with Goal Conditioned Policies,2019,ICLR,International Conference on Machine Learning
+Verification of Non-Linear Specifications for Neural Networks,2019,ICLR,International Conference on Machine Learning
+Generating Liquid Simulations with Deformation-aware Neural Networks,2019,ICLR,International Conference on Machine Learning
+DyRep: Learning Representations over Dynamic Graphs,2019,ICLR,International Conference on Machine Learning
+Trellis Networks for Sequence Modeling,2019,ICLR,International Conference on Machine Learning
+Scalable Unbalanced Optimal Transport using Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Solving the Rubik's Cube with Approximate Policy Iteration,2019,ICLR,International Conference on Machine Learning
+Variance Reduction for Reinforcement Learning in Input-Driven Environments,2019,ICLR,International Conference on Machine Learning
+Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic,2019,ICLR,International Conference on Machine Learning
+GAN Dissection: Visualizing and Understanding Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Improving MMD-GAN Training with Repulsive Loss Function,2019,ICLR,International Conference on Machine Learning
+Deterministic PAC-Bayesian generalization bounds for deep networks via generalizing noise-resilience,2019,ICLR,International Conference on Machine Learning
+Recall Traces: Backtracking Models for Efficient Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Stable Recurrent Models,2019,ICLR,International Conference on Machine Learning
+The Limitations of Adversarial Training and the Blind-Spot Attack,2019,ICLR,International Conference on Machine Learning
+Efficiently testing local optimality and escaping saddles for ReLU networks,2019,ICLR,International Conference on Machine Learning
+ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware,2019,ICLR,International Conference on Machine Learning
+Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization,2019,ICLR,International Conference on Machine Learning
+Generalizable Adversarial Training via Spectral Normalization,2019,ICLR,International Conference on Machine Learning
+Adversarial Domain Adaptation for Stable Brain-Machine Interfaces,2019,ICLR,International Conference on Machine Learning
+Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL,2019,ICLR,International Conference on Machine Learning
+Deep Anomaly Detection with Outlier Exposure,2019,ICLR,International Conference on Machine Learning
+Contingency-Aware Exploration in Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Context-adaptive Entropy Model for End-to-end Optimized Image Compression,2019,ICLR,International Conference on Machine Learning
+"Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow",2019,ICLR,International Conference on Machine Learning
+Meta-learning with differentiable closed-form solvers,2019,ICLR,International Conference on Machine Learning
+Learning Self-Imitating Diverse Policies,2019,ICLR,International Conference on Machine Learning
+ProxQuant: Quantized Neural Networks via Proximal Operators,2019,ICLR,International Conference on Machine Learning
+Universal Transformers,2019,ICLR,International Conference on Machine Learning
+"Learning to Adapt in Dynamic, Real-World Environments through Meta-Reinforcement Learning",2019,ICLR,International Conference on Machine Learning
+L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data,2019,ICLR,International Conference on Machine Learning
+Discovery of Natural Language Concepts in Individual Units of CNNs,2019,ICLR,International Conference on Machine Learning
+Towards the first adversarially robust neural network model on MNIST,2019,ICLR,International Conference on Machine Learning
+Discriminator Rejection Sampling,2019,ICLR,International Conference on Machine Learning
+Harmonic Unpaired Image-to-image Translation,2019,ICLR,International Conference on Machine Learning
+Universal Successor Features Approximators,2019,ICLR,International Conference on Machine Learning
+Gradient Descent Provably Optimizes Over-parameterized Neural Networks,2019,ICLR,International Conference on Machine Learning
+Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams,2019,ICLR,International Conference on Machine Learning
+DARTS: Differentiable Architecture Search,2019,ICLR,International Conference on Machine Learning
+Feature-Wise Bias Amplification,2019,ICLR,International Conference on Machine Learning
+The relativistic discriminator: a key element missing from standard GAN,2019,ICLR,International Conference on Machine Learning
+Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer,2019,ICLR,International Conference on Machine Learning
+Quasi-hyperbolic momentum and Adam for deep learning,2019,ICLR,International Conference on Machine Learning
+Local SGD Converges Fast and Communicates Little,2019,ICLR,International Conference on Machine Learning
+Learning Finite State Representations of Recurrent Policy Networks,2019,ICLR,International Conference on Machine Learning
+Multilingual Neural Machine Translation with Knowledge Distillation,2019,ICLR,International Conference on Machine Learning
+MisGAN: Learning from Incomplete Data with Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+A Direct Approach to Robust Deep Learning Using Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Combinatorial Attacks on Binarized Neural Networks,2019,ICLR,International Conference on Machine Learning
+Exemplar Guided Unsupervised Image-to-Image Translation with Semantic Consistency,2019,ICLR,International Conference on Machine Learning
+ARM: Augment-REINFORCE-Merge Gradient for Stochastic Binary Networks,2019,ICLR,International Conference on Machine Learning
+Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension,2019,ICLR,International Conference on Machine Learning
+Information asymmetry in KL-regularized RL,2019,ICLR,International Conference on Machine Learning
+TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer,2019,ICLR,International Conference on Machine Learning
+Whitening and Coloring Batch Transform for GANs,2019,ICLR,International Conference on Machine Learning
+Learnable Embedding Space for Efficient Neural Architecture Compression,2019,ICLR,International Conference on Machine Learning
+On the Sensitivity of Adversarial Robustness to Input Data Distributions,2019,ICLR,International Conference on Machine Learning
+Minimal Images in Deep Neural Networks: Fragile Object Recognition in Natural Images,2019,ICLR,International Conference on Machine Learning
+A Statistical Approach to Assessing Neural Network Robustness,2019,ICLR,International Conference on Machine Learning
+Improving Sequence-to-Sequence Learning via Optimal Transport,2019,ICLR,International Conference on Machine Learning
+PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees,2019,ICLR,International Conference on Machine Learning
+Integer Networks for Data Compression with Latent-Variable Models,2019,ICLR,International Conference on Machine Learning
+Value Propagation Networks,2019,ICLR,International Conference on Machine Learning
+Bayesian Policy Optimization for Model Uncertainty,2019,ICLR,International Conference on Machine Learning
+Variational Bayesian Phylogenetic Inference,2019,ICLR,International Conference on Machine Learning
+LEARNING FACTORIZED REPRESENTATIONS FOR OPEN-SET DOMAIN ADAPTATION,2019,ICLR,International Conference on Machine Learning
+On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks,2019,ICLR,International Conference on Machine Learning
+Learning Localized Generative Models for 3D Point Clouds via Graph Convolution,2019,ICLR,International Conference on Machine Learning
+ACCELERATING NONCONVEX LEARNING VIA REPLICA EXCHANGE LANGEVIN DIFFUSION,2019,ICLR,International Conference on Machine Learning
+Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration,2019,ICLR,International Conference on Machine Learning
+Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers,2019,ICLR,International Conference on Machine Learning
+CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild,2019,ICLR,International Conference on Machine Learning
+Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering,2019,ICLR,International Conference on Machine Learning
+Learning Programmatically Structured Representations with Perceptor Gradients,2019,ICLR,International Conference on Machine Learning
+Variational Autoencoders with Jointly Optimized Latent Dependency Structure,2019,ICLR,International Conference on Machine Learning
+The Unusual Effectiveness of Averaging in GAN Training,2019,ICLR,International Conference on Machine Learning
+Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer,2019,ICLR,International Conference on Machine Learning
+Diversity is All You Need: Learning Skills without a Reward Function,2019,ICLR,International Conference on Machine Learning
+Supervised Policy Update for Deep Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Learning sparse relational transition models,2019,ICLR,International Conference on Machine Learning
+Learning to Schedule Communication in Multi-agent Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Hierarchical RL Using an Ensemble of Proprioceptive Periodic Policies,2019,ICLR,International Conference on Machine Learning
+Multi-class classification without multi-class labels,2019,ICLR,International Conference on Machine Learning
+What do you learn from context? Probing for sentence structure in contextualized word representations,2019,ICLR,International Conference on Machine Learning
+Spectral Inference Networks: Unifying Deep and Spectral Learning,2019,ICLR,International Conference on Machine Learning
+PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks,2019,ICLR,International Conference on Machine Learning
+Attentive Neural Processes,2019,ICLR,International Conference on Machine Learning
+Representation Degeneration Problem in Training Natural Language Generation Models,2019,ICLR,International Conference on Machine Learning
+Hierarchical interpretations for neural network predictions,2019,ICLR,International Conference on Machine Learning
+Spreading vectors for similarity search,2019,ICLR,International Conference on Machine Learning
+A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks,2019,ICLR,International Conference on Machine Learning
+Feed-forward Propagation in Probabilistic Neural Networks with Categorical and Max Layers,2019,ICLR,International Conference on Machine Learning
+Measuring and regularizing networks in function space,2019,ICLR,International Conference on Machine Learning
+Fluctuation-dissipation relations for stochastic gradient descent,2019,ICLR,International Conference on Machine Learning
+Poincare Glove: Hyperbolic Word Embeddings,2019,ICLR,International Conference on Machine Learning
+Episodic Curiosity through Reachability,2019,ICLR,International Conference on Machine Learning
+Phase-Aware Speech Enhancement with Deep Complex U-Net,2019,ICLR,International Conference on Machine Learning
+Generative predecessor models for sample-efficient imitation learning,2019,ICLR,International Conference on Machine Learning
+Adaptive Estimators Show Information Compression in Deep Neural Networks,2019,ICLR,International Conference on Machine Learning
+Multilingual Neural Machine Translation With Soft Decoupled Encoding,2019,ICLR,International Conference on Machine Learning
+Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet,2019,ICLR,International Conference on Machine Learning
+Reward Constrained Policy Optimization,2019,ICLR,International Conference on Machine Learning
+On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length,2019,ICLR,International Conference on Machine Learning
+Modeling the Long Term Future in Model-Based Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets,2019,ICLR,International Conference on Machine Learning
+DISTRIBUTIONAL CONCAVITY REGULARIZATION FOR GANS,2019,ICLR,International Conference on Machine Learning
+LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos,2019,ICLR,International Conference on Machine Learning
+Competitive experience replay,2019,ICLR,International Conference on Machine Learning
+Multi-Domain Adversarial Learning,2019,ICLR,International Conference on Machine Learning
+ProMP: Proximal Meta-Policy Search,2019,ICLR,International Conference on Machine Learning
+"Don't Settle for Average, Go for the Max: Fuzzy Sets and Max-Pooled Word Vectors",2019,ICLR,International Conference on Machine Learning
+Stable Opponent Shaping in Differentiable Games,2019,ICLR,International Conference on Machine Learning
+A Mean Field Theory of Batch Normalization,2019,ICLR,International Conference on Machine Learning
+Learning Exploration Policies for Navigation,2019,ICLR,International Conference on Machine Learning
+Distribution-Interpolation Trade off in Generative Models,2019,ICLR,International Conference on Machine Learning
+Learning to Describe Scenes with Programs,2019,ICLR,International Conference on Machine Learning
+Visceral Machines: Risk-Aversion in  Reinforcement Learning with Intrinsic Physiological Rewards,2019,ICLR,International Conference on Machine Learning
+Deep Frank-Wolfe For Neural Network Optimization,2019,ICLR,International Conference on Machine Learning
+LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING,2019,ICLR,International Conference on Machine Learning
+Improving the Generalization of Adversarial Training with Domain Adaptation,2019,ICLR,International Conference on Machine Learning
+Dimensionality Reduction for Representing the Knowledge of Probabilistic Models,2019,ICLR,International Conference on Machine Learning
+Learning protein sequence embeddings using information from structure,2019,ICLR,International Conference on Machine Learning
+Variational Smoothing in Recurrent Neural Network Language Models,2019,ICLR,International Conference on Machine Learning
+Biologically-Plausible Learning Algorithms Can Scale to Large Datasets,2019,ICLR,International Conference on Machine Learning
+Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering,2019,ICLR,International Conference on Machine Learning
+Learning a Meta-Solver for Syntax-Guided Program Synthesis,2019,ICLR,International Conference on Machine Learning
+"Towards Robust, Locally Linear Deep Networks",2019,ICLR,International Conference on Machine Learning
+How Important is a Neuron,2019,ICLR,International Conference on Machine Learning
+Learning to Make Analogies by Contrasting Abstract Relational Structure,2019,ICLR,International Conference on Machine Learning
+Learning what you can do before doing anything,2019,ICLR,International Conference on Machine Learning
+Learning Grid Cells as Vector Representation of Self-Position Coupled with Matrix Representation of Self-Motion,2019,ICLR,International Conference on Machine Learning
+Universal  Stagewise Learning for Non-Convex Problems with  Convergence on  Averaged Solutions,2019,ICLR,International Conference on Machine Learning
+Invariant and Equivariant Graph Networks,2019,ICLR,International Conference on Machine Learning
+Robustness May Be at Odds with Accuracy,2019,ICLR,International Conference on Machine Learning
+Feature Intertwiner for Object Detection,2019,ICLR,International Conference on Machine Learning
+Adversarial Reprogramming of Neural Networks,2019,ICLR,International Conference on Machine Learning
+G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space,2019,ICLR,International Conference on Machine Learning
+From Hard to Soft: Understanding Deep Network Nonlinearities via Vector Quantization and Statistical Inference,2019,ICLR,International Conference on Machine Learning
+Aggregated Momentum: Stability Through Passive Damping,2019,ICLR,International Conference on Machine Learning
+Variational Autoencoder with Arbitrary Conditioning,2019,ICLR,International Conference on Machine Learning
+Time-Agnostic Prediction: Predicting Predictable Video Frames,2019,ICLR,International Conference on Machine Learning
+"A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation",2019,ICLR,International Conference on Machine Learning
+Self-Monitoring Navigation Agent via Auxiliary Progress Estimation,2019,ICLR,International Conference on Machine Learning
+Kernel Change-point Detection with Auxiliary Deep Generative Models,2019,ICLR,International Conference on Machine Learning
+Unsupervised Learning via Meta-Learning,2019,ICLR,International Conference on Machine Learning
+Auxiliary Variational MCMC,2019,ICLR,International Conference on Machine Learning
+Neural network gradient-based learning of black-box function interfaces,2019,ICLR,International Conference on Machine Learning
+Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions,2019,ICLR,International Conference on Machine Learning
+Unsupervised Control Through Non-Parametric Discriminative Rewards,2019,ICLR,International Conference on Machine Learning
+Interpolation-Prediction Networks for Irregularly Sampled Time Series,2019,ICLR,International Conference on Machine Learning
+Riemannian Adaptive Optimization Methods,2019,ICLR,International Conference on Machine Learning
+Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters,2019,ICLR,International Conference on Machine Learning
+Characterizing Audio Adversarial Examples Using Temporal Dependency,2019,ICLR,International Conference on Machine Learning
+Equi-normalization of Neural Networks,2019,ICLR,International Conference on Machine Learning
+Generalized Tensor Models for Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Wizard of Wikipedia: Knowledge-Powered Conversational Agents,2019,ICLR,International Conference on Machine Learning
+Are adversarial examples inevitable?,2019,ICLR,International Conference on Machine Learning
+A Variational Inequality Perspective on Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Learning-Based Frequency Estimation Algorithms,2019,ICLR,International Conference on Machine Learning
+From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following,2019,ICLR,International Conference on Machine Learning
+Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity,2019,ICLR,International Conference on Machine Learning
+Recurrent Experience Replay in Distributed Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+A Generative Model For Electron Paths,2019,ICLR,International Conference on Machine Learning
+Modeling Uncertainty with Hedged Instance Embeddings,2019,ICLR,International Conference on Machine Learning
+Beyond Greedy Ranking: Slate Optimization via List-CVAE,2019,ICLR,International Conference on Machine Learning
+Stochastic Prediction of Multi-Agent Interactions from Partial Observations,2019,ICLR,International Conference on Machine Learning
+GamePad: A Learning Environment for Theorem Proving,2019,ICLR,International Conference on Machine Learning
+GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding,2019,ICLR,International Conference on Machine Learning
+On Computation and Generalization of Generative Adversarial Networks under Spectrum Control,2019,ICLR,International Conference on Machine Learning
+Large-Scale Study of Curiosity-Driven Learning,2019,ICLR,International Conference on Machine Learning
+"Unsupervised Discovery of Parts, Structure, and Dynamics",2019,ICLR,International Conference on Machine Learning
+Music Transformer: Generating Music with Long-Term Structure,2019,ICLR,International Conference on Machine Learning
+BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning,2019,ICLR,International Conference on Machine Learning
+Analyzing Inverse Problems with Invertible Neural Networks,2019,ICLR,International Conference on Machine Learning
+RelGAN: Relational Generative Adversarial Networks for Text Generation,2019,ICLR,International Conference on Machine Learning
+The Singular Values of Convolutional Layers,2019,ICLR,International Conference on Machine Learning
+An Empirical study of Binary Neural Networks' Optimisation,2019,ICLR,International Conference on Machine Learning
+Approximability of Discriminators Implies Diversity in GANs,2019,ICLR,International Conference on Machine Learning
+Learning Embeddings into Entropic Wasserstein Spaces,2019,ICLR,International Conference on Machine Learning
+DeepOBS: A Deep Learning Optimizer Benchmark Suite,2019,ICLR,International Conference on Machine Learning
+InfoBot: Transfer and Exploration via the Information Bottleneck,2019,ICLR,International Conference on Machine Learning
+The Comparative Power of ReLU Networks and Polynomial Kernels in the Presence of Sparse Latent Structure,2019,ICLR,International Conference on Machine Learning
+Learning Implicitly Recurrent CNNs Through Parameter Sharing,2019,ICLR,International Conference on Machine Learning
+"Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",2019,ICLR,International Conference on Machine Learning
+Regularized Learning for  Domain Adaptation under Label Shifts,2019,ICLR,International Conference on Machine Learning
+Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs,2019,ICLR,International Conference on Machine Learning
+Relational Forward Models for Multi-Agent Learning,2019,ICLR,International Conference on Machine Learning
+Imposing Category Trees Onto Word-Embeddings Using A Geometric Construction,2019,ICLR,International Conference on Machine Learning
+Two-Timescale Networks for Nonlinear Value Function Approximation,2019,ICLR,International Conference on Machine Learning
+Diversity-Sensitive Conditional Generative Adversarial Networks,2019,ICLR,International Conference on Machine Learning
+Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach,2019,ICLR,International Conference on Machine Learning
+Rethinking the Value of Network Pruning,2019,ICLR,International Conference on Machine Learning
+Hyperbolic Attention Networks,2019,ICLR,International Conference on Machine Learning
+Learning from Positive and Unlabeled Data with a Selection Bias,2019,ICLR,International Conference on Machine Learning
+Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network,2019,ICLR,International Conference on Machine Learning
+Optimal Completion Distillation for Sequence Learning,2019,ICLR,International Conference on Machine Learning
+Caveats for information bottleneck in deterministic scenarios,2019,ICLR,International Conference on Machine Learning
+Deep Learning 3D Shapes Using Alt-az Anisotropic 2-Sphere Convolution,2019,ICLR,International Conference on Machine Learning
+Small nonlinearities in activation functions create bad local minima in neural networks,2019,ICLR,International Conference on Machine Learning
+Information Theoretic lower bounds on negative log likelihood,2019,ICLR,International Conference on Machine Learning
+Preferences Implicit in the State of the World,2019,ICLR,International Conference on Machine Learning
+A Kernel Random Matrix-Based Approach for Sparse PCA,2019,ICLR,International Conference on Machine Learning
+Bayesian Prediction of Future Street Scenes using Synthetic Likelihoods,2019,ICLR,International Conference on Machine Learning
+There Are Many Consistent Explanations of Unlabeled Data: Why You Should Average,2019,ICLR,International Conference on Machine Learning
+Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation,2019,ICLR,International Conference on Machine Learning
+Graph HyperNetworks for Neural Architecture Search,2019,ICLR,International Conference on Machine Learning
+DELTA: DEEP LEARNING TRANSFER USING FEATURE MAP WITH ATTENTION FOR CONVOLUTIONAL NETWORKS,2019,ICLR,International Conference on Machine Learning
+textTOvec: DEEP CONTEXTUALIZED NEURAL AUTOREGRESSIVE TOPIC MODELS OF LANGUAGE WITH DISTRIBUTED COMPOSITIONAL PRIOR,2019,ICLR,International Conference on Machine Learning
+Amortized Bayesian Meta-Learning,2019,ICLR,International Conference on Machine Learning
+Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning,2019,ICLR,International Conference on Machine Learning
+Learning Neural PDE Solvers with Convergence Guarantees,2019,ICLR,International Conference on Machine Learning
+A new dog learns old tricks:  RL finds classic optimization algorithms,2019,ICLR,International Conference on Machine Learning
+Deep Graph Infomax,2019,ICLR,International Conference on Machine Learning
+Theoretical Analysis of Auto Rate-Tuning by Batch Normalization,2019,ICLR,International Conference on Machine Learning
+Per-Tensor Fixed-Point Quantization of the Back-Propagation Algorithm,2019,ICLR,International Conference on Machine Learning
+FUNCTIONAL VARIATIONAL BAYESIAN NEURAL NETWORKS,2019,ICLR,International Conference on Machine Learning
+NADPEx: An on-policy temporally consistent exploration method for deep reinforcement learning,2019,ICLR,International Conference on Machine Learning
+SPIGAN: Privileged Adversarial Learning from Simulation,2019,ICLR,International Conference on Machine Learning
+Generating Multi-Agent Trajectories using Programmatic Weak Supervision,2019,ICLR,International Conference on Machine Learning
+Label super-resolution networks,2019,ICLR,International Conference on Machine Learning
+ANYTIME MINIBATCH: EXPLOITING STRAGGLERS IN ONLINE DISTRIBUTED OPTIMIZATION,2019,ICLR,International Conference on Machine Learning
+Sample Efficient Adaptive Text-to-Speech,2019,ICLR,International Conference on Machine Learning
+Practical lossless compression with latent variables using bits back coding,2019,ICLR,International Conference on Machine Learning
+Kernel RNN Learning (KeRNL),2019,ICLR,International Conference on Machine Learning
+"Deep, Skinny Neural Networks are not Universal Approximators",2019,ICLR,International Conference on Machine Learning
+Large Scale Graph Learning From Smooth Signals,2019,ICLR,International Conference on Machine Learning
+Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation,2019,ICLR,International Conference on Machine Learning
+Analysis of Quantized Models,2019,ICLR,International Conference on Machine Learning
+Deep learning generalizes because the parameter-function map is biased towards simple functions,2019,ICLR,International Conference on Machine Learning
+Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks,2019,ICLR,International Conference on Machine Learning
+Synthetic Datasets for Neural Program Synthesis,2019,ICLR,International Conference on Machine Learning
+DPSNet: End-to-end Deep Plane Sweep Stereo,2019,ICLR,International Conference on Machine Learning
+Conditional Network Embeddings,2019,ICLR,International Conference on Machine Learning
+Defensive Quantization: When Efficiency Meets Robustness,2019,ICLR,International Conference on Machine Learning
+GO Gradient for Expectation-Based Objectives,2019,ICLR,International Conference on Machine Learning
+h-detach: Modifying the LSTM Gradient Towards Better Optimization,2019,ICLR,International Conference on Machine Learning
+An analytic theory of generalization dynamics and transfer learning in deep linear networks,2019,ICLR,International Conference on Machine Learning
+Differentiable Learning-to-Normalize via Switchable Normalization,2019,ICLR,International Conference on Machine Learning
+SOM-VAE: Interpretable Discrete Representation Learning on Time Series,2019,ICLR,International Conference on Machine Learning
+Hierarchical Generative Modeling for Controllable Speech Synthesis,2019,ICLR,International Conference on Machine Learning
+Learning Factorized Multimodal Representations,2019,ICLR,International Conference on Machine Learning
+Composing Complex Skills by Learning Transition Policies,2019,ICLR,International Conference on Machine Learning
+Human-level Protein Localization with Convolutional Neural Networks,2019,ICLR,International Conference on Machine Learning
+Environment Probing Interaction Policies,2019,ICLR,International Conference on Machine Learning
+Lagging Inference Networks and Posterior Collapse in Variational Autoencoders,2019,ICLR,International Conference on Machine Learning
+A2BCD: Asynchronous Acceleration with Optimal Complexity,2019,ICLR,International Conference on Machine Learning
+Learning to Infer and Execute 3D Shape Programs,2019,ICLR,International Conference on Machine Learning
+Deep Decoder: Concise Image Representations from Untrained Non-convolutional Networks,2019,ICLR,International Conference on Machine Learning
+SNAS: stochastic neural architecture search,2019,ICLR,International Conference on Machine Learning
+Revealing interpretable object representations from human behavior,2019,ICLR,International Conference on Machine Learning
+AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks,2019,ICLR,International Conference on Machine Learning
+Global-to-local Memory Pointer Networks for Task-Oriented Dialogue,2019,ICLR,International Conference on Machine Learning
+InstaGAN: Instance-aware Image-to-Image Translation,2019,ICLR,International Conference on Machine Learning
+Deep Layers as Stochastic Solvers,2019,ICLR,International Conference on Machine Learning
+Learning Multi-Level Hierarchies with Hindsight,2019,ICLR,International Conference on Machine Learning

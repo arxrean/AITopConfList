@@ -1,0 +1,589 @@
+title,year,conf,conf_long
+Natural Language Understanding with Privacy-Preserving BERT,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+The Shapley Value of Classifiers in Ensemble Games,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Discovering Urban Functions of High-Definition Zoning with Continuous Human Traces,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SimpleX: A Simple and Strong Baseline for Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"To Be or not to Be, Tail Labels in Extreme Multi-label Learning",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Principled Multi-Aspect Evaluation Measures of Rankings,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Minimizing Spectral Radius of Non-Backtracking Matrix by Edge Removal,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pre-training for Ad-hoc Retrieval: Hyperlink is Also You Need,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge Bases,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pareto-optimal Community Search on Large Bipartite Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Implicit User Profile for Personalized Retrieval-Based Chatbot,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adversarial Separation Network for Cross-Network Node Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding?,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ECMA: An Efficient Convoy Mining Algorithm for Moving Objects,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Improving Chinese Character Representation with Formation Graph Attention Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Model-agnostic vs. Model-intrinsic Interpretability for Explainable Product Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with Untrusted Server,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LiteGT: Efficient and Lightweight Graph Transformers,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Task Allocation with Geographic Partition in Spatial Crowdsourcing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HopfE: Knowledge Graph Representation Learning using Inverse Hopf Fibrations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Geometric Heuristics for Transfer Learning in Decision Trees,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PATROL: A Velocity Control Framework for Autonomous Vehicle via Spatial-Temporal Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Top-k Tree Similarity Join,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Top-N Recommendation with Counterfactual User Preference Simulation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Counterfactual Review-based Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DynSTGAT: Dynamic Spatial-Temporal Graph Attention Network for Traffic Signal Control,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Query-Variant Advertisement Text Generation with Association Knowledge,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Analysing Mixed Initiatives and Search Strategies during Conversational Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community Question Answering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Unified View on Graph Neural Networks as Graph Signal Denoising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Delve into the Performance Degradation of Differentiable Architecture Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Automated Query Graph Generation for Querying Knowledge Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Scaling Up Distance-generalized Core Decomposition,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Deep Self-Adaptive Hashing for Image Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+How Powerful is Graph Convolution for Recommendation?,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Speedup Robust Graph Structure Learning with Low-Rank Information,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Spatio-Temporal-Social Multi-Feature-based Fine-Grained Hot Spots Prediction for Content Delivery Services in 5G Era,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Differentially Private Federated Knowledge Graphs Embedding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Detecting the Fake Candidate Instances: Ambiguous Label Learning with Generative Adversarial Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Semantic Concept Annotation for Tabular Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CBML: A Cluster-based Meta-learning Model for Session-based Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-view Interaction Learning for Few-Shot Relation Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adversarial Kernel Sampling on Class-imbalanced Data Streams,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+#StayHome or #Marathon?: Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Unsupervised Large-Scale Social Network Alignment via Cross Network Embedding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AutoIAS: Automatic Integrated Architecture Searcher for Click-Trough Rate Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Inductive Matrix Completion Using Graph Autoencoder,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CMML: Contextual Modulation Meta Learning for Cold-Start Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pooling Architecture Search for Graph Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Understanding Event Predictions via Contextualized Multilevel Feature Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fast and Accurate Anchor Graph-based Label Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ClaSP - Time Series Segmentation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Task Assignment with Worker Churn Prediction in Spatial Crowdsourcing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph Embedding Based on Euclidean Distance Matrix and its Applications,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+An Effective Non-Autoregressive Model for Spoken Language Understanding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Joint Embedding with Modality Alignments for Cross-Modal Retrieval of Recipes and Food Images,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Deep Learning Framework for Self-evolving Hierarchical Community Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CANN: Coupled Approximation Neural Network for Partial Domain Adaptation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Cache-based GNN System for Dynamic Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mixture-Based Correction for Position and Trust Bias in Counterfactual Learning to Rank,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GF-VAE: A Flow-based Variational Autoencoder for Molecule Generation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Assorted Attention Network for Cross-Lingual Language-to-Vision Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+QuAX: Mining the Web for High-utility FAQ,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Two-tier Graph Contextual Embedding for Cross-device User Matching,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Seq2Bubbles: Region-Based Embedding Learning for User Behaviors in Sequential Recommenders,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MedRetriever: Target-Driven Interpretable Health Risk Prediction via Retrieving Unstructured Medical Text,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Using Knowledge Concept Aggregation towards Accurate Cognitive Diagnosis,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Enhancing User Interest Modeling with Knowledge-Enriched Itemsets for Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Towards Self-Explainable Graph Neural Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DCAP: Deep Cross Attentional Product Network for User Response Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Extracting Attentive Social Temporal Excitation for Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Influence-guided Data Augmentation for Neural Tensor Completion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HetMAML: Task-Heterogeneous Model-Agnostic Meta-Learning for Few-Shot Learning Across Modalities,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Efficient Hyperparameter Optimization under Multi-Source Covariate Shift,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Cluster via Same-Cluster Queries,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Signed Bipartite Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Reliable and Privacy-Preserving Task Matching in Blockchain-Based Crowdsourcing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AdaSim: A Recursive Similarity Measure in Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Dynamic Early Exit Scheduling for Deep Neural Network Inference through Contextual Bandits,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AMPPERE: A Universal Abstract Machine for Privacy-Preserving Entity Resolution Evaluation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+L2NAS: Learning to Optimize Neural Architectures via Continuous-Action Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Single Node Injection Attack against Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Revisiting State Augmentation methods for Reinforcement Learning with Stochastic Delays,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Comprehensively Computing Link-based Similarities by Building A Random Surfer Graph,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adaptive Posterior Knowledge Selection for Improving Knowledge-Grounded Dialogue Generation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+The Skyline of Counterfactual Explanations for Machine Learning Decision Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Large-scale Secure XGB for Vertical Federated Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning An End-to-End Structure for Retrieval in Large-Scale Recommendations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Clustering of Conversational Bandits for User Preference Learning and Elicitation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Understanding the Property of Long Term Memory for the LSTM with Attention Mechanism,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pruning Meta-Trained Networks for On-Device Adaptation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Block Access Pattern Discovery via Compressed Full Tensor Transformer,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Generating Compositional Color Representations from Text,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AdaRNN: Adaptive Learning and Forecasting of Time Series,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Topic Modeling for Multi-Aspect Listwise Comparisons,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Relation Prediction via Graph Neural Network in Heterogeneous Information Networks with Missing Type Information,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Estimating Average Treatment Effects via Orthogonal Regularization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Unsupervised Domain Adaptation for Static Malware Detection based on Gradient Boosting Trees,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CIExplore: Curiosity and Influence-based Exploration in Multi-Agent Cooperative Scenarios with Sparse Rewards,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fairness-Aware Training of Decision Trees by Abstract Interpretation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Jointly-Learned State-Action Embedding for Efficient Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fast Extraction of Word Embedding from Q-contexts,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+k-sums Clustering: A Stochastic Optimization Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-task Learning for Bias-Free Joint CTR Prediction and Market Price Modeling in Online Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fast k-NN Graph Construction by GPU based NN-Descent,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Driving the Herd: Search Engines as Content Influencers,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+On Influencing the Influential: Disparity Seeding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-Supervised Graph Co-Training for Session-based Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Answering POI-recommendation Questions using Tourism Reviews,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+POSHAN: Cardinal POS Pattern Guided Attention for News Headline Incongruence,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Meta-Learning Based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Meta Hyperparameter Optimization with Adversarial Proxy Subsets Sampling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Budget-constrained Truss Maximization over Large Graphs: A Component-based Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+FedMatch: Federated Learning Over Heterogeneous Question Answering Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+An Interactive Neural Network Approach to Keyphrase Extraction in Talent Recruitment,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Automated Selection of Multiple Datasets for Extension by Integration,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Generative Inverse Deep Reinforcement Learning for Online Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Relation Network and Causal Reasoning for Image Captioning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Metric Sentiment Learning for Label Representation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Agenda: Robust Personalized PageRanks in Evolving Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Semi-supervised Multi-label Learning for Graph-structured Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Incremental Graph Convolutional Network for Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Grammatical Error Correction with Dependency Distance,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Click-Through Rate Prediction with Multi-Modal Hypergraphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Identifying Untrustworthy Samples: Data Filtering for Open-domain Dialogues with Bayesian Optimization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-Factors Aware Dual-Attentional Knowledge Tracing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Efficient Multi-Scale Feature Generation Adaptive Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Hierarchical Semantics Matching For Heterogeneous Spatio-temporal Sources,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Corrective Guidance and Learning for Dialogue Management,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mining Cross Features for Financial Credit Risk Assessment,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GraphITE: Estimating Individual Effects of Graph-structured Treatments,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Computing and Maintaining Provenance of Query Result Probabilities in Uncertain Knowledge Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Explanations for Data Repair Through Shapley Values,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Augment Imbalanced Data for Re-ranking Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Speaker-Conditioned Hierarchical Modeling for Automated Speech Scoring,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Representation Learning via Variational Bayesian Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+iMap: Incremental Node Mapping between Large Graphs Using GNN,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Zero-shot Relation Classification from Side Information,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ASTERYX: A model-Agnostic SaT-basEd appRoach for sYmbolic and score-based eXplanations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SeeQuery: An Automatic Method for Recommending Translations of Ontology Competency Questions into SPARQL-OWL,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MentalSpot: Effective Early Screening for Depression Based on Social Contagion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Action Sequence Augmentation for Early Graph-based Anomaly Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19 Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Entity and Relation Matching Consensus for Entity Alignment,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mining Bursty Groups from Interaction Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+WG4Rec: Modeling Textual Content with Word Graph for News Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training Debiasing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-supervised Representation Learning on Dynamic Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Contrastive Pre-Training of GNNs on Heterogeneous Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Neural Information Diffusion Prediction with Topic-Aware Attention Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SNPR: A Serendipity-Oriented Next POI Recommendation Model,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Hyperbolic Hypergraphs for Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Summarizing Long-Form Document with Rich Discourse Information,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Region Semantically Aligned Network for Zero-Shot Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+NED: Niche Detection in User Content Consumption Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+REFORM: Error-Aware Few-Shot Knowledge Graph Completion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Knowledge-Aware Recommender with Attention-Enhanced Dynamic Convolutional Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Neural PathSim for Inductive Similarity Search in Heterogeneous Information Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+FiShNet: Fine-Grained Filter Sharing for Resource-Efficient Multi-Task Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evaluating Relevance Judgments with Pairwise Discriminative Power,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Lightweight Self-Attentive Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+RxNet: Rx-refill Graph Neural Network for Overprescribing Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+BNN: Boosting Neural Network Framework Utilizing Limited Amount of Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fraud Detection under Multi-Sourced Extremely Noisy Annotations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GAM: Explainable Visual Similarity and Classification via Gradient Activation Maps,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Neural Conversation Generation Model via Equivalent Shared Memory Investigation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DSDD: Domain-Specific Dataset Discovery on the Web,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+POSSCORE: A Simple Yet Effective Evaluation of Conversational Search with Part of Speech Labelling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Expanding Relationship for Cross Domain Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fine and Coarse Granular Argument Classification before Clustering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multiple Exemplars Learning for Fast Image Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Sparse Shield: Social Network Immunization vs. Harmful Speech,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+XPM: An Explainable Deep Reinforcement Learning Framework for Portfolio Management,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Robust Dynamic Clustering for Temporal Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Incorporating Query Reformulating Behavior into Web Search Evaluation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+What is Next when Sequential Prediction Meets Implicitly Hard Interaction?,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HyperGraph Convolution Based Attributed HyperGraph Clustering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Understanding and Resolving Performance Degradation in Deep Graph Convolutional Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Popularity-Enhanced News Recommendation with Multi-View Interest Representation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SCMGR: Using Social Context and Multi-Granularity Relations for Unsupervised Social Summarization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Addressing the Hardness of k-Facility Relocation Problem: A Pair of Approximate Solutions,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale Graph Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Projected Gradient Method for Opinion Optimization with Limited Changes of Susceptibility to Persuasion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Defining an Optimal Configuration Set for Selective Search Strategy – A Risk-Sensitive Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+One-shot Transfer Learning for Population Mapping,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+50 Ways to Bake a Cookie: Mapping the Landscape of Procedural Texts,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mitigating Negative Influence Diffusion is Hard,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Recipe Representation Learning with Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HASTE: A Distributed System for Hybrid and Adaptive Processing on Streaming Spatial-Textual Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph Feature Gating Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Social Recommendation with Self-Supervised Metagraph Informax Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Query Definability and Its Approximations in Ontology-based Data Management,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Reinforced Active Entity Alignment,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Power to the Relational Inductive Bias: Graph Neural Networks in Electrical Power Grids,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Influence Maximization With Co-Existing Seeds,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Saliency Maps to Explain Deep Time Series Classifiers,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Ideological Embeddings from Information Cascades,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Study of Explainability Features to Scrutinize Faceted Filtering Results,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Skyline in Crowdsourcing with Imprecise Comparisons,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With Local Differential Privacy,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LEReg: Empower Graph Neural Networks with Local Energy Regularization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Complex Temporal Question Answering on Knowledge Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+odeN: Simultaneous Approximation of Multiple Motif Counts in Large Temporal Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Disentangling Preference Representations for Recommendation Critiquing with ß-VAE,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Actionable Insights in Urban Multivariate Time-series,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Attention Based Dynamic Graph Learning Framework for Asset Pricing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mixed Attention Transformer for Leveraging Word-Level Knowledge to Neural Cross-Lingual Information Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Certifying One-Phase Technology-Assisted Reviews,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Non-Visual Accessibility Assessment of Videos,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Cross-Market Product Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Counterfactual Explainable Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Norma: A Hybrid Feature Alignment for Class-Aware Unsupervised Domain Adaptation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Multiple Intent Representations for Search Queries,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LT-OCF: Learnable-Time ODE-based Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HORNET: Enriching Pre-trained Language Representations with Heterogeneous Knowledge Sources,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Integrating Pattern- and Fact-based Fake News Detection via Model Preference Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Topic-aware Heterogeneous Graph Neural Network for Link Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DESYR: Definition and Syntactic Representation Based Claim Detection on the Web,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+WebKE: Knowledge Extraction from Semi-structured Web with Pre-trained Markup Language Model,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE, QuatE, ComplEx",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Integrating Static and Time-Series Data in Deep Recurrent Models for Oncology Early Warning Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+VPALG: Paper-publication Prediction with Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Deep Adversarial Network Alignment,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Tree Decomposed Graph Neural Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SGCL: Contrastive Representation Learning for Signed Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CoPE: Modeling Continuous Propagation and Evolution on Interaction Graph,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ScarceGAN: Discriminative Classification Framework for Rare Class Identification for Longitudinal Data with Weak Prior,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ALADDIN: Asymmetric Centralized Training for Distributed Deep Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Open Benchmarking for Click-Through Rate Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Match-Ignition: Plugging PageRank into Transformer for Long-form Text Matching,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Toward an Effective Black-Box Adversarial Attack on Functional JavaScript Malware against Commercial Anti-Virus,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Bundle Proactively for On-Demand Meal Delivery,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+From Limited Annotated Raw Material Data to Quality Production Data: A Case Study in the Milk Industry,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+'Could You Describe the Reason for the Transfer?': A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Distilling Knowledge from BERT into Simple Fully Connected Neural Networks for Efficient Vertical Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ARGH!: Automated Rumor Generation Hub,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-Property Molecular Optimization using an Integrated Poly-Cycle Architecture,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Elastic and Stable Compaction for LSM-tree: A FaaS-Based Approach on TerarkDB,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Prohibited Item Detection on Heterogeneous Risk Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Scalable Learning to Troubleshoot Query Performance Problems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+From Closing Triangles to Higher-Order Motif Closures for Better Unsupervised Online Link Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+EasyTransfer: A Simple and Scalable Deep Transfer Learning Platform for NLP Applications,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed Companies,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GEDIT: Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Pack: A Data-Driven Tree Search Algorithm for Large-Scale 3D Bin Packing Problem,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Crawler Detection in Location-Based Services Using Attributed Action Net,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Flexible O&M for Telecom Networks at Huawei: A Language Model-based Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Dual Learning for Query Generation and Query Selection in Query Feeds Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Influence Maximization in Multi-Relational Social Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Heterogeneous Graph Neural Networks for Large-Scale Bid Keyword Matching,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SATAR: A Self-supervised Approach to Twitter Account Representation Learning and its Application in Bot Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+TSI: An Ad Text Strength Indicator using Text-to-CTR and Semantic-Ad-Similarity,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal Multilabel Learning Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+K-AID: Enhancing Pre-trained Language Models with Domain Knowledge for Question Answering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+WikiCheck: An End-to-end Open Source Automatic Fact-Checking API based on Wikipedia,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Contextual Skill Proficiency via Multi-task Learning at LinkedIn,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Unsupervised Categorical Representation Learning for Package Arrival Time Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+From Pixels to Words: A Scalable Journey of Text Information from Product Images to Retail Catalog,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Cascaded Deep Neural Ranking Models in LinkedIn People Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AutoCombo: Automatic Malware Signature Generation Through Combination Rule Mining,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CausCF: Causal Collaborative Filtering for Recommendation Effect Estimation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fulfillment-Time-Aware Personalized Ranking for On-Demand Food Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Sequential Search with Off-Policy Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Contrastive Curriculum Learning for Sequential User Behavior Modeling via Data Augmentation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Efficient Learning to Learn a Robust CTR Model for Web-scale Online Sponsored Search Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning to Expand: Reinforced Response Expansion for Information-seeking Conversations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Grassland: A Rapid Algebraic Modeling System for Million-variable Optimization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ETA Prediction with Graph Neural Networks in Google Maps,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CHASE: Commonsense-Enriched Advertising on Search Engine with Explicit Knowledge,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Beast: Scalable Exploratory Analytics on Spatio-temporal Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+QUEACO: Borrowing Treasures from Weakly-labeled Behavior Data for Query Attribute Value Extraction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Unbiased Filtering of Accidental Clicks in Verizon Media Native Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Leveraging Semantic Information to Facilitate the Discovery of Underserved Podcasts,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-supervised Learning for Large-scale Item Recommendations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Seasonal Relevance in E-Commerce Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LightMove: A Lightweight Next-POI Recommendation forTaxicab Rooftop Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-modal Dictionary BERT for Cross-modal Video Search in Baidu Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Causal-Aware Generative Imputation for Automated Underwriting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Enabling Efficiency-Precision Trade-offs for Label Trees in Extreme Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Algorithmic Balancing of Familiarity, Similarity, & Discovery in Music Recommendations",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Online Multi-horizon Transaction Metric Estimation with Multi-modal Learning in Payment Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Understanding Job Seeker Funnel for Search and Discovery Personalization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CADRE: A Cloud-Based Data Service for Big Bibliographic Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Prioritizing Original News on Facebook,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Talking Face Generation Based on Information Bottleneck and Complementary Representations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Embedding Node Structural Role Identity Using Stress Majorization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DialogueBERT: A Self-Supervised Learning based Dialogue Pre-training Encoder,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Spectral Graph Attention Network with Fast Eigen-approximation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Mitigating Deep Double Descent by Concatenating Inputs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+REFINE: Random RangE FInder for Network Embedding,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Boosting Few-shot Abstractive Summarization with Auxiliary Tasks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Deep Active Learning for Text Classification with Diverse Interpretations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph-based Semi-Supervised Learning by Strengthening Local Label Consistency,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Hubness-aware User Identity Linkage,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CoSEM: Contextual and Semantic Embedding for App Usage Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Time-Aware Recommender System via Continuous-Time Modeling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adversarial Domain Adaptation for Cross-lingual Information Retrieval with Multilingual BERT,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Structural Deep Incomplete Multi-view Clustering Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Leveraging Domain Information to Classify Financial Documents via Unsupervised Graph Momentum Contrast,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SCOPA: Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Discovery of Temporal Graph Functional Dependencies,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Variational Cross-Network Embedding for Anonymized User Identity Linkage,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Low-dimensional Alignment for Cross-Domain Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Automatic Error Correction Using the Wikipedia Page Revision History,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+FedSkel: Efficient Federated Learning on Heterogeneous Systems with Skeleton Gradients Update,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation Extraction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GLocal-K: Global and Local Kernels for Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+New Tight Relaxations of Rank Minimization for Multi-Task Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Vandalism Detection in OpenStreetMap via User Embeddings,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Discovering Time-invariant Causal Structure from Temporal Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+When is Nearest Neighbor Meaningful: Sequential Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adversarial Reprogramming of Pretrained Neural Networks for Fraud Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Goal-Directed Extractive Summarization of Financial Reports,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Lightweight Visual Question Answering using Scene Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SCI: Subspace Learning Based Counterfactual Inference for Individual Treatment Effect Estimation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+XPL-CF: Explainable Embeddings for Feature-based Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Will Sorafenib Help?: Treatment-aware Reranking in Precision Medicine Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fully Hyperbolic Graph Convolution Network for Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Training Neural Networks with Random Noise Images for Adversarial Robustness,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Dual Correction Strategy for Ranking Distillation in Top-N Recommender System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Locate Who You Are: Matching Geo-location to Text for User Identity Linkage,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Trilateral Spatiotemporal Attention Network for User Behavior Modeling in Location-based Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Storing Multi-model Data in RDBMSs based on Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Student Can Also be a Good Teacher: Extracting Knowledge from Vision-and-Language Model for Cross-Modal Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Distilling Numeral Information for Volatility Forecasting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"NQuAD: 70,000+ Questions for Machine Comprehension of the Numerals in Text",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Constructing Noise Free Economic Policy Uncertainty Index,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DeepGroup: Group Recommendation with Implicit Feedback,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Asterisk-Shaped Features for Tabular Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fair and Robust Classification Under Sample Selection Bias,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Temporal Network Embedding via Tensor Factorization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Binary Code based Hash Embedding for Web-scale Applications,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph Embedding via Diffusion-Wavelets-Based Node Feature Distribution Characterization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Grad-SAM: Explaining Transformers via Gradient Self-Attention Maps,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Operation Diagnosis on Procedure Graph: The Task and Dataset,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Vector-Quantized Autoencoder With Copula for Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Entity-aware Collaborative Relation Network with Knowledge Graph for Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Template-guided Clarifying Question Generation for Web Search Clarification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Subtractive Aggregation for Attributed Network Anomaly Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Recommending Datasets for Scientific Problem Descriptions,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Query-driven Segment Selection for Ranking Long Documents,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Question Answering using Web Lists,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fine-Grained Element Identification in Complaint Text of Internet Fraud,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Simulated Annealing for Emotional Dialogue Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HiCoVA: Hierarchical Conditional Variational Autoencoder for Keyphrase Generation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Modeling Inter-Claim Interactions for Verifying Multiple Claims,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Anchor-based Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evidential Relational-Graph Convolutional Networks for Entity Classification in Knowledge Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+VerSaChI: Finding Statistically Significant Subgraph Matches using Chebyshev's Inequality,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DESTINE: Dense Subgraph Detection on Multi-Layered Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Tabular Data Concept Type Detection Using Star-Transformers,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Exploratory Search of GANs with Contextual Bandits,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Location-Aware Named Entity Disambiguation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Age Inference Using A Hierarchical Attention Neural Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Scalable Contrast Pattern Mining over Data Streams,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Relation-aware Heterogeneous Graph for User Profiling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+BERT-QPP: Contextualized Pre-trained transformers for Query Performance Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-Supervised Embedding for Subspace Clustering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+RABERT: Relation-Aware BERT for Target-Oriented Opinion Words Extraction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with Relational GNN,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Smoothing with Fake Label,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Label-informed Graph Structure Learning for Node Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Review-Aware Neural Recommendation with Cross-Modality Mutual Attention,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MDFEND: Multi-domain Fake News Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multimodal Graph Meta Contrastive Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LTPHM: Long-term Traffic Prediction based on Hybrid Model,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Capsule Graph Neural Networks with EM Routing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Attention Based Subgraph Classification for Link Prediction by Network Re-weighting,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Locker: Locally Constrained Self-Attentive Sequential Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Density-Based Dynamic Curriculum Learning for Intent Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Adversarial Learning for Incentive Optimization in Mobile Payment Marketing,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GDFM: Gene Vectors Embodied Deep Attentional Factorization Machines for Interaction prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+EasyFlinkCEP: Big Event Data Analytics for Everyone,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Role-oriented Network Embedding Based on Adversarial Learning between Higher-order and Local Features,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Reputation Equity in Ranking Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SIFN: A Sentiment-aware Interactive Fusion Network for Review-based Item Recommendation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-Sentence Argument Linking via An Event-Aware Hierarchical Encoder,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Learning Sparse Binary Code for Maximum Inner Product Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-Task Self-Supervised Learning for Script Event Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evaluating the Prediction Bias Induced by Label Imbalance in Multi-label Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Region Invariant Normalizing Flows for Mobility Transfer,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-subspace Implicit Alignment for Cross-modal Retrieval on Cooking Recipes and Food Images,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-supervised Fine-tuning for Efficient Passage Re-ranking,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Self-Supervised Learning based on Sentiment Analysis with Word Weight Calculation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Causally Attentive Collaborative Filtering,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+FairER: Entity Resolution With Fairness Constraints,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Variational Graph Normalized AutoEncoders,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Question Rewriting for Open-Domain Conversational QA: Best Practices and Limitations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Aspect Sentiment Triplet Extraction Using Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Conditional Cascade Model for Relational Triple Extraction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Accelerating Variant Calling on Human Genomes Using a Commodity Cluster,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Boosting Graph Alignment Algorithms,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Enriching Ontology with Temporal Commonsense for Low-Resource Audio Tagging,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Does Adversarial Oversampling Help us?,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+State-Aware Meta-Evaluation of Evaluation Metrics in Interactive Information Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MGNETS: Multi-Graph Neural Networks for Table Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+How to Leverage a Multi-layered Transformer Language Model for Text Clustering: an Ensemble Approach,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fairness-Aware Unsupervised Feature Selection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+On Skipping Behaviour Types in Music Streaming Sessions,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Reevaluating the Change Point Detection Problem with Segment-based Bayesian Online Detection,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+UQJG: Identifying Transactions that Collaborate to Violate an SQL Assertion,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Knowledge-Aware Neural Networks for Medical Forum Question Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Towards Robustness to Label Noise in Text Classification via Noise Modeling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-objective Privacy-preserving Text Representation Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CANCN-BERT: A Joint Pre-Trained Language Model for Classical and Modern Chinese,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Graph Representation Learning via Adversarial Variational Bayes,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Centerpoint Query Authentication,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Structure Aware Experience Replay for Incremental Learning in Graph-based Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Using Neighborhood Context to Improve Information Extraction from Visual Documents Captured on Mobile Phones,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evaluating Fairness in Argument Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Collaborative Experts Discovery in Social Coding Platforms,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Span-level Emotion Cause Analysis with Neural Sequence Tagging,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence Modeling on Dynamic Entity Embeddings,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+The Effect of News Article Quality on Ad Consumption,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AdaptiveGCN: Efficient GCN Through Adaptively Sparsifying Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MixBERT for Image-Ad Relevance Scoring in Advertising,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Multi-objective Few-shot Learning for Fair Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning Approach for Semantic Code Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Counterfactual Generative Smoothing for Imbalanced Natural Language Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Understanding Multi-channel Customer Behavior in Retail,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DML: Dynamic Multi-Granularity Learning for BERT-Based Document Reranking,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Determining Subjective Bias in Text through Linguistically Informed Transformer based Multi-Task Network,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Predicting Success of a Persuasion through Joint Modeling of Utterance Categorization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Neuron Campaign for Initialization Guided by Information Bottleneck Theory,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CauSeR: Causal Session-based Recommendations for Handling Popularity Bias,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Query Embedding Pruning for Dense Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SMAD: Scalable Multi-view Ad Retrieval System for E-Commerce Sponsored Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Robust Adaptive-weighting Multi-view Classification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Integrating Transductive and Inductive Embeddings Improves Link Prediction Accuracy,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+On Approximate Nearest Neighbour Selection for Multi-Stage Dense Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Cformer: Semi-Supervised Text Clustering Based on Pseudo Labeling,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Misbeliefs and Biases in Health-Related Searches,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Cohesive Structure Based Bipartite Graph Analytics System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Sentiment and Style Controllable Approach for Chinese Poetry Generation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"FairCORELS, an Open-Source Library for Learning Fair Rule Lists",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+IMAS++: An Intelligent Medical Analysis System Enhanced with Deep Graph Neural Networks,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DORA THE EXPLORER: Exploring Very Large Data With Interactive Deep Reinforcement Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DashBot: An ML-Guided Dashboard Generation System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+RW-Team: Robust Team Formation using Random Walk,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Chinese Knowledge Base Question Answering System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MVQAS: A Medical Visual Question Answering System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PRASEMap: A Probabilistic Reasoning and Semantic Embedding based Knowledge Graph Alignment System,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+From Community Search to Community Understanding: A Multimodal Community Query Engine,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CauseBox: A Causal Inference Toolbox for BenchmarkingTreatment Effect Estimators with Machine Learning Methods,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+An RDF Data Management System for Conflict Casualties,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Beamer: An End-to-End Deep Learning Framework for Unifying Data Cleaning in DNN Model Training and Inference,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DLQ: A System for Label-Constrained Reachability Queries on Dynamic Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+TagPick: A System for Bridging Micro-Video Hashtags and E-commerce Categories,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Videolytics: System for Data Analytics of Video Streams,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Landmark Explanation: An Explainer for Entity Matching Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Discovering Conflicts of Interest across Heterogeneous Data Sources with ConnectionLens,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AliMe MKG: A Multi-modal Knowledge Graph for Live-streaming E-commerce,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Health Claims Unpacked: A toolkit to Enhance the Communication of Health Claims for Food,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+FaxPlainAC: A Fact-Checking Tool Based on EXPLAINable Models with HumAn Correction in the Loop,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SearchEHR: A Family History Search System for Clinical Decision Support,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+WhatTheWikiFact: Fact-Checking Claims Against Wikipedia,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+OpenAttHetRL: An Open Source Toolkit for Attributed Heterogeneous Network Representation Learning,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Form 10-Q Itemization,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+HAO Unity: A Graph-based System for Unifying Heterogeneous Data,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PyTFL: A Python-based Neural Team Formation Toolkit,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Jasmine: Exploring the Dependency-Aware Execution on Distributed Shared Memory,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CLC-RS: A Chinese Legal Case Retrieval System with Masked Language Ranking,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+A Semantic Data Marketplace for Easy Data Sharing within a Smart City,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AntOpt: A Multi-functional Large-scale Decision Optimization Platform,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"SPARQL-vision: A Platform for Querying, Visualising and Exploring SPARQL endpoints",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DistRDF2ML - Scalable Distributed In-Memory Machine Learning Pipelines for RDF Knowledge Graphs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Evaluating Graph Vulnerability and Robustness using TIGER,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"LC: A Flexible, Extensible Open-Source Toolkit for Model Compression",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+LiteratureQA: A Qestion Answering Corpus with Graph Knowledge on Academic Literature,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GAKG: A Multimodal Geoscience Academic Knowledge Graph,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+TrUMAn: Trope Understanding in Movies and Animations,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Machamp: A Generalized Entity Matching Benchmark,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ULTRA: An Unbiased Learning To Rank Algorithm Toolbox,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+VerbCL: A Dataset of Verbatim Quotes for Highlight Extraction in Case Law,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+QuaPy: A Python-Based Framework for Quantification,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+SoMeSci— A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+PyTerrier: Declarative Experimentation in Python from BM25 to Dense Retrieval,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+ECEdgeNet: A Large Scale Edge Computing Dataset in the Field of E-commerce,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Pirá: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+MS MARCO Chameleons: Challenging the MS MARCO Leaderboard with Extremely Obstinate Queries,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CoST: An annotated Data Collection for Complex Search,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+librec-auto: A Tool for Recommender Systems Experimentation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised Query Reformulation,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+VidLife: A Dataset for Life Event Extraction from Videos,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+WorldKG: A World-Scale Geographic Knowledge Graph,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CIKM 2021 Tutorial on Fairness of Machine Learning in Recommender Systems,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+AutoML: From Methodology to Application,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Fake News, Disinformation, Propaganda, and Media Bias",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Large-Scale Information Extraction under Privacy-Aware Constraints,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+IR From Bag-of-words to BERT and Beyond through Practical Experiments,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+"Adversarial Robustness of Deep Learning: Theory, Algorithms, and Applications",2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Fair Graph Mining,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Aggregation Techniques in Crowdsourcing: Multiple Choice Questions and Beyond,2021,CIKM,INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT

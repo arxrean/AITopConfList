@@ -14,12 +14,12 @@ from selenium.webdriver.chrome.options import Options
 class Spider_ICLR18(scrapy.Spider):
     name = "iclr18"
     start_urls = [
-        'https://openreview.net/group?id=ICLR.cc/2018/Conference#accepted-oral-papers',
+        'https://openreview.net/group?id=ICLR.cc/2018/Conference#accepted-oral-papers'
     ]
 
     def __init__(self):
         # add chrome driver to win10 PATH
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome('../../../chromedriver')
 
     def parse(self, response):
         self.driver.get(response.request.url)

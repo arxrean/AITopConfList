@@ -19,8 +19,7 @@ class Spider_ICLR19(scrapy.Spider):
     ]
 
     def __init__(self):
-        # add chrome driver to win10 PATH
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome('../../../chromedriver')
 
     def parse(self, response):
         self.driver.get(response.request.url)

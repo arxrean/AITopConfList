@@ -1,0 +1,622 @@
+title,year,conf,conf_long
+Spline Filters For End-to-End Deep Learning,2018,ICML,International Conference on Machine Learning
+Non-linear motor control by local learning in spiking neural networks,2018,ICML,International Conference on Machine Learning
+Implicit Quantile Networks for Distributional Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+An Inference-Based Policy Gradient Method for Learning Options,2018,ICML,International Conference on Machine Learning
+Predict and Constrain: Modeling Cardinality in Deep Structured Prediction,2018,ICML,International Conference on Machine Learning
+Differentially Private Matrix Completion Revisited,2018,ICML,International Conference on Machine Learning
+Differentiable plasticity: training plastic neural networks with backpropagation,2018,ICML,International Conference on Machine Learning
+Model-Level Dual Learning,2018,ICML,International Conference on Machine Learning
+CoVeR: Learning Covariate-Specific Vector Representations with Tensor Decompositions,2018,ICML,International Conference on Machine Learning
+Tree Edit Distance Learning via Adaptive Symbol Embeddings,2018,ICML,International Conference on Machine Learning
+Gradually Updated Neural Networks for Large-Scale Image Recognition,2018,ICML,International Conference on Machine Learning
+One-Shot Segmentation in Clutter,2018,ICML,International Conference on Machine Learning
+Active Testing: An Efficient and Robust Framework for Estimating Accuracy,2018,ICML,International Conference on Machine Learning
+Learning Deep ResNet Blocks Sequentially using Boosting Theory,2018,ICML,International Conference on Machine Learning
+Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings,2018,ICML,International Conference on Machine Learning
+Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs,2018,ICML,International Conference on Machine Learning
+Stochastic PCA with $\ell_2$ and $\ell_1$ Regularization,2018,ICML,International Conference on Machine Learning
+Subspace Embedding and Linear Regression with Orlicz Norm,2018,ICML,International Conference on Machine Learning
+Signal and  Noise Statistics Oblivious Orthogonal Matching Pursuit,2018,ICML,International Conference on Machine Learning
+Provable Defenses against Adversarial Examples via the Convex Outer Adversarial Polytope,2018,ICML,International Conference on Machine Learning
+Learning the Reward Function for a Misspecified Model,2018,ICML,International Conference on Machine Learning
+Deep Reinforcement Learning in Continuous Action Spaces: a Case Study in the Game of Simulated Curling,2018,ICML,International Conference on Machine Learning
+Do Outliers Ruin Collaboration?,2018,ICML,International Conference on Machine Learning
+"Dropout Training, Data-dependent Regularization, and Generalization Bounds",2018,ICML,International Conference on Machine Learning
+Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations,2018,ICML,International Conference on Machine Learning
+Continual Reinforcement Learning with Complex Synapses,2018,ICML,International Conference on Machine Learning
+Equivalence of Multicategory SVM and Simplex Cone SVM: Fast Computations and Statistical Theory,2018,ICML,International Conference on Machine Learning
+Quickshift++: Provably Good Initializations for Sample-Based Mean Shift,2018,ICML,International Conference on Machine Learning
+Learning Diffusion using Hyperparameters,2018,ICML,International Conference on Machine Learning
+Learning a Mixture of Two Multinomial Logits,2018,ICML,International Conference on Machine Learning
+Crowdsourcing with Arbitrary Adversaries,2018,ICML,International Conference on Machine Learning
+Deep Density Destructors,2018,ICML,International Conference on Machine Learning
+Programmatically Interpretable Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Structured Evolution with Compact Architectures for Scalable Policy Optimization,2018,ICML,International Conference on Machine Learning
+The Weighted Kendall and High-order Kernels for Permutations,2018,ICML,International Conference on Machine Learning
+"The Limits of Maxing, Ranking, and Preference Learning",2018,ICML,International Conference on Machine Learning
+Black Box FDR,2018,ICML,International Conference on Machine Learning
+Variable Selection via Penalized Neural Network: a Drop-Out-One Loss Approach,2018,ICML,International Conference on Machine Learning
+Clustering Semi-Random Mixtures of Gaussians,2018,ICML,International Conference on Machine Learning
+Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski $p$-Norms,2018,ICML,International Conference on Machine Learning
+Learning by Playing - Solving Sparse Reward Tasks from Scratch,2018,ICML,International Conference on Machine Learning
+Structured Control Nets for Deep Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Stagewise Safe Bayesian Optimization with Gaussian Processes,2018,ICML,International Conference on Machine Learning
+Bayesian Optimization of Combinatorial Structures,2018,ICML,International Conference on Machine Learning
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models,2018,ICML,International Conference on Machine Learning
+Dependent Relational Gamma Process Models for Longitudinal Networks,2018,ICML,International Conference on Machine Learning
+K-means clustering using random matrix sparsification,2018,ICML,International Conference on Machine Learning
+Hierarchical Clustering with Structural Constraints,2018,ICML,International Conference on Machine Learning
+Kronecker Recurrent Units,2018,ICML,International Conference on Machine Learning
+Semi-Supervised Learning via Compact Latent Space Clustering,2018,ICML,International Conference on Machine Learning
+Dynamic Evaluation of Neural Sequence Models,2018,ICML,International Conference on Machine Learning
+TACO: Learning Task Decomposition via Temporal Alignment for Control,2018,ICML,International Conference on Machine Learning
+A Spectral Approach to Gradient Estimation for Implicit Distributions,2018,ICML,International Conference on Machine Learning
+Quasi-Monte Carlo Variational Inference,2018,ICML,International Conference on Machine Learning
+Learning to Optimize Combinatorial Functions,2018,ICML,International Conference on Machine Learning
+"Proportional Allocation: Simple, Distributed, and Diverse Matching with High Entropy",2018,ICML,International Conference on Machine Learning
+Representation Learning on Graphs with Jumping Knowledge Networks,2018,ICML,International Conference on Machine Learning
+NetGAN: Generating Graphs via Random Walks,2018,ICML,International Conference on Machine Learning
+INSPECTRE: Privately Estimating the Unseen,2018,ICML,International Conference on Machine Learning
+Locally Private Hypothesis Testing,2018,ICML,International Conference on Machine Learning
+Latent Space Policies for Hierarchical Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+More Robust Doubly Robust Off-policy Evaluation,2018,ICML,International Conference on Machine Learning
+Learning to Explain: An Information-Theoretic Perspective on Model Interpretation,2018,ICML,International Conference on Machine Learning
+End-to-end Active Object Tracking via Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Efficient and Consistent Adversarial Bipartite Matching,2018,ICML,International Conference on Machine Learning
+SparseMAP: Differentiable Sparse Structured Inference,2018,ICML,International Conference on Machine Learning
+Bilevel Programming for Hyperparameter Optimization and Meta-Learning,2018,ICML,International Conference on Machine Learning
+Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory,2018,ICML,International Conference on Machine Learning
+Parameterized Algorithms for the Matrix Completion Problem,2018,ICML,International Conference on Machine Learning
+Nearly Optimal Robust Subspace Tracking,2018,ICML,International Conference on Machine Learning
+Katyusha X: Simple Momentum Method for Stochastic Sum-of-Nonconvex Optimization,2018,ICML,International Conference on Machine Learning
+signSGD: Compressed Optimisation for Non-Convex Problems,2018,ICML,International Conference on Machine Learning
+Synthesizing Robust Adversarial Examples,2018,ICML,International Conference on Machine Learning
+Differentiable Abstract Interpretation for Provably Robust Neural Networks,2018,ICML,International Conference on Machine Learning
+Stochastic Training of Graph Convolutional Networks with Variance Reduction,2018,ICML,International Conference on Machine Learning
+Neural Relational Inference for Interacting Systems,2018,ICML,International Conference on Machine Learning
+Which Training Methods for GANs do actually Converge?,2018,ICML,International Conference on Machine Learning
+Learning Independent Causal Mechanisms,2018,ICML,International Conference on Machine Learning
+Nonconvex Optimization for Regression with Fairness Constraints,2018,ICML,International Conference on Machine Learning
+Fairness Without Demographics in Repeated Loss Minimization,2018,ICML,International Conference on Machine Learning
+MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning,2018,ICML,International Conference on Machine Learning
+Nonoverlap-Promoting Variable Selection,2018,ICML,International Conference on Machine Learning
+Towards More Efficient Stochastic Decentralized Learning: Faster Convergence and Sparse Communication,2018,ICML,International Conference on Machine Learning
+Graph Networks as Learnable Physics Engines for Inference and Control,2018,ICML,International Conference on Machine Learning
+An Alternative View: When Does SGD Escape Local Minima?,2018,ICML,International Conference on Machine Learning
+Asynchronous Decentralized Parallel Stochastic Gradient Descent,2018,ICML,International Conference on Machine Learning
+An Estimation and Analysis Framework for the Rasch Model,2018,ICML,International Conference on Machine Learning
+Mitigating Bias in Adaptive Data Gathering via Differential Privacy,2018,ICML,International Conference on Machine Learning
+Local Private Hypothesis Testing: Chi-Square Tests,2018,ICML,International Conference on Machine Learning
+Disentangling by Factorising,2018,ICML,International Conference on Machine Learning
+Efficient Bias-Span-Constrained Exploration-Exploitation in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Learning to search with MCTSnets,2018,ICML,International Conference on Machine Learning
+Decoupled Parallel Backpropagation with Convergence Guarantee,2018,ICML,International Conference on Machine Learning
+On Learning Sparsely Used Dictionaries from Incomplete Samples,2018,ICML,International Conference on Machine Learning
+Variational Network Inference: Strong and Stable with Concrete Support,2018,ICML,International Conference on Machine Learning
+Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?,2018,ICML,International Conference on Machine Learning
+Data Summarization at Scale: A Two-Stage Submodular Approach,2018,ICML,International Conference on Machine Learning
+Best Arm Identification in Linear Bandits with Linear Dimension Dependency,2018,ICML,International Conference on Machine Learning
+Learning with Abandonment,2018,ICML,International Conference on Machine Learning
+Hyperbolic Entailment Cones for Learning Hierarchical Embeddings,2018,ICML,International Conference on Machine Learning
+Generative Temporal Models with Spatial Memory for Partially Observed Environments,2018,ICML,International Conference on Machine Learning
+DiCE: The Infinitely Differentiable Monte Carlo Estimator,2018,ICML,International Conference on Machine Learning
+Orthogonal Recurrent Neural Networks with Scaled Cayley Transform,2018,ICML,International Conference on Machine Learning
+Least-Squares Temporal Difference Learning for the Linear Quadratic Regulator,2018,ICML,International Conference on Machine Learning
+Spotlight: Optimizing Device Placement for Training Deep Neural Networks,2018,ICML,International Conference on Machine Learning
+Universal Planning Networks: Learning Generalizable Representations for Visuomotor Control,2018,ICML,International Conference on Machine Learning
+Coordinated Exploration in Concurrent Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+A probabilistic framework for multi-view feature learning with many-to-many associations via neural networks,2018,ICML,International Conference on Machine Learning
+Learning Steady-States of Iterative Algorithms over Graphs,2018,ICML,International Conference on Machine Learning
+Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples,2018,ICML,International Conference on Machine Learning
+Fair and Diverse DPP-Based Data Summarization,2018,ICML,International Conference on Machine Learning
+Learning Implicit Generative Models with the Method of Learned Moments,2018,ICML,International Conference on Machine Learning
+Chi-square Generative Adversarial Network,2018,ICML,International Conference on Machine Learning
+Streaming Principal Component Analysis in Noisy Setting,2018,ICML,International Conference on Machine Learning
+Partial Optimality and Fast Lower Bounds for Weighted Correlation Clustering,2018,ICML,International Conference on Machine Learning
+SGD and Hogwild! Convergence Without the Bounded Gradients Assumption,2018,ICML,International Conference on Machine Learning
+Computational Optimal Transport: Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm,2018,ICML,International Conference on Machine Learning
+Stability and Generalization of Learning Algorithms that Converge to Global Optima,2018,ICML,International Conference on Machine Learning
+Optimal Rates of Sketched-regularized Algorithms for Least-Squares Regression over Hilbert Spaces,2018,ICML,International Conference on Machine Learning
+Adafactor: Adaptive Learning Rates with Sublinear Memory Cost,2018,ICML,International Conference on Machine Learning
+Fast Parametric Learning with Activation Memorization,2018,ICML,International Conference on Machine Learning
+Essentially No Barriers in Neural Network Energy Landscape,2018,ICML,International Conference on Machine Learning
+Deep Linear Networks with Arbitrary Loss: All Local Minima Are Global,2018,ICML,International Conference on Machine Learning
+Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression,2018,ICML,International Conference on Machine Learning
+Bayesian Quadrature for Multiple Related Integrals,2018,ICML,International Conference on Machine Learning
+Deep Predictive Coding Network for Object Recognition,2018,ICML,International Conference on Machine Learning
+Neural Inverse Rendering for General Reflectance Photometric Stereo,2018,ICML,International Conference on Machine Learning
+On the Relationship between Data Efficiency and Error for Uncertainty Sampling,2018,ICML,International Conference on Machine Learning
+Selecting Representative Examples for Program Synthesis,2018,ICML,International Conference on Machine Learning
+Conditional Neural Processes,2018,ICML,International Conference on Machine Learning
+Hierarchical Long-term Video Prediction without Supervision,2018,ICML,International Conference on Machine Learning
+Adversarial Risk and the Dangers of Evaluating Against Weak Attacks,2018,ICML,International Conference on Machine Learning
+A Classification-Based Study of Covariate Shift in GAN Distributions,2018,ICML,International Conference on Machine Learning
+Gated Path Planning Networks,2018,ICML,International Conference on Machine Learning
+Automatic Goal Generation for Reinforcement Learning Agents,2018,ICML,International Conference on Machine Learning
+ADMM and Accelerated ADMM as Continuous Dynamical Systems,2018,ICML,International Conference on Machine Learning
+Dissipativity Theory for Accelerating Stochastic Variance Reduction: A Unified Analysis of SVRG and Katyusha Using Semidefinite Programs,2018,ICML,International Conference on Machine Learning
+Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing,2018,ICML,International Conference on Machine Learning
+Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry,2018,ICML,International Conference on Machine Learning
+Fast Variance Reduction Method with Stochastic Batch Size,2018,ICML,International Conference on Machine Learning
+Lyapunov Functions for First-Order Methods: Tight Automated Convergence Guarantees,2018,ICML,International Conference on Machine Learning
+Nonparametric Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information,2018,ICML,International Conference on Machine Learning
+The Well-Tempered Lasso,2018,ICML,International Conference on Machine Learning
+Transfer Learning via Learning to Transfer,2018,ICML,International Conference on Machine Learning
+Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing—and Back,2018,ICML,International Conference on Machine Learning
+Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model,2018,ICML,International Conference on Machine Learning
+Deep One-Class Classification,2018,ICML,International Conference on Machine Learning
+Binary Partitions with Approximate  Minimum Impurity,2018,ICML,International Conference on Machine Learning
+Beyond 1/2-Approximation for Submodular Maximization on Massive Data Streams,2018,ICML,International Conference on Machine Learning
+"Yes, but Did It Work?: Evaluating Variational Inference",2018,ICML,International Conference on Machine Learning
+Black-Box Variational Inference for Stochastic Differential Equations,2018,ICML,International Conference on Machine Learning
+Online Convolutional Sparse Coding with Sample-Dependent Dictionary,2018,ICML,International Conference on Machine Learning
+Learning to Speed Up Structured Output Prediction,2018,ICML,International Conference on Machine Learning
+Differentially Private Identity and Equivalence Testing of Discrete Distributions,2018,ICML,International Conference on Machine Learning
+Information Theoretic Guarantees for Empirical Risk Minimization with Applications to Model Selection and Large-Scale Optimization,2018,ICML,International Conference on Machine Learning
+BOCK : Bayesian Optimization with Cylindrical Kernels,2018,ICML,International Conference on Machine Learning
+BOHB: Robust and Efficient Hyperparameter Optimization at Scale,2018,ICML,International Conference on Machine Learning
+Distributed Nonparametric Regression under Communication Constraints,2018,ICML,International Conference on Machine Learning
+Optimal Tuning for Divide-and-conquer Kernel Ridge Regression with Massive Data,2018,ICML,International Conference on Machine Learning
+WHInter: A Working set algorithm for High-dimensional sparse second order Interaction models,2018,ICML,International Conference on Machine Learning
+Safe Element Screening for Submodular Function Minimization,2018,ICML,International Conference on Machine Learning
+Feedback-Based Tree Search for Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement,2018,ICML,International Conference on Machine Learning
+Data-Dependent Stability of Stochastic Gradient Descent,2018,ICML,International Conference on Machine Learning
+LeapsAndBounds: A Method for Approximately Optimal Algorithm Configuration,2018,ICML,International Conference on Machine Learning
+Scalable Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints,2018,ICML,International Conference on Machine Learning
+Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization,2018,ICML,International Conference on Machine Learning
+Comparing Dynamics: Deep Neural Networks versus Glassy Systems,2018,ICML,International Conference on Machine Learning
+An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks,2018,ICML,International Conference on Machine Learning
+Not All Samples Are Created Equal: Deep Learning with Importance Sampling,2018,ICML,International Conference on Machine Learning
+"Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks",2018,ICML,International Conference on Machine Learning
+Path Consistency Learning in Tsallis Entropy Regularized MDPs,2018,ICML,International Conference on Machine Learning
+Lipschitz Continuity in Model-based Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Bounds on the Approximation Power of Feedforward Neural Networks,2018,ICML,International Conference on Machine Learning
+Linear Spectral Estimators and an Application to Phase Retrieval,2018,ICML,International Conference on Machine Learning
+Testing Sparsity over Known and Unknown Bases,2018,ICML,International Conference on Machine Learning
+Inference Suboptimality in Variational Autoencoders,2018,ICML,International Conference on Machine Learning
+Semi-Implicit Variational Inference,2018,ICML,International Conference on Machine Learning
+Variance Regularized Counterfactual Risk Minimization via Variational Divergence Minimization,2018,ICML,International Conference on Machine Learning
+Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design,2018,ICML,International Conference on Machine Learning
+A Semantic Loss Function for Deep Learning with Symbolic Knowledge,2018,ICML,International Conference on Machine Learning
+Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization,2018,ICML,International Conference on Machine Learning
+An Efficient Semismooth Newton based Algorithm for Convex Clustering,2018,ICML,International Conference on Machine Learning
+Lightweight Stochastic Optimization for Minimizing Finite Sums with Infinite Data,2018,ICML,International Conference on Machine Learning
+Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search,2018,ICML,International Conference on Machine Learning
+Efficient Neural Architecture Search via Parameters Sharing,2018,ICML,International Conference on Machine Learning
+Non-convex Conditional Gradient Sliding,2018,ICML,International Conference on Machine Learning
+Stochastic Variance-Reduced Cubic Regularized Newton Method,2018,ICML,International Conference on Machine Learning
+On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization,2018,ICML,International Conference on Machine Learning
+The Dynamics of Learning: A Random Matrix Approach,2018,ICML,International Conference on Machine Learning
+Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations,2018,ICML,International Conference on Machine Learning
+Discovering Interpretable Representations for Both Deep Generative and Discriminative Models,2018,ICML,International Conference on Machine Learning
+Continuous-Time Flows for Efficient Inference and Density Estimation,2018,ICML,International Conference on Machine Learning
+Tighter Variational Bounds are Not Necessarily Better,2018,ICML,International Conference on Machine Learning
+PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning,2018,ICML,International Conference on Machine Learning
+RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks,2018,ICML,International Conference on Machine Learning
+Differentiable Compositional Kernel Learning for Gaussian Processes,2018,ICML,International Conference on Machine Learning
+Markov Modulated Gaussian Cox Processes for Semi-Stationary Intensity Modeling of Events Data,2018,ICML,International Conference on Machine Learning
+Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems,2018,ICML,International Conference on Machine Learning
+Design of Experiments for Model Discrimination Hybridising Analytical and Data-Driven Approaches,2018,ICML,International Conference on Machine Learning
+Anonymous Walk Embeddings,2018,ICML,International Conference on Machine Learning
+Improving Optimization in Models With Continuous Symmetry Breaking,2018,ICML,International Conference on Machine Learning
+Conditional Noise-Contrastive Estimation of Unnormalised Models,2018,ICML,International Conference on Machine Learning
+Canonical Tensor Decomposition for Knowledge Base Completion,2018,ICML,International Conference on Machine Learning
+The Power of Interpolation:  Understanding the Effectiveness of SGD in Modern Over-parametrized Learning,2018,ICML,International Conference on Machine Learning
+A Simple Stochastic Variance Reduced Algorithm with Fast Convergence Rates,2018,ICML,International Conference on Machine Learning
+Escaping Saddles with Stochastic Gradients,2018,ICML,International Conference on Machine Learning
+$D^2$: Decentralized Training over Decentralized Data,2018,ICML,International Conference on Machine Learning
+Machine Theory of Mind,2018,ICML,International Conference on Machine Learning
+"Been There, Done That: Meta-Learning with Episodic Recall",2018,ICML,International Conference on Machine Learning
+Faster Derivative-Free Stochastic Algorithm for Shared Memory Machines,2018,ICML,International Conference on Machine Learning
+Coded Sparse Matrix Multiplication,2018,ICML,International Conference on Machine Learning
+Augment and Reduce: Stochastic Inference for Large Categorical Distributions,2018,ICML,International Conference on Machine Learning
+Efficient Gradient-Free Variational Inference using Policy Search,2018,ICML,International Conference on Machine Learning
+Fixing a Broken ELBO,2018,ICML,International Conference on Machine Learning
+Variational Inference and Model Selection with Generalized Evidence Bounds,2018,ICML,International Conference on Machine Learning
+The Generalization Error of Dictionary Learning with Moreau Envelopes,2018,ICML,International Conference on Machine Learning
+Network Global Testing by Counting Graphlets,2018,ICML,International Conference on Machine Learning
+Large-Scale Sparse Inverse Covariance Estimation via Thresholding and Max-Det Matrix Completion,2018,ICML,International Conference on Machine Learning
+Robust and Scalable Models of Microbiome Dynamics,2018,ICML,International Conference on Machine Learning
+Explicit Inductive Bias for Transfer Learning with Convolutional Networks,2018,ICML,International Conference on Machine Learning
+GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks,2018,ICML,International Conference on Machine Learning
+Optimizing the Latent Space of Generative Networks,2018,ICML,International Conference on Machine Learning
+Theoretical Analysis of Image-to-Image Translation with Adversarial Learning,2018,ICML,International Conference on Machine Learning
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,2018,ICML,International Conference on Machine Learning
+PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos,2018,ICML,International Conference on Machine Learning
+Probabilistic Recurrent State-Space Models,2018,ICML,International Conference on Machine Learning
+Structured Variationally Auto-encoded Optimization,2018,ICML,International Conference on Machine Learning
+A Robust Approach to Sequential Information Theoretic Planning,2018,ICML,International Conference on Machine Learning
+Error Estimation for Randomized Least-Squares Algorithms via the Bootstrap,2018,ICML,International Conference on Machine Learning
+Distributed Asynchronous Optimization with Unbounded Delays: How Slow Can You Go?,2018,ICML,International Conference on Machine Learning
+Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization,2018,ICML,International Conference on Machine Learning
+Low-Rank Riemannian Optimization on Positive Semidefinite Stochastic Matrices with Applications to Graph Clustering,2018,ICML,International Conference on Machine Learning
+"Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients",2018,ICML,International Conference on Machine Learning
+Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Differentially Private Database Release via Kernel Mean Embeddings,2018,ICML,International Conference on Machine Learning
+Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples,2018,ICML,International Conference on Machine Learning
+Neural Dynamic Programming for Musical Self Similarity,2018,ICML,International Conference on Machine Learning
+Learning long term dependencies via Fourier recurrent units,2018,ICML,International Conference on Machine Learning
+Autoregressive Convolutional Neural Networks for Asynchronous Time Series,2018,ICML,International Conference on Machine Learning
+Efficient Model-Based Deep Reinforcement Learning with Variational State Tabulation,2018,ICML,International Conference on Machine Learning
+Regret Minimization for Partially Observable Deep Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Goodness-of-fit Testing for Discrete Distributions via Stein Discrepancy,2018,ICML,International Conference on Machine Learning
+Unbiased Objective Estimation in Predictive Optimization,2018,ICML,International Conference on Machine Learning
+Ultra Large-Scale Feature Selection using Count-Sketches,2018,ICML,International Conference on Machine Learning
+"Matrix Norms in Data Streams: Faster, Multi-Pass and Row-Order",2018,ICML,International Conference on Machine Learning
+Can Deep Reinforcement Learning Solve Erdos-Selfridge-Spencer Games?,2018,ICML,International Conference on Machine Learning
+The Mirage of Action-Dependent Baselines in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Composite Marginal Likelihood Methods for Random Utility Models,2018,ICML,International Conference on Machine Learning
+Ranking Distributions based on Noisy Sorting,2018,ICML,International Conference on Machine Learning
+DICOD: Distributed Convolutional Coordinate Descent for Convolutional Sparse Coding,2018,ICML,International Conference on Machine Learning
+Exploring Hidden Dimensions in Accelerating Convolutional Neural Networks,2018,ICML,International Conference on Machine Learning
+Deep Models of Interactions Across Sets,2018,ICML,International Conference on Machine Learning
+ContextNet: Deep learning for Star Galaxy Classification,2018,ICML,International Conference on Machine Learning
+First Order Generative Adversarial Networks,2018,ICML,International Conference on Machine Learning
+Max-Mahalanobis Linear Discriminant Analysis Networks,2018,ICML,International Conference on Machine Learning
+Learning Maximum-A-Posteriori Perturbation Models for Structured Prediction in Polynomial Time,2018,ICML,International Conference on Machine Learning
+Structured Output Learning with Abstention: Application to Accurate Opinion Prediction,2018,ICML,International Conference on Machine Learning
+SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation,2018,ICML,International Conference on Machine Learning
+Smoothed Action Value Functions for Learning Gaussian Policies,2018,ICML,International Conference on Machine Learning
+Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron,2018,ICML,International Conference on Machine Learning
+"Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis",2018,ICML,International Conference on Machine Learning
+AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning,2018,ICML,International Conference on Machine Learning
+TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service,2018,ICML,International Conference on Machine Learning
+End-to-End Learning for the Deep Multivariate Probit Model,2018,ICML,International Conference on Machine Learning
+Differentiable Dynamic Programming for Structured Prediction and Attention,2018,ICML,International Conference on Machine Learning
+Optimal Distributed Learning with Multi-pass Stochastic Gradient Methods,2018,ICML,International Conference on Machine Learning
+Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates,2018,ICML,International Conference on Machine Learning
+SQL-Rank: A Listwise Approach to Collaborative Ranking,2018,ICML,International Conference on Machine Learning
+Extreme Learning to Rank via Low Rank Assumption,2018,ICML,International Conference on Machine Learning
+Adversarial Attack on Graph Structured Data,2018,ICML,International Conference on Machine Learning
+Reinforcing Adversarial Robustness using Model Confidence Induced by Adversarial Training,2018,ICML,International Conference on Machine Learning
+Closed-form Marginal Likelihood in Gamma-Poisson Matrix Factorization,2018,ICML,International Conference on Machine Learning
+Learning Binary Latent Variable Models: A Tensor Eigenpair Approach,2018,ICML,International Conference on Machine Learning
+Thompson Sampling for Combinatorial Semi-Bandits,2018,ICML,International Conference on Machine Learning
+Let’s be Honest: An Optimal No-Regret Framework for Zero-Sum Games,2018,ICML,International Conference on Machine Learning
+Deep Asymmetric Multi-task Feature Learning,2018,ICML,International Conference on Machine Learning
+Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations,2018,ICML,International Conference on Machine Learning
+Stein Variational Message Passing for Continuous Graphical Models,2018,ICML,International Conference on Machine Learning
+Discrete-Continuous Mixtures in Probabilistic Programming: Generalized Semantics and Inference Algorithms,2018,ICML,International Conference on Machine Learning
+Towards Binary-Valued Gates for Robust LSTM Training,2018,ICML,International Conference on Machine Learning
+Fitting New Speakers Based on a Short Untranscribed Sample,2018,ICML,International Conference on Machine Learning
+Stochastic Variance-Reduced Policy Gradient,2018,ICML,International Conference on Machine Learning
+Convergent Tree Backup and Retrace with Function Approximation,2018,ICML,International Conference on Machine Learning
+Alternating Randomized Block Coordinate Descent,2018,ICML,International Conference on Machine Learning
+Shampoo: Preconditioned Stochastic Tensor Optimization,2018,ICML,International Conference on Machine Learning
+Stochastic Wasserstein Barycenters,2018,ICML,International Conference on Machine Learning
+Accelerating Natural Gradient with Higher-Order Invariance,2018,ICML,International Conference on Machine Learning
+Learning unknown ODE models with Gaussian processes,2018,ICML,International Conference on Machine Learning
+Constraining the Dynamics of Deep Probabilistic Models,2018,ICML,International Conference on Machine Learning
+Fast Decoding in Sequence Models Using Discrete Latent Variables,2018,ICML,International Conference on Machine Learning
+High Performance Zero-Memory Overhead Direct Convolutions,2018,ICML,International Conference on Machine Learning
+Approximate Leave-One-Out for Fast Parameter Tuning in High Dimensions,2018,ICML,International Conference on Machine Learning
+Improved large-scale graph learning through ridge spectral sparsification,2018,ICML,International Conference on Machine Learning
+Distilling the Posterior in Bayesian Neural Networks,2018,ICML,International Conference on Machine Learning
+Scalable approximate Bayesian inference for particle tracking data,2018,ICML,International Conference on Machine Learning
+Weakly Consistent Optimal Pricing Algorithms in Repeated Posted-Price Auctions with Strategic Buyer,2018,ICML,International Conference on Machine Learning
+Practical Contextual Bandits with Regression Oracles,2018,ICML,International Conference on Machine Learning
+Stochastic Variance-Reduced Hamilton Monte Carlo Methods,2018,ICML,International Conference on Machine Learning
+Asynchronous Stochastic Quasi-Newton MCMC for Non-Convex Optimization,2018,ICML,International Conference on Machine Learning
+GAIN: Missing Data Imputation using Generative Adversarial Nets,2018,ICML,International Conference on Machine Learning
+Synthesizing Programs for Images using Reinforced Adversarial Learning,2018,ICML,International Conference on Machine Learning
+Geometry Score: A Method For Comparing Generative Adversarial Networks,2018,ICML,International Conference on Machine Learning
+Addressing Function Approximation Error in Actor-Critic Methods,2018,ICML,International Conference on Machine Learning
+Fast Bellman Updates for Robust MDPs,2018,ICML,International Conference on Machine Learning
+Configurable Markov Decision Processes,2018,ICML,International Conference on Machine Learning
+Prediction Rule Reshaping,2018,ICML,International Conference on Machine Learning
+Dimensionality-Driven Learning with Noisy Labels,2018,ICML,International Conference on Machine Learning
+Learning Memory Access Patterns,2018,ICML,International Conference on Machine Learning
+Geodesic Convolutional Shape Optimization,2018,ICML,International Conference on Machine Learning
+Visualizing and Understanding Atari Agents,2018,ICML,International Conference on Machine Learning
+"An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning",2018,ICML,International Conference on Machine Learning
+Is Generator Conditioning Causally Related to GAN Performance?,2018,ICML,International Conference on Machine Learning
+K-Beam Minimax: Efficient Optimization for Deep Adversarial Learning,2018,ICML,International Conference on Machine Learning
+Inductive Two-Layer Modeling with Parametric Bregman Transfer,2018,ICML,International Conference on Machine Learning
+Does Distributionally Robust Supervised Learning Give Robust Classifiers?,2018,ICML,International Conference on Machine Learning
+Understanding Generalization and Optimization Performance of Deep CNNs,2018,ICML,International Conference on Machine Learning
+The Multilinear Structure of ReLU Networks,2018,ICML,International Conference on Machine Learning
+Parallel and Streaming Algorithms for K-Core Decomposition,2018,ICML,International Conference on Machine Learning
+Fast Approximate Spectral Clustering for Dynamic Networks,2018,ICML,International Conference on Machine Learning
+Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima,2018,ICML,International Conference on Machine Learning
+Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions,2018,ICML,International Conference on Machine Learning
+Greed is Still Good: Maximizing Monotone Submodular+Supermodular (BP) Functions,2018,ICML,International Conference on Machine Learning
+Black-box Adversarial Attacks with Limited Queries and Information,2018,ICML,International Conference on Machine Learning
+Using Inherent Structures to design Lean 2-layer RBMs,2018,ICML,International Conference on Machine Learning
+Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care,2018,ICML,International Conference on Machine Learning
+Composable Planning with Attributes,2018,ICML,International Conference on Machine Learning
+Measuring abstract reasoning in neural networks,2018,ICML,International Conference on Machine Learning
+Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity,2018,ICML,International Conference on Machine Learning
+Self-Bounded Prediction Suffix Tree via Approximate String Matching,2018,ICML,International Conference on Machine Learning
+MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels,2018,ICML,International Conference on Machine Learning
+Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks,2018,ICML,International Conference on Machine Learning
+Composite Functional Gradient Learning of Generative  Adversarial Models,2018,ICML,International Conference on Machine Learning
+LaVAN: Localized and Visible Adversarial Noise,2018,ICML,International Conference on Machine Learning
+Approximation Guarantees for Adaptive Sampling,2018,ICML,International Conference on Machine Learning
+Constrained Interacting Submodular Groupings,2018,ICML,International Conference on Machine Learning
+Residual Unfairness in Fair Machine Learning from Prejudiced Data,2018,ICML,International Conference on Machine Learning
+Adversarial Regression with Multiple Learners,2018,ICML,International Conference on Machine Learning
+Representation Tradeoffs for Hyperbolic Embeddings,2018,ICML,International Conference on Machine Learning
+Improving Sign Random Projections With Additional Information,2018,ICML,International Conference on Machine Learning
+"Bandits with Delayed, Aggregated Anonymous Feedback",2018,ICML,International Conference on Machine Learning
+Make the Minority Great Again: First-Order Regret Bound for Contextual Bandits,2018,ICML,International Conference on Machine Learning
+Learning Policy Representations in Multiagent Systems,2018,ICML,International Conference on Machine Learning
+Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems,2018,ICML,International Conference on Machine Learning
+Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations,2018,ICML,International Conference on Machine Learning
+Compressing Neural Networks using the Variational Information Bottelneck,2018,ICML,International Conference on Machine Learning
+Scalable Bilinear Pi Learning Using State and Action Features,2018,ICML,International Conference on Machine Learning
+Time Limits in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Semi-Supervised Learning on Data Streams via Temporal Label Propagation,2018,ICML,International Conference on Machine Learning
+Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval and Matrix Completion,2018,ICML,International Conference on Machine Learning
+A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models,2018,ICML,International Conference on Machine Learning
+Bucket Renormalization for Approximate Inference,2018,ICML,International Conference on Machine Learning
+Kernel Recursive ABC: Point Estimation with Intractable Likelihood,2018,ICML,International Conference on Machine Learning
+Modeling Others using Oneself in Multi-Agent Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Tropical Geometry of Deep Neural Networks,2018,ICML,International Conference on Machine Learning
+Learning Dynamics of Linear Denoising Autoencoders,2018,ICML,International Conference on Machine Learning
+Nonparametric variable importance using an augmented neural network with multi-task learning,2018,ICML,International Conference on Machine Learning
+Training Neural Machines with Trace-Based Supervision,2018,ICML,International Conference on Machine Learning
+Open Category Detection with PAC Guarantees,2018,ICML,International Conference on Machine Learning
+SAFFRON: an Adaptive Algorithm for Online Control of the False Discovery Rate,2018,ICML,International Conference on Machine Learning
+Learning Localized Spatio-Temporal Models From Streaming Data,2018,ICML,International Conference on Machine Learning
+Feasible Arm Identification,2018,ICML,International Conference on Machine Learning
+"Fast Maximization of Non-Submodular, Monotonic Functions on the Integer Lattice",2018,ICML,International Conference on Machine Learning
+Decentralized Submodular Maximization: Bridging Discrete and Continuous Settings,2018,ICML,International Conference on Machine Learning
+Towards Fast Computation of Certified Robustness for ReLU Networks,2018,ICML,International Conference on Machine Learning
+A Two-Step Computation of the Exact GAN Wasserstein Distance,2018,ICML,International Conference on Machine Learning
+Spatio-temporal Bayesian On-line Changepoint Detection with Model Selection,2018,ICML,International Conference on Machine Learning
+Fast Stochastic AUC Maximization with $O(1/n)$-Convergence Rate,2018,ICML,International Conference on Machine Learning
+Accurate Uncertainties for Deep Learning Using Calibrated Regression,2018,ICML,International Conference on Machine Learning
+Neural Autoregressive Flows,2018,ICML,International Conference on Machine Learning
+Probabilistic Boolean Tensor Decomposition,2018,ICML,International Conference on Machine Learning
+A Primal-Dual Analysis of Global Optimality in Nonconvex Low-Rank Matrix Recovery,2018,ICML,International Conference on Machine Learning
+A Delay-tolerant Proximal-Gradient Algorithm for Distributed Learning,2018,ICML,International Conference on Machine Learning
+Randomized Block Cubic Newton Method,2018,ICML,International Conference on Machine Learning
+Massively Parallel Algorithms and Hardness for Single-Linkage Clustering under $\ell_p$ Distances,2018,ICML,International Conference on Machine Learning
+Local Density Estimation in High Dimensions,2018,ICML,International Conference on Machine Learning
+To Understand Deep Learning We Need to Understand Kernel Learning,2018,ICML,International Conference on Machine Learning
+Learning in Reproducing Kernel Kreı̆n Spaces,2018,ICML,International Conference on Machine Learning
+Functional Gradient Boosting based on Residual Network Perception,2018,ICML,International Conference on Machine Learning
+"Binary Classification with Karmic, Threshold-Quasi-Concave Metrics",2018,ICML,International Conference on Machine Learning
+Characterizing Implicit Bias in Terms of Optimization Geometry,2018,ICML,International Conference on Machine Learning
+prDeep: Robust Phase Retrieval with a Flexible Deep Network,2018,ICML,International Conference on Machine Learning
+Adversarial Time-to-Event Modeling,2018,ICML,International Conference on Machine Learning
+MAGAN: Aligning Biological Manifolds,2018,ICML,International Conference on Machine Learning
+Multicalibration: Calibration for the (Computationally-Identifiable) Masses,2018,ICML,International Conference on Machine Learning
+Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms,2018,ICML,International Conference on Machine Learning
+PixelSNAIL: An Improved Autoregressive Generative Model,2018,ICML,International Conference on Machine Learning
+Focused Hierarchical RNNs for Conditional Sequence Processing,2018,ICML,International Conference on Machine Learning
+Noise2Noise: Learning Image Restoration without Clean Data,2018,ICML,International Conference on Machine Learning
+Learning to Reweight Examples for Robust Deep Learning,2018,ICML,International Conference on Machine Learning
+Policy and Value Transfer in Lifelong Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+GEP-PG: Decoupling Exploration and Exploitation in Deep Reinforcement Learning Algorithms,2018,ICML,International Conference on Machine Learning
+A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music,2018,ICML,International Conference on Machine Learning
+Understanding the Loss Surface of Neural Networks for Binary Classification,2018,ICML,International Conference on Machine Learning
+Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks,2018,ICML,International Conference on Machine Learning
+Reviving and Improving Recurrent Back-Propagation,2018,ICML,International Conference on Machine Learning
+Riemannian Stochastic Recursive Gradient Algorithm with Retraction and Vector Transport and Its Convergence Analysis,2018,ICML,International Conference on Machine Learning
+Learning Compact Neural Networks with Regularization,2018,ICML,International Conference on Machine Learning
+Investigating Human Priors for Playing Video Games,2018,ICML,International Conference on Machine Learning
+Decoupling Gradient-Like Learning Rules from Representations,2018,ICML,International Conference on Machine Learning
+Invariance of Weight Distributions in Rectified MLPs,2018,ICML,International Conference on Machine Learning
+Stronger Generalization Bounds for Deep Nets via a Compression Approach,2018,ICML,International Conference on Machine Learning
+Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices,2018,ICML,International Conference on Machine Learning
+Loss Decomposition for Fast Learning in Large Output Spaces,2018,ICML,International Conference on Machine Learning
+Stochastic Proximal Algorithms for AUC Maximization,2018,ICML,International Conference on Machine Learning
+Accelerated Spectral Ranking,2018,ICML,International Conference on Machine Learning
+Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning,2018,ICML,International Conference on Machine Learning
+Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam,2018,ICML,International Conference on Machine Learning
+Learning One Convolutional Layer with Overlapping Patches,2018,ICML,International Conference on Machine Learning
+A Spline Theory of Deep Learning,2018,ICML,International Conference on Machine Learning
+Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors,2018,ICML,International Conference on Machine Learning
+Variational Bayesian dropout: pitfalls and fixes,2018,ICML,International Conference on Machine Learning
+Adversarial Learning with Local Coordinate Coding,2018,ICML,International Conference on Machine Learning
+Learning Representations and Generative Models for 3D Point Clouds,2018,ICML,International Conference on Machine Learning
+Bayesian Uncertainty Estimation for Batch Normalized Deep Networks,2018,ICML,International Conference on Machine Learning
+Noisy Natural Gradient as Variational Inference,2018,ICML,International Conference on Machine Learning
+Deep Variational Reinforcement Learning for POMDPs,2018,ICML,International Conference on Machine Learning
+Recurrent Predictive State Policy Networks,2018,ICML,International Conference on Machine Learning
+The Mechanics of n-Player Differentiable Games,2018,ICML,International Conference on Machine Learning
+Improved Training of Generative Adversarial Networks Using Representative Features,2018,ICML,International Conference on Machine Learning
+Hierarchical Multi-Label Classification Networks,2018,ICML,International Conference on Machine Learning
+Knowledge Transfer with Jacobian Matching,2018,ICML,International Conference on Machine Learning
+Towards Black-box Iterative Machine Teaching,2018,ICML,International Conference on Machine Learning
+Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising,2018,ICML,International Conference on Machine Learning
+Importance Weighted Transfer of Samples in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Beyond the One-Step Greedy Approach in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+"Optimization, fast and slow: optimally switching between local and Bayesian optimization",2018,ICML,International Conference on Machine Learning
+Batch Bayesian Optimization via Multi-objective Acquisition Ensemble for Automated Analog Circuit Design,2018,ICML,International Conference on Machine Learning
+Graphical Nonconvex Optimization via an Adaptive Convex Relaxation,2018,ICML,International Conference on Machine Learning
+Approximate message passing for amplitude based optimization,2018,ICML,International Conference on Machine Learning
+Tempered Adversarial Networks,2018,ICML,International Conference on Machine Learning
+Delayed Impact of Fair Machine Learning,2018,ICML,International Conference on Machine Learning
+Fast Information-theoretic Bayesian Optimisation,2018,ICML,International Conference on Machine Learning
+Tight Regret Bounds for Bayesian Optimization in One Dimension,2018,ICML,International Conference on Machine Learning
+Image Transformer,2018,ICML,International Conference on Machine Learning
+Kernelized Synaptic Weight Matrices,2018,ICML,International Conference on Machine Learning
+A Distributed Second-Order Algorithm You Can Trust,2018,ICML,International Conference on Machine Learning
+On Acceleration with Noise-Corrupted Gradients,2018,ICML,International Conference on Machine Learning
+Gradient Coding from Cyclic MDS Codes and Expander Graphs,2018,ICML,International Conference on Machine Learning
+Accelerating Greedy Coordinate Descent Methods,2018,ICML,International Conference on Machine Learning
+Finding Influential Training Samples for Gradient Boosted Decision Trees,2018,ICML,International Conference on Machine Learning
+Improving Regression Performance with Distributional Losses,2018,ICML,International Conference on Machine Learning
+QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Learning to Act in Decentralized Partially Observable MDPs,2018,ICML,International Conference on Machine Learning
+Local Convergence Properties of SAGA/Prox-SVRG and Acceleration,2018,ICML,International Conference on Machine Learning
+Stein Points,2018,ICML,International Conference on Machine Learning
+Large-Scale Cox Process Inference using Variational Fourier Features,2018,ICML,International Conference on Machine Learning
+SADAGRAD: Strongly Adaptive Stochastic Gradient Methods,2018,ICML,International Conference on Machine Learning
+Gradient Primal-Dual Algorithm Converges to Second-Order Stationary Solution for  Nonconvex Distributed Optimization Over Networks,2018,ICML,International Conference on Machine Learning
+A Progressive Batching L-BFGS Method for Machine Learning,2018,ICML,International Conference on Machine Learning
+WSNet: Compact and Efficient Networks Through Weight Sampling,2018,ICML,International Conference on Machine Learning
+Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors,2018,ICML,International Conference on Machine Learning
+"High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach",2018,ICML,International Conference on Machine Learning
+Competitive Caching with Machine Learned Advice,2018,ICML,International Conference on Machine Learning
+Approximation Algorithms for Cascading Prediction Models,2018,ICML,International Conference on Machine Learning
+Orthogonal Machine Learning: Power and Limitations,2018,ICML,International Conference on Machine Learning
+Causal Bandits with Propagating Inference,2018,ICML,International Conference on Machine Learning
+Mix & Match - Agent Curricula for Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+The Uncertainty Bellman Equation and Exploration,2018,ICML,International Conference on Machine Learning
+Hierarchical Imitation and Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Policy Optimization with Demonstrations,2018,ICML,International Conference on Machine Learning
+Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework,2018,ICML,International Conference on Machine Learning
+Level-Set Methods for Finite-Sum Constrained Convex Optimization,2018,ICML,International Conference on Machine Learning
+A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations,2018,ICML,International Conference on Machine Learning
+A Boo(n) for Evaluating Architecture Performance,2018,ICML,International Conference on Machine Learning
+RLlib: Abstractions for Distributed Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator,2018,ICML,International Conference on Machine Learning
+The Edge Density Barrier: Computational-Statistical Tradeoffs in Combinatorial Inference,2018,ICML,International Conference on Machine Learning
+Sound Abstraction and Decomposition of Probabilistic Programs,2018,ICML,International Conference on Machine Learning
+Parallel WaveNet: Fast High-Fidelity Speech Synthesis,2018,ICML,International Conference on Machine Learning
+Modeling Sparse Deviations for Compressed Sensing using Generative Models,2018,ICML,International Conference on Machine Learning
+Revealing Common Statistical Behaviors in Heterogeneous Populations,2018,ICML,International Conference on Machine Learning
+Improved nearest neighbor search using auxiliary information and priority functions,2018,ICML,International Conference on Machine Learning
+Trainable Calibration Measures for Neural Networks from Kernel Mean Embeddings,2018,ICML,International Conference on Machine Learning
+QuantTree: Histograms for Change Detection in Multivariate Data Streams,2018,ICML,International Conference on Machine Learning
+"An Iterative, Sketching-based Framework for Ridge Regression",2018,ICML,International Conference on Machine Learning
+Learning Low-Dimensional Temporal Representations,2018,ICML,International Conference on Machine Learning
+Rapid Adaptation with Conditionally Shifted Neurons,2018,ICML,International Conference on Machine Learning
+PDE-Net: Learning PDEs from Data,2018,ICML,International Conference on Machine Learning
+Theoretical Analysis of Sparse Subspace Clustering with Missing Entries,2018,ICML,International Conference on Machine Learning
+Topological mixture estimation,2018,ICML,International Conference on Machine Learning
+On Matching Pursuit and Coordinate Descent,2018,ICML,International Conference on Machine Learning
+Frank-Wolfe with Subsampling Oracle,2018,ICML,International Conference on Machine Learning
+Reinforcement Learning with Function-Valued Action Spaces for Partial Differential Equation Control,2018,ICML,International Conference on Machine Learning
+Fourier Policy Gradients,2018,ICML,International Conference on Machine Learning
+Adaptive Three Operator Splitting,2018,ICML,International Conference on Machine Learning
+A Conditional Gradient Framework for Composite Convex Minimization with Applications to Semidefinite Programming,2018,ICML,International Conference on Machine Learning
+Learning Semantic Representations for Unsupervised Domain Adaptation,2018,ICML,International Conference on Machine Learning
+Learning Adversarially Fair and Transferable Representations,2018,ICML,International Conference on Machine Learning
+Spurious Local Minima are Common in Two-Layer ReLU Neural Networks,2018,ICML,International Conference on Machine Learning
+Efficient end-to-end learning for quantizable representations,2018,ICML,International Conference on Machine Learning
+Solving Partial Assignment Problems using Random Clique Complexes,2018,ICML,International Conference on Machine Learning
+Generalized Earley Parser: Bridging Symbolic Grammars and Sequence Data for Future Prediction,2018,ICML,International Conference on Machine Learning
+Convergence guarantees for a class of non-convex and   non-smooth optimization problems,2018,ICML,International Conference on Machine Learning
+Estimation of Markov Chain via Rank-constrained Likelihood,2018,ICML,International Conference on Machine Learning
+Efficient First-Order Algorithms for Adaptive Signal Denoising,2018,ICML,International Conference on Machine Learning
+Continuous and Discrete-time Accelerated Stochastic Mirror Descent for Strongly Convex Functions,2018,ICML,International Conference on Machine Learning
+Noisin: Unbiased Regularization for Recurrent Neural Networks,2018,ICML,International Conference on Machine Learning
+Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series,2018,ICML,International Conference on Machine Learning
+Disentangled Sequential Autoencoder,2018,ICML,International Conference on Machine Learning
+Stochastic Video Generation with a Learned Prior,2018,ICML,International Conference on Machine Learning
+Mutual Information Neural Estimation,2018,ICML,International Conference on Machine Learning
+Adversarially Regularized Autoencoders,2018,ICML,International Conference on Machine Learning
+Policy Optimization as Wasserstein Gradient Flows,2018,ICML,International Conference on Machine Learning
+Self-Imitation Learning,2018,ICML,International Conference on Machine Learning
+Spectrally Approximating Large Graphs with Smaller Graphs,2018,ICML,International Conference on Machine Learning
+On the Spectrum of Random Features Maps of High Dimensional Data,2018,ICML,International Conference on Machine Learning
+Learning Registered Point Processes from Idiosyncratic Observations,2018,ICML,International Conference on Machine Learning
+Deep Bayesian Nonparametric Tracking,2018,ICML,International Conference on Machine Learning
+Learning and Memorization,2018,ICML,International Conference on Machine Learning
+Attention-based Deep Multiple Instance Learning,2018,ICML,International Conference on Machine Learning
+Classification from Pairwise Similarity and Unlabeled Data,2018,ICML,International Conference on Machine Learning
+Analyzing the Robustness of Nearest Neighbors to Adversarial Examples,2018,ICML,International Conference on Machine Learning
+On the Implicit Bias of Dropout,2018,ICML,International Conference on Machine Learning
+Convolutional Imputation of Matrix Networks,2018,ICML,International Conference on Machine Learning
+Detecting and Correcting for Label Shift with Black Box Predictors,2018,ICML,International Conference on Machine Learning
+Orthogonality-Promoting Distance Metric Learning: Convex Relaxation and Theoretical Analysis,2018,ICML,International Conference on Machine Learning
+Comparison-Based Random Forests,2018,ICML,International Conference on Machine Learning
+A Probabilistic Theory of Supervised Similarity Learning for Pointwise ROC Curve Optimization,2018,ICML,International Conference on Machine Learning
+Provable Variable Selection for Streaming Features,2018,ICML,International Conference on Machine Learning
+Out-of-sample extension of graph adjacency spectral embedding,2018,ICML,International Conference on Machine Learning
+Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers,2018,ICML,International Conference on Machine Learning
+Fast and Sample Efficient Inductive Matrix Completion via Multi-Phase Procrustes Flow,2018,ICML,International Conference on Machine Learning
+DCFNet: Deep Neural Network with Decomposed Convolutional Filters,2018,ICML,International Conference on Machine Learning
+Optimization Landscape and Expressivity of Deep CNNs,2018,ICML,International Conference on Machine Learning
+Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF),2018,ICML,International Conference on Machine Learning
+Learning in Integer Latent Variable Models with Nested Automatic Differentiation,2018,ICML,International Conference on Machine Learning
+CyCADA: Cycle-Consistent Adversarial Domain Adaptation,2018,ICML,International Conference on Machine Learning
+Rectify Heterogeneous Models with Semantic Mapping,2018,ICML,International Conference on Machine Learning
+DVAE++: Discrete Variational Autoencoders with Overlapping Transformations,2018,ICML,International Conference on Machine Learning
+Iterative Amortized Inference,2018,ICML,International Conference on Machine Learning
+Blind Justice: Fairness with Encrypted Sensitive Attributes,2018,ICML,International Conference on Machine Learning
+Active Learning with Logged Data,2018,ICML,International Conference on Machine Learning
+A Reductions Approach to Fair Classification,2018,ICML,International Conference on Machine Learning
+Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness,2018,ICML,International Conference on Machine Learning
+Bayesian Model Selection for Change Point Detection and Clustering,2018,ICML,International Conference on Machine Learning
+A Unified Framework for Structured Low-rank Matrix Learning,2018,ICML,International Conference on Machine Learning
+Firing Bandits: Optimizing Crowdfunding,2018,ICML,International Conference on Machine Learning
+Multi-Fidelity Black-Box Optimization with Hierarchical Partitions,2018,ICML,International Conference on Machine Learning
+Compiling Combinatorial Prediction Games,2018,ICML,International Conference on Machine Learning
+Rates of Convergence of Spectral Methods for Graphon Estimation,2018,ICML,International Conference on Machine Learning
+Characterizing and Learning Equivalence Classes of Causal DAGs under Interventions,2018,ICML,International Conference on Machine Learning
+Minimal I-MAP MCMC for Scalable Structure Discovery in Causal DAG Models,2018,ICML,International Conference on Machine Learning
+StrassenNets: Deep Learning with a Multiplication Budget,2018,ICML,International Conference on Machine Learning
+Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace,2018,ICML,International Conference on Machine Learning
+Candidates vs. Noises Estimation for Large Multi-Class Classification Problem,2018,ICML,International Conference on Machine Learning
+"CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning",2018,ICML,International Conference on Machine Learning
+Overcoming Catastrophic Forgetting with Hard Attention to the Task,2018,ICML,International Conference on Machine Learning
+Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions,2018,ICML,International Conference on Machine Learning
+Efficient Neural Audio Synthesis,2018,ICML,International Conference on Machine Learning
+Born Again Neural Networks,2018,ICML,International Conference on Machine Learning
+Adaptive Sampled Softmax with Kernel Based Sampling,2018,ICML,International Conference on Machine Learning
+JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets,2018,ICML,International Conference on Machine Learning
+Autoregressive Quantile Networks for Generative Modeling,2018,ICML,International Conference on Machine Learning
+On the Power of Over-parametrization in Neural Networks with Quadratic Activation,2018,ICML,International Conference on Machine Learning
+On the Limitations of First-Order Approximation in GAN Dynamics,2018,ICML,International Conference on Machine Learning
+Learning to Explore via Meta-Policy Gradient,2018,ICML,International Conference on Machine Learning
+Mean Field Multi-Agent Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Online Linear Quadratic Control,2018,ICML,International Conference on Machine Learning
+Online Learning with Abstention,2018,ICML,International Conference on Machine Learning
+Celer: a Fast Solver for the Lasso with Dual Extrapolation,2018,ICML,International Conference on Machine Learning
+Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation,2018,ICML,International Conference on Machine Learning
+Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data,2018,ICML,International Conference on Machine Learning
+Mixed batches and symmetric discriminators for GAN training,2018,ICML,International Conference on Machine Learning
+An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method,2018,ICML,International Conference on Machine Learning
+Learning Hidden Markov Models from Pairwise Co-occurrences with Application to Topic Modeling,2018,ICML,International Conference on Machine Learning
+DRACO: Byzantine-resilient Distributed Training via Redundant Gradients,2018,ICML,International Conference on Machine Learning
+Communication-Computation Efficient Gradient Coding,2018,ICML,International Conference on Machine Learning
+"Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering",2018,ICML,International Conference on Machine Learning
+SMAC: Simultaneous Mapping and Clustering Using Spectral Decompositions,2018,ICML,International Conference on Machine Learning
+On Nesting Monte Carlo Estimators,2018,ICML,International Conference on Machine Learning
+Stein Variational Gradient Descent Without Gradient,2018,ICML,International Conference on Machine Learning
+Detecting non-causal artifacts in multivariate linear regression models,2018,ICML,International Conference on Machine Learning
+The Hierarchical Adaptive Forgetting Variational Filter,2018,ICML,International Conference on Machine Learning
+Junction Tree Variational Autoencoder for Molecular Graph Generation,2018,ICML,International Conference on Machine Learning
+Semi-Amortized Variational Autoencoders,2018,ICML,International Conference on Machine Learning
+Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits,2018,ICML,International Conference on Machine Learning
+Semiparametric Contextual Bandits,2018,ICML,International Conference on Machine Learning
+Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV),2018,ICML,International Conference on Machine Learning
+Weightless: Lossy weight encoding for deep neural network compression,2018,ICML,International Conference on Machine Learning
+Parallel Bayesian Network Structure Learning,2018,ICML,International Conference on Machine Learning
+Temporal Poisson Square Root Graphical Models,2018,ICML,International Conference on Machine Learning
+Minimax Concave Penalized Multi-Armed Bandit Model with High-Dimensional Covariates,2018,ICML,International Conference on Machine Learning
+Dynamic Regret of Strongly Adaptive Methods,2018,ICML,International Conference on Machine Learning
+Distributed Clustering via LSH Based Data Partitioning,2018,ICML,International Conference on Machine Learning
+Learning to Branch,2018,ICML,International Conference on Machine Learning
+Minibatch Gibbs Sampling on Large Graphical Models,2018,ICML,International Conference on Machine Learning
+On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo,2018,ICML,International Conference on Machine Learning
+Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks,2018,ICML,International Conference on Machine Learning
+Pathwise Derivatives Beyond the Reparameterization Trick,2018,ICML,International Conference on Machine Learning
+Message Passing Stein Variational Gradient Descent,2018,ICML,International Conference on Machine Learning
+State Space Gaussian Processes with Non-Gaussian Likelihood,2018,ICML,International Conference on Machine Learning
+Constant-Time Predictive Distributions for Gaussian Processes,2018,ICML,International Conference on Machine Learning
+Gradient descent with identity initialization efficiently learns positive definite linear transformations by deep residual networks,2018,ICML,International Conference on Machine Learning
+On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups,2018,ICML,International Conference on Machine Learning
+Racing Thompson: an Efficient Algorithm for Thompson Sampling with Non-conjugate Priors,2018,ICML,International Conference on Machine Learning
+Probably Approximately Metric-Fair Learning,2018,ICML,International Conference on Machine Learning
+Neural Program Synthesis from Diverse Demonstration Videos,2018,ICML,International Conference on Machine Learning
+Video Prediction with Appearance and Motion Conditions,2018,ICML,International Conference on Machine Learning
+CRVI: Convex Relaxation for Variational Inference,2018,ICML,International Conference on Machine Learning
+Bayesian Coreset Construction via Greedy Iterative Geodesic Ascent,2018,ICML,International Conference on Machine Learning
+Transformation Autoregressive Networks,2018,ICML,International Conference on Machine Learning
+Learning equations for extrapolation and control,2018,ICML,International Conference on Machine Learning
+Analyzing Uncertainty in Neural Machine Translation,2018,ICML,International Conference on Machine Learning
+Hierarchical Text Generation and Planning for Strategic Dialogue,2018,ICML,International Conference on Machine Learning
+Budgeted Experiment Design for Causal Structure Learning,2018,ICML,International Conference on Machine Learning
+Accurate Inference for Adaptive Linear Models,2018,ICML,International Conference on Machine Learning
+Path-Level Network Transformation for Efficient Architecture Search,2018,ICML,International Conference on Machine Learning
+Progress & Compress: A scalable framework for continual learning,2018,ICML,International Conference on Machine Learning
+Learning Longer-term Dependencies in RNNs with Auxiliary Losses,2018,ICML,International Conference on Machine Learning
+Understanding and Simplifying One-Shot Architecture Search,2018,ICML,International Conference on Machine Learning
+Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents,2018,ICML,International Conference on Machine Learning
+State Abstractions for Lifelong Reinforcement Learning,2018,ICML,International Conference on Machine Learning
+Bounding and Counting Linear Regions of Deep Neural Networks,2018,ICML,International Conference on Machine Learning
+Clipped Action Policy Gradient,2018,ICML,International Conference on Machine Learning
+IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures,2018,ICML,International Conference on Machine Learning
+Inter and Intra Topic Structure Learning with Word Embeddings,2018,ICML,International Conference on Machine Learning
+oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis,2018,ICML,International Conference on Machine Learning
+The Hidden Vulnerability of Distributed Learning in Byzantium,2018,ICML,International Conference on Machine Learning
+Asynchronous Byzantine Machine Learning (the case of SGD),2018,ICML,International Conference on Machine Learning

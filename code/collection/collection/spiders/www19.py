@@ -16,8 +16,7 @@ class Spider_WWW19(scrapy.Spider):
     ]
 
     def __init__(self):
-        # add chrome driver to win10 PATH
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome('../../../chromedriver')
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -31,7 +30,7 @@ class Spider_WWW19(scrapy.Spider):
         for article in articles:
             yield {
                 'title': article.extract().strip(),
-                'year': '2020',
+                'year': '2019',
                 'conf': 'WWW',
                 'conf_long': 'International World Wide Web Conference'
             }
