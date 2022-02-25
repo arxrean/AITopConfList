@@ -16,7 +16,7 @@ The current `list.csv` contains papers from
 
 ### Auto Crawl Paper Titles from Google Scholar with Specific Keywords and Sources
 
-![ezgif-1-4dfdf44652](/Users/ziyikou/Code/AITopConfList/ezgif-1-4dfdf44652.gif)
+![ezgif-1-4dfdf44652](./ezgif-1-4dfdf44652.gif)
 
 I developed a new tool to crawl revelant papers from Google Scholar given keywords and paper sources of interests.
 
