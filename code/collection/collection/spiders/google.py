@@ -19,8 +19,11 @@ class Spider_Google(scrapy.Spider):
 	name = "google"
 
 	def start_requests(self):
-		keywords = ['expert', 'crowd'] # keywords that you want to search in google scholar
-		sources = ['The Web Conference', 'Human Factors in Computing Systems'] # conferences/journals that you want to include
+		keywords = ['fairness'] # keywords that you want to search in google scholar
+		sources = ['The Web Conference', 'Human Factors in Computing Systems', 'Cooperative Work And Social Computing'] # conferences/journals that you want to include
+		sources += ['COMPUTATIONAL LINGUISTICS', 'International Conference on Machine', 'the Association for Computational Linguistics']
+		sources += ['JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE', 'Artificial Intelligence and Statistics']
+		sources += ['SIGGRAPH', 'KNOWLEDGE DISCOVERY AND DATA MINING', 'Research and Development in Information Retrieval', 'European Conference on Computer Vision', 'ACM Multimedia', 'Image Processing', 'Fairness', 'Computer Vision and Pattern Recognition']
 		pages = 5 # pages you want to search (exclusive)
 
 		start_urls = []
